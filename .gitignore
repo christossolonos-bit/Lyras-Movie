@@ -11,3 +11,8 @@ videos/
 # Scratch / logs
 logs_*.txt
 __pycache__/
+
+# RunPod pod id
+.runpod_pod
+*_log.txt
+.runpod_pod_old*
