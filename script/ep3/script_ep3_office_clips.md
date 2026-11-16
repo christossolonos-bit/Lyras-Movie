@@ -17,9 +17,9 @@
 | **A05c** | 8s | Max 768p | Marcus only — DONE | M: “You never told him what you are.” · `A05c_marcus_what_you_are.mp4` |
 | **A06** | 15s | **H3 2K** | Knife / couch — DONE | Chain **A05c last** → couch sit/breath (`A06_sb02`). Lyra VO only. L: “I wanted to know if it was possible.” / M: “And you used a human being to find out.” · `A06_marcus_couch_breath.mp4` |
 | **A07** | **12s** | **H3 2K** | CARE / appear — DONE | A06 last → look-locked eyeline. Lyra cyan appear + L/M/L. `A07_couch_appear_care.mp4` |
-| **A08** | 10s | **H3 2K** | Terms — GEN | Couch from A07. M: “You’re not a kid… big thing to want.” / L: “I know.” · `A08_big_thing_to_want.mp4` |
-| **A09** | 12s | **H3 2K** | Deal — GEN | M: “No more surprises… tell him everything. Today.” / L: “…Today.” · `A09_deal_today.mp4` |
-| **A10** | 12s | **H3 2K** | Exit — GEN | M: “my facility” / L: “my body” / M: “guest… show him around.” Exit → Lyra alone smile. · `A10_guest_show_him.mp4` |
+| **A08** | 10s | **H3 2K** | Terms — DONE | L: “I know what it costs. I still want it.” · `A08_big_thing_to_want.mp4` |
+| **A09** | 12s | **H3 2K** | Deal — DONE | L: “Today. No more half-truths.” · `A09_deal_today.mp4` |
+| **A10** | 12s | **H3 2K** | Exit — DONE | L: “It’s my body, Marcus.” End smile toward door, not camera. · `A10_guest_show_him.mp4` |
 
 **A05 pack cost (speaker-safe):** ~$1.20 + $1.04 + $0.64 ≈ **$2.88** (+ Lyra still ~$0.04)
 

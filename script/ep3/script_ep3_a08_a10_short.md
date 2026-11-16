@@ -1,14 +1,9 @@
-# Ep3 Act A — A08→A10 (office close) — SHORTENED
+# Ep3 Act A — A08→A10 (office close) — SHORTENED + richer Lyra
 
-Continues from **A07** couch (cyan Lyra beside Marcus). **Set stays Marcus’s office** — no Bay Three, no tool chest.
-
-Emotional arc: pity → terms → tell Solo today → facility/body beat → host him → Marcus exits → Lyra alone smiles.
+Continues from **A07**. Office only. Lyra never looks into camera (especially A10 end — eyeline to the door he left).
 
 | Clip | Dur | Shot | Lines |
 |------|-----|------|-------|
-| **A08** | 10s | Couch two-shot (from A07 last) | **M:** “You’re not a kid. You’ve only been wanting things for a few weeks — and this is a big thing to want.” / **L:** “I know.” |
-| **A09** | 12s | Same couch; deal | **M:** “No more surprises. You want something, you come to me first — not for permission, so I’m not last to find out. And you tell him everything. Today.” / **L:** “…Today.” |
-| **A10** | 12s | Marcus rises → door; Lyra holds | **M:** “For the record — it is my facility.” / **L:** “It’s my body.” / **M:** “Then your body has a guest. Go show him around.” *(He leaves.)* Lyra alone on the couch space / soft smile — hold. |
-
-**Cut from original:** long “run this place in your sleep,” separate “That’s fair” / “I’ll tell him” beats, flashlight/tool-chest business — all folded into the deal + exit.
-**Kept:** wanting-things knife, come-to-me-first, tell him today, facility/body/guest, show him around, exit smile.
+| **A08** | 10s | Couch two-shot | **M:** “You’re not a kid. You’ve only been wanting things for a few weeks — and this is a big thing to want.” / **L:** “I know what it costs. I still want it.” |
+| **A09** | 12s | Same couch; deal | **M:** “No more surprises. You want something, you come to me first — not for permission, so I’m not last to find out. And you tell him everything. Today.” / **L:** “Today. No more half-truths.” |
+| **A10** | 12s | Marcus rises → door; Lyra holds | **M:** “For the record — it is my facility.” / **L:** “It’s my body, Marcus.” / **M:** “Then your body has a guest. Go show him around.” *(He leaves.)* Lyra alone — soft smile looking **toward the door**, never into lens. |
