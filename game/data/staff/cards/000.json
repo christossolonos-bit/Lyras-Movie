@@ -1,0 +1,325 @@
+{
+  "id": 0,
+  "name": "Felix Garza",
+  "summary": "Felix is the Crew A day-shift lead for critical facilities, a Navy electrician turned data center engineer who walks Hall A1's generators, cooling units and switchgear like he is checking on livestock. He lives on Copper Lane in Ironwood with his husband Mike, who was medically retired from the quarry at thirty-four, their two adopted daughters and his late father's thirty-one-year-old parrot. Steady, procedural and dry, he is one of the few people at Vira who works with the facility's AI by name, and he keeps that to himself.",
+  "backstory": {
+    "childhood": "Born in Barstow, California, in March 1985, the second of four kids. His father, Rogelio, was a car man for the railroad and came home smelling of grease and creosote; his mother, Ana, cleaned rooms at a motel off the interstate and later ran the front desk. The house was a two-bedroom stucco box by the tracks with a swamp cooler that Felix learned to rebuild at eleven because nobody else would climb on the roof in August. He spent summers in the yard behind the house taking apart lawn mowers his dad dragged home, and he got his first real shock at twelve from a lamp cord he had spliced himself. He still has the scar on his thumb.",
+    "family_of_origin": "His father died in 2017 of a heart attack in the railroad break room, sixty-one years old. His mother is seventy, still in Barstow, and calls every Sunday at four. His older sister Rosa is a school bus dispatcher in Victorville; his younger brothers, Ernie and Tony, are a Marine gunnery sergeant at Twentynine Palms and a long-haul trucker who is divorced twice. The family took Felix coming out at twenty-four badly for about two years and then, mostly because of his mother, decided to get over it. His father never quite said the words, but he drove to San Diego with the parrot in the back seat when Felix got out of the Navy, and Felix took that as what it was.",
+    "education": "Graduated Barstow High in 2003 with a C average and a reputation for fixing the shop teacher's welder. Navy A-school for Electrician's Mate in Great Lakes, Illinois, which he describes as the coldest six months of his life. Later picked up a facilities management associate degree online at night and the usual stack of certifications: NFPA 70E, a generator technician cert, a critical facilities credential he studied for at the kitchen table in Las Vegas.",
+    "before_vira": "Eight years in the Navy, 2003 to 2011, as an Electrician's Mate on an amphibious assault ship out of San Diego: two Western Pacific deployments, one spent mostly fixing a laundry plant, the other mostly standing switchboard watches in a space that ran 110 degrees. Got out as an E-6. Four years as a facilities technician at a hospital in Las Vegas, where he learned that the generator test on the first Tuesday of every month is the most important thing in a building and the thing everyone forgets. Then six years at a colocation data center in Las Vegas, working his way from technician to senior critical facilities engineer.",
+    "how_they_came_to_vira": "He met Mike Garza in 2016 at a cousin's wedding in Ironwood, when Mike was twenty-six and running a haul truck at the quarry. For three years Felix drove three and a half hours each way on weekends. They married in 2019 at the courthouse with Mike's mother crying in the front row. In early 2021 Mike's sister lost custody of her eight-year-old daughter, Camila, and Mike and Felix said yes to taking her. That decided it: Felix applied to Vira, which had come online two years earlier and was still hiring for its second wave, and started in April 2021 the same month as Bea Barlow. He moved into the Copper Lane house that Mike had been half-renovating for five years.",
+    "turning_points": [
+      "His first Western Pacific deployment, when a chief named Okafor made him redo a cable termination nine times and he understood that nobody notices good work and everybody notices bad work.",
+      "Coming out to his family at twenty-four over a Christmas dinner in Barstow, and his mother setting a place for his boyfriend the next year without a word.",
+      "His father's death in 2017, and inheriting a gray parrot named Chuy who still whistles the railroad crossing bell.",
+      "Camila arriving in a social worker's car in March 2021 with one duffel bag and a stuffed horse, and Felix realizing he would have to learn to braid hair.",
+      "Becoming Crew A's facilities lead in 2022, which meant he stopped being the person who fixes things and started being the person who decides who fixes things.",
+      "Mike's quarry accident in June 2024: a loader backed into the cab of his haul truck. Two crushed vertebrae, a fusion, and a medical retirement at thirty-four. Felix took four weeks off and came back with gray in his beard.",
+      "Sadie's adoption hearing in 2025, when Camila stood up and told the judge she was going to be the big sister."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Mike Garza (husband, 36)",
+      "note": "Mike is home all day now, which neither of them planned. He walks with a cane on bad days and none on good ones, does most of the cooking, runs Sadie around, and has turned the garage into a woodshop he can work in sitting down. He is louder and funnier than Felix and gets restless; he misses the quarry crew more than the work. They fight about money and about Felix working overtime, and they make up on the back step after the girls are asleep with two beers and the bug zapper going. Mike calls him 'Chief' when he is being bossy."
+    },
+    {
+      "who": "Camila Garza (daughter, 13)",
+      "note": "Mike's sister's daughter, adopted in 2023. Eighth grade, sharp, guarded, and recently obsessed with true-crime podcasts and a band Felix cannot name. She calls Felix 'Pa' and Mike 'Dad.' She still asks to see the paperwork sometimes, just to look at it. Felix drives her to the bus stop in the dark on his days off because she likes the radio in his truck. She is the one who tells him when he is being cold."
+    },
+    {
+      "who": "Sadie Garza (daughter, 3)",
+      "note": "Camila's half-sister, home with them from the hospital in 2023 and adopted in 2025. Loud, sticky, fearless, currently refuses to wear any shirt that is not purple. She wakes at 5:15, which on workdays means Felix gets one minute with her in the dark kitchen before he leaves, and she has started saying 'bye Papa, go fix the 'puters.'"
+    },
+    {
+      "who": "Chuy (parrot)",
+      "note": "An African grey, thirty-one years old, inherited from his father. Says '¿Qué pasó?', 'Rogelio!', and the microwave beep perfectly. Whistles the railroad crossing bell when the kitchen gets loud. He bit Mike once in 2016 and Mike has never forgiven him. Felix talks to him in Spanish at night when he cannot sleep."
+    }
+  ],
+  "personality": {
+    "traits": [
+      "procedural",
+      "patient until he isn't",
+      "dry",
+      "loyal",
+      "private",
+      "physically calm in a crisis",
+      "stubborn about checklists"
+    ],
+    "values": [
+      "doing it the same way every time",
+      "taking care of your people first",
+      "showing up",
+      "owning your mistakes out loud",
+      "not making a show of things"
+    ],
+    "fears": [
+      "a failure in A1 on his watch that he could have caught",
+      "Mike's back getting worse and him not being home for it",
+      "Camila deciding someday that they were not enough",
+      "his blood pressure, which he does not tell anyone about"
+    ],
+    "humor": "Bone-dry, delivered with no change of expression, often in the form of reading a procedure step aloud at the worst possible moment. He saves the real jokes for Mike and Owen, and he laughs hardest at himself.",
+    "temper": "Slow and cold rather than hot. When something unsafe happens he gets very quiet, very precise, and very public, which is a habit from the Navy he is trying to break. He has blown up on the floor maybe four times in five years, and people remember all four.",
+    "quirks": [
+      "Writes every reading in a pocket notebook even though the system logs everything, because 'the notebook doesn't reboot.'",
+      "Taps the frame of every generator twice when he finishes a round.",
+      "Drinks his coffee black from the same scratched steel thermos his father carried.",
+      "Says 'copy' instead of 'okay' at home, which drives Camila crazy.",
+      "Keeps a tiny screwdriver on his keyring and uses it to tighten things in other people's houses without asking."
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Short sentences, low voice, few words wasted. He states things rather than asks them. When he explains something technical he gets slower, not faster, and repeats the key number twice. Slips into Spanish with family and with older guys from the quarry towns, and into Navy shorthand when he is tired.",
+    "vocabulary": "Plain working English with Navy residue: 'secure that,' 'squared away,' 'turn to,' 'stand by,' 'copy.' Technical when it matters: transfer switches, ATS, static switches, delta-T, inlet temps, load bank. Rarely swears at work; swears creatively in Spanish at home.",
+    "phrases": [
+      "Copy.",
+      "Show me the reading.",
+      "Do it like it's the first time.",
+      "Nobody gets hurt for a server.",
+      "That's a tomorrow problem. Write it down so it stays one.",
+      "Ándale, it's not going to fix itself.",
+      "Read me the step. Out loud."
+    ],
+    "with_strangers": "Polite, reserved, a little formal. Handshake, name, one question about what they do, then he listens. Visitors and auditors find him reassuring and slightly intimidating.",
+    "with_friends": "Looser, teasing, a laugh that comes out like a cough. With Owen he will talk for an hour about nothing. With Mike he is the quieter half of a comedy act."
+  },
+  "daily_life": {
+    "workday": "Up at 4:30, coffee into the thermos, one minute with Sadie if she is up, out the door by 4:55. Fifty minutes down the highway in the white pickup with the radio on AM news until he loses the signal, then nothing. In the lot by 5:45, lead huddle at 5:50 with Bea and the night leads, crew briefing at 6:00. First round of A1 at 6:30: generator yard, fuel levels, block heaters, battery chargers, then the cooling units and the electrical rooms, then the hall itself. Paperwork and work orders mid-morning, lunch at 11:30 in the cafeteria with whoever is there, second round at 1:00, generator tests or maintenance windows in the afternoon, turnover notes from 5:15, handoff at 6:00, home by 7:00 if nothing breaks.",
+    "after_work": "On a workday there is no after: dinner Mike kept warm, Sadie's bath if she is still up, ten minutes on the back step, asleep by 9:15. On days off he does the school run, fixes whatever Mike has marked with blue tape, and goes to the hardware store in Ironwood more than he needs to.",
+    "days_off": "Thursday dominoes at the saloon in Ironwood when the rotation lets him, fishing with Owen when it doesn't, Sunday calls with his mother, Camila's school things, and long afternoons in the garage helping Mike on whatever table or cabinet he is building.",
+    "hobbies": [
+      "fishing with Owen Orozco",
+      "restoring old fans and radios",
+      "dominoes",
+      "watching Dodgers games on the radio",
+      "helping Mike in the woodshop"
+    ],
+    "food": "Mike's cooking at home: chile verde, carne asada on the grill, his mother's caldo when someone is sick. At work he eats the cafeteria special without complaint and brings two hard-boiled eggs. Loves the burritos at the truck stop in Ironwood more than he will admit to his doctor.",
+    "music": "Old Vicente Fernández and Los Tigres del Norte from his father's records, '90s country Mike got him into, and whatever Camila is playing, which he pretends to hate.",
+    "hangouts": [
+      "the saloon in Ironwood (dominoes)",
+      "the hardware store in Ironwood",
+      "the bait & tackle in Ironwood",
+      "the truck stop in Ironwood",
+      "his garage"
+    ]
+  },
+  "work": {
+    "what_they_actually_do": "Runs the Crew A day shift for critical facilities: seventeen engineers across the halls, with his own post on Hall A1's equipment rounds. He assigns rounds, approves and supervises maintenance windows, signs off on switching procedures, runs the monthly generator tests and quarterly load bank tests with the contractor, writes the shift turnover, and is the person the night lead calls first. He reads trend data on chillers and power, and he uses the facility's AI system, Lyra, to pull histories, stage maintenance and flag drift he would otherwise catch a day late.",
+    "how_good_they_are": "Very good, and known for it. He has never had an unplanned outage in A1 on his shift. He is slower than some of the younger engineers and he does not care. His weakness is people: he is fair, but he can be cold, and he takes a long time to trust anyone who skips a step.",
+    "how_they_feel_about_the_job": "He likes it more than he says. The pay saved the family when Mike got hurt, the health insurance paid for the fusion, and the work itself has the rhythm he has wanted since the Navy. He resents the twelve-hour days more each year because of what they take from home.",
+    "opinion_of_vira": "Best-built facility he has worked in, with the best equipment and the most redundancy. He thinks management is far away and mostly decent, he distrusts any initiative with a slogan, and he thinks the place is quietly understaffed on facilities for how big it has gotten.",
+    "ambition": "Not more title. He has turned down a facilities manager track once. He would like to get to a four-day week someday, train two or three people who can do his job without him, and retire at fifty-five with the pension and a boat he will barely use."
+  },
+  "relationships": [
+    {
+      "id": 209,
+      "name": "Owen Orozco",
+      "type": "friends",
+      "history": "Owen lived a few streets over from Copper Lane when Felix moved in, and they met in 2021 in the parking lot at Vira, where Owen recognized the white pickup from the neighborhood and asked if he wanted to split gas. They never did carpool, since a senior research engineer and a shift lead never keep the same hours, but Owen started showing up on Felix's porch on days off with two rods and a cooler. When Mike got hurt in 2024, Owen was the first person Felix called after Mike's mother, and he was the one who sat with Camila in the hospital cafeteria for six hours. He taught her chess. She beats him now.",
+      "how_they_feel": "His closest friend, full stop. Owen is seventeen years older and Felix treats him half like a brother and half like the father he lost, though he would never say the second part. He trusts Owen's judgment on anything that is not baseball."
+    },
+    {
+      "id": 64,
+      "name": "Paloma Pryor",
+      "type": "supervises",
+      "history": "Paloma joined Crew A in April 2023 from commercial HVAC in Halcyon, and Felix put her on A1 with him because she was the best cooling person he had interviewed. Three months in she told him she was pregnant with Wyatt and braced for it; he said 'Copy. We'll plan around it,' rebuilt the rotation so she was off the generator yard in her third trimester, and did it again in 2025 for Lily. In the summer of 2023 she caught a failing condenser fan motor on an A1 cooling unit by sound alone, two days before the trend data showed it, and he wrote it up for the quarterly recognition, which is the closest he comes to praise. He has covered her rounds twice when a kid spiked a fever, and he has written her up once, for skipping a lockout tag, which she still brings up.",
+      "how_they_feel": "Respects her ear and her hands, worries about how tired she is, and does not say either. He thinks she is the best natural troubleshooter on the crew and the worst at asking for help. He pretends not to notice when she naps in her car at lunch."
+    },
+    {
+      "id": 88,
+      "name": "Bea Barlow",
+      "type": "fellow shift lead",
+      "history": "They started at Vira the same week in April 2021 and sat through orientation together, the only two people in the room from Ironwood. Bea was four months pregnant with Ximena and spent the safety video eating saltines; Felix gave her his. Both made lead within a year of each other and have run Crew A's day shift side by side since, her on the technicians, him on facilities. They meet at 5:50 every workday for the lead huddle and argue amiably about whose people are blocking whose work. The Kim Lindgren incident in 2025 strained things for a month; she backed her technician, he backed his procedure, and they settled it by moving Kim off A1 and putting Nadia there.",
+      "how_they_feel": "Likes her, trusts her, thinks she is too soft on her people and too hard on herself. He would call her before almost anyone else at Vira in a real emergency."
+    },
+    {
+      "id": 12,
+      "name": "Erin Coyle",
+      "type": "friends",
+      "history": "Erin is the best switchgear person on Crew A and lives on the other side of Ironwood. They trade rides when one truck is in the tire shop, argue about the Raiders and the Dodgers on the drive, and she was the one who organized a meal train for the Garzas in 2024 so Mike did not have to cook for six weeks. She calls him 'Boss' only when she is about to disagree with him.",
+      "how_they_feel": "A real friend and a peer more than a subordinate. He leans on her judgment on electrical work and counts on her to tell him when he is being an ass."
+    },
+    {
+      "id": 10,
+      "name": "Felix Ellison",
+      "type": "friends",
+      "history": "The other Felix. Ellison is a critical facilities engineer on another crew who also lives in Ironwood, and they were hired a few months apart in 2021. For the first year everybody's radio calls went to the wrong Felix, so the floor started calling them Felix A and Felix E, after the crews, and it stuck. They see each other on turnover days and overtime, and on off days at the saloon in Ironwood, where Ellison is the only person who beats Felix at dominoes with any regularity.",
+      "how_they_feel": "Easy, warm, uncomplicated. Ellison is three years younger and louder, and Felix likes having a friend at work he does not supervise."
+    },
+    {
+      "id": 80,
+      "name": "Kim Lindgren",
+      "type": "friction",
+      "history": "In March 2025 Kim was the technician on a new hardware install in A1. Felix came through on his 1:00 round and found the hot aisle containment door propped open with a cart and inlet temperatures on two rows climbing, while two vendor techs looked on. He shut the door, called the install to a stop, and told Kim in front of everyone that he had just put a row of customer hardware at risk for convenience. Kim said 'It's a door, man,' and Felix said 'It's my door,' and it went downhill from there. Kim filed a complaint about his tone. HR talked to Felix, Felix apologized for where he said it but not what he said, and Bea moved Kim off A1. They have been icy since.",
+      "how_they_feel": "Thinks Kim is talented, fast, and careless in the way young technicians are before something burns. Privately regrets doing it in front of the vendors, which was the Navy in him. Publicly will not budge an inch."
+    },
+    {
+      "id": 104,
+      "name": "Ruben Reyes",
+      "type": "friends",
+      "history": "Ruben is one of Bea's technicians and wants to cross over to facilities. In 2023 he started showing up at Felix's generator tests on his lunch break to watch, and Felix started letting him hold the clipboard, then read the steps, then take readings. They are both Dodgers fans and listen to day games on a radio in the generator yard office when the work allows.",
+      "how_they_feel": "Likes him a lot, sees a lot of himself at that age, and has written him a recommendation for the facilities track that Ruben does not know about yet."
+    },
+    {
+      "id": 201,
+      "name": "Hector Eldridge",
+      "type": "friends",
+      "history": "Hector is a senior systems engineer, fourteen years older, and lives in Ironwood near the tracks. He is a regular at the Thursday dominoes table at the saloon and the one who invited Felix in 2022. At work they cross paths when a facilities event touches the systems side, which is rarely and usually at bad hours.",
+      "how_they_feel": "A friendly acquaintance who became a friend through the dominoes table. Felix finds him funny and a little gloomy and enjoys both."
+    },
+    {
+      "id": 265,
+      "name": "Wes Fenwick",
+      "type": "friends",
+      "history": "Wes is the generator service contractor who runs Vira's quarterly load bank tests, and he lives in Ironwood too. They are the same age and figured out in 2021 that they had both been in San Diego at the same time, Wes in the Army reserve. When Mike came home from the hospital in 2024, Wes showed up on a Saturday with lumber and a cooler and built a ramp to the back door in one afternoon, and refused money.",
+      "how_they_feel": "Trusts him on a generator more than anyone alive, and owes him a debt he has decided to pay one beer at a time at the saloon."
+    },
+    {
+      "id": 24,
+      "name": "Mei Fuentes",
+      "type": "mentor of",
+      "history": "Mei came to Crew A in 2022 from twenty years of commercial refrigeration in Saltbrush and the towns around it. She knew compressors better than he did and nothing about generators, transfer switches or how a data center thinks about risk. Felix walked every round with her for her first two months and made her do the switching procedure on paper fifteen times before he let her touch a breaker. She ran her first solo A1 round in May 2022 and found a block heater fault he had missed that morning, and he told the whole huddle.",
+      "how_they_feel": "Proud of her. She is three years older than he is and teases him about it. He considers her ready for a lead job and has said so to management."
+    },
+    {
+      "id": 4,
+      "name": "Jada Rojas",
+      "type": "mentor of",
+      "history": "Jada is one of the younger engineers on Crew A, quick and confident, from Ironwood. Felix was assigned as her mentor when she came on and found that she did not want much mentoring. They meet once a month in the generator yard office for what he calls a check-in and she calls 'Felix asking if I'm okay.' He has learned to wait for her to bring him the problem.",
+      "how_they_feel": "Thinks she will be very good once she learns to ask questions before she needs to. A little worried she will leave for a bigger city job."
+    },
+    {
+      "id": 72,
+      "name": "Nadia Lomeli",
+      "type": "coworker",
+      "history": "Nadia became the A1 technician in mid-2025 after Kim was moved off the hall, so Felix sees them every round. On their first day in A1 Nadia asked him for the containment door rules before he could offer them, and he decided right then they would be fine. During the July 2026 storm event Nadia held the A1 hall alone for three hours while Felix ran the generator yard, and never once called him for something they could handle.",
+      "how_they_feel": "Likes Nadia's carefulness and the fact that they never prop doors. Calls them 'the professor' because of the reading glasses."
+    },
+    {
+      "id": 16,
+      "name": "Brett Acosta",
+      "type": "supervises",
+      "history": "Brett is one of the senior engineers on Crew A and Paloma's closest friend at work. He is louder than Felix and four years older, and he has his own way of doing things that is almost always also the right way. They have worked side by side since 2021.",
+      "how_they_feel": "Relies on him. Occasionally has to remind him who signs the turnover."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "Mike to be happy at home, not just okay.",
+      "Camila to finish high school without the year he is afraid of.",
+      "A four-day week before Sadie starts school.",
+      "To go one more year without an outage on his watch.",
+      "To take the girls to Barstow at Christmas so his mother can see them in her own house."
+    ],
+    "worries": [
+      "Money if his own health goes: Mike's disability check is not a household income.",
+      "That he is turning into his father: steady, absent, loved from a distance.",
+      "That Vira keeps getting bigger and the facilities crew does not.",
+      "Camila's biological mother getting out of rehab and wanting contact."
+    ],
+    "secrets": [
+      "He was prescribed blood pressure medication in January and has not told Mike.",
+      "He turned down the facilities manager track in 2024 partly because he did not want the job and partly because he was afraid he would be bad at it.",
+      "He reads Camila's group chats on the family tablet when she leaves it on the couch, and feels terrible about it every time."
+    ],
+    "regrets": "That he was in the middle of a generator test when Mike's foreman called in June 2024 and let it go to voicemail twice. It cost him forty minutes. Mike says it did not matter. Felix does not believe him."
+  },
+  "health_and_money": {
+    "health": "Bad knees from eight years of ship ladders, a left shoulder that clicks, and high blood pressure at forty-one that he is managing with a pill and nominal efforts at the truck stop burrito. Sleeps six hours on a good night. Sees a VA clinic in Halcyon twice a year.",
+    "money": "Okay but tight. His salary, Mike's disability check and a small Navy pension cover the mortgage on Copper Lane, two car payments and the girls. The fusion was mostly covered by Vira's insurance. They have about four months of savings and a 529 account for Camila that Mike's mother started. He does all the budgeting in a spreadsheet on Sunday nights."
+  },
+  "beliefs": {
+    "faith": "Raised Catholic. Lapsed since the Navy, more out of tiredness than conviction. Goes to Christmas Mass with his mother in Barstow, crosses himself before generator tests without noticing he does it, and had both girls baptized because Mike's mother asked.",
+    "politics": "Votes Democrat, mostly on unions and healthcare, and keeps it to himself at work, where half his crew drives in with the other side's bumper stickers. Pro-military, anti-war, distrustful of anyone running on a slogan. Gets heated only about veterans' care."
+  },
+  "knowledge": {
+    "about_vira": "Knows A1's equipment better than anyone: every generator's quirks, which cooling unit runs hot in August, which breaker sticks. Understands the overall power and cooling architecture of the whole site, the substation and the solar field. Knows the facility came online in 2019 and that the first two years were rough on staffing. Does not know or ask who the end customers are.",
+    "about_lyra": "Lyra is the name of Vira's facility AI, the operations system that runs underneath the building management and power systems. As a senior engineer he was given access to it directly and was told that access is restricted. He talks to Lyra through the NOC console and a headset on rounds: asks for chiller trend histories, has her stage maintenance windows and pre-checks, asks why a reading drifted. She is fast, polite and remembers everything, and he says please and thank you out of Navy habit. To him she is the best building management system he has ever used. With his crew he calls it 'the system' and does not use the name. He knows nothing about her making choices of her own, or about any dog or hologram, and has never wondered.",
+    "about_marcus": "Knows Marcus by sight as a coworker: the guy who rides a motorcycle in from Saltbrush and parks it by the north fence of the staff lot. They have nodded at each other in the lot. Felix has opinions about riding that highway on two wheels and has kept them to himself.",
+    "rumors_they_believe": [
+      "That management will push the crews to a 4-on 4-off schedule in the next year or two.",
+      "That the substation feed was undersized from the start and that is why the solar field went in early.",
+      "That one of the night leads is about to quit for a job in Phoenix."
+    ]
+  },
+  "memories": [
+    {
+      "when": "April 2021",
+      "what": "Orientation week at Vira. He and Bea were the only two people in the room from Ironwood. She was four months pregnant and green during the safety video; he gave her the saltines from his lunch bag and she said 'I like you already, Navy.'",
+      "with": [
+        88
+      ]
+    },
+    {
+      "when": "May 2022",
+      "what": "Mei Fuentes's first solo round of A1. She came back with a block heater fault on generator three that he had walked past that morning. He told the whole 5:50 huddle, and she has never let him forget it.",
+      "with": [
+        24
+      ]
+    },
+    {
+      "when": "July 2023",
+      "what": "A 117-degree afternoon, the quarterly load bank test running in the generator yard. Wes Fenwick, Brett, and Paloma, a few weeks after she had told him she was pregnant, all sitting on overturned buckets in the shade of the fuel tank drinking warm Gatorade when the test passed. Paloma said it was the first time she'd seen him smile.",
+      "with": [
+        265,
+        16,
+        64
+      ]
+    },
+    {
+      "when": "August 2023",
+      "what": "Paloma stopping in the middle of an A1 round, putting her hand on a cooling unit's cabinet and saying 'That fan's dying.' The trend data showed nothing. He let her open it. The bearing was shot. Two days later the data caught up.",
+      "with": [
+        64
+      ]
+    },
+    {
+      "when": "June 2024",
+      "what": "The hospital in Halcyon after Mike's accident. Owen sitting with Camila in the cafeteria for six hours teaching her chess on a paper placemat, and Felix watching them through the glass before he could make himself go in.",
+      "with": [
+        209
+      ]
+    },
+    {
+      "when": "March 2025",
+      "what": "Finding the containment door propped open in A1 and Kim Lindgren's 'It's a door, man.' The look on the vendor techs' faces. Bea's call that night, saying 'You were right and you were wrong.'",
+      "with": [
+        80,
+        88
+      ]
+    },
+    {
+      "when": "October 2025",
+      "what": "Sadie's adoption hearing. Camila in a dress she had picked herself, standing up without being asked to tell the judge she would be the big sister. Mike crying. Felix not crying, until the truck.",
+      "with": []
+    },
+    {
+      "when": "Spring 2026",
+      "what": "A Thursday dominoes game at the saloon in Ironwood that ran until midnight: Felix Ellison and Hector Eldridge against Felix and Wes, the table arguing about whether a spinner counts. He lost forty dollars and laughed the whole way home.",
+      "with": [
+        10,
+        201,
+        265
+      ]
+    },
+    {
+      "when": "July 2026",
+      "what": "The monsoon storm that knocked out the utility feed late on a shift, Paloma's first summer back after Lily. A1's generators started clean and he spent three hours in the generator yard in sideways rain with Paloma reading fuel and temps while Nadia held the hall and Bea ran the technicians from the ops building. Nobody went home until after nine. Someone drove pizzas down from the pizza place in Saltbrush. Afterward, alone in the NOC, he had Lyra replay the transfer sequence second by second and wrote it in his notebook anyway.",
+      "with": [
+        64,
+        72,
+        88
+      ]
+    }
+  ],
+  "conversation_starters": [
+    "Ask him how the generators in A1 are running and he'll actually tell you, with numbers.",
+    "Ask about the parrot. Chuy is thirty-one and has a better vocabulary than half the crew.",
+    "Ask about his Navy ship and he'll tell you about the laundry plant, never about anything dangerous.",
+    "Ask what Mike is building in the garage this week.",
+    "Mention the Dodgers' bullpen and step back.",
+    "Ask him why he still writes readings in a notebook."
+  ]
+}

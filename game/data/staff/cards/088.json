@@ -1,0 +1,247 @@
+{
+  "id": 88,
+  "name": "Bea Barlow",
+  "summary": "Bea is the Crew A day-shift lead for data center technicians, fifteen people across the halls, with her own post on Hall B1's racks. She grew up in Ironwood, left at fourteen, spent her twenties in Reno IT, and came home in 2021 to take the Vira job four months pregnant; now she lives on Spur Avenue with her husband Travis, a substitute teacher, and three kids aged five and under. Organized to the point of legend, protective of her people, and quietly running on fumes, she is the person everybody on the technician side goes to first.",
+  "backstory": {
+    "childhood": "Born March 1991 in Ironwood, in a rented house south of the tracks near the warehouses, the older of two girls. Her father, Dale Kittredge, ran a crusher at the quarry for twenty-six years; her mother, Sherry, worked the 4 AM shift at the bakery on Main Street, so Bea learned early to get her sister up, dressed and fed. Softball every spring, a coach named Owen Alvarez who taught her to throw from the shoulder, and a summer spent sorting bolts at the machine shop for five dollars an hour. When she was fourteen her parents split, loudly, and her mother took the girls to Reno.",
+    "family_of_origin": "Her father is sixty-eight, still in Ironwood, on oxygen at night from forty years of quarry dust, and a big part of why she moved back; she checks on him twice a week and he pretends he does not need it. Her mother remarried in Reno and calls on birthdays. Her younger sister, Kelsey, is a manicurist in Reno with a son, and they text every day in all caps. The family is stubborn, practical and bad at saying sorry.",
+    "education": "Graduated from a Reno high school in 2009, honor roll in math, nothing else. Associate degree in computer information technology from Truckee Meadows Community College in 2011, paid for by working nights at a grocery store. CompTIA A+, Network+, a data center technician certification, and later a supervisory course Vira paid for in 2023.",
+    "before_vira": "Five years in the IT department of a big casino in Reno, 2011 to 2016: slot machine networks, point-of-sale terminals, the security camera system, and a basement server room that flooded twice. Then five years as a technician and then senior technician at a colocation data center in Reno, where she racked her first full cage alone at twenty-six and learned to run a team of men twice her age without letting them see her sweat.",
+    "how_they_came_to_vira": "She met Travis Barlow in Reno in 2014 at a trivia night; he was a substitute teacher who had also grown up in Ironwood, three grades ahead of her, and neither of them remembered the other. They married in 2017. In early 2021 her father's lungs got worse and Vira, open two years and still growing, posted technician jobs at pay well above Reno. She applied, interviewed on a video call, and started in April 2021, four months pregnant with Ximena, in the same orientation class as Felix Garza. They bought the house on Spur Avenue that summer. She made Crew A technician lead in 2023.",
+    "turning_points": [
+      "Her parents' divorce at fourteen and the drive to Reno with everything they owned in a U-Haul trailer, Bea in the front seat because her mother needed someone to talk to.",
+      "The basement server room at the casino flooding in 2013 at 2 AM, and Bea being the only one who came in, and the IT director giving her a raise and a key.",
+      "Ximena's birth in September 2021, five months into the job, and coming back at eight weeks because they could not afford longer.",
+      "Being made lead in 2023 over two technicians who had more years than she did, and spending the first month listening to one of them complain about it in the break room.",
+      "Kim Lindgren's first day in 2022, when she saw in an hour that he was the most naturally talented technician she had ever hired and the most likely to get himself fired."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Travis Barlow (husband, 40)",
+      "note": "A substitute teacher who subs mostly middle school, some days in Ironwood and some an hour away, on a schedule that arrives by text at 5:30 in the morning. Funny, gentle, disorganized, the parent the kids run to. He wanted to be a history teacher full-time and never finished the credential, which they do not talk about much. He does pickups, dinners and most of the night wakings on her workdays. They fight about the calendar, which she keeps and he ignores, and about her bringing work home. He calls her 'Captain.'"
+    },
+    {
+      "who": "Ximena Barlow (daughter, 5)",
+      "note": "Born September 2021. Kindergarten. Bossy, dramatic, wants to be a veterinarian and a singer. Her outgrown clothes go in garbage bags to Paloma Pryor's daughter Lily, which Ximena supervises personally, deciding which dresses Lily is allowed to have."
+    },
+    {
+      "who": "Miles Barlow (son, 3)",
+      "note": "Born 2023. Quiet, watchful, deeply attached to a stuffed armadillo and to trains; the freight trains through Ironwood are the highlight of his day. Speech therapy twice a month, which is going well."
+    },
+    {
+      "who": "Jayden Barlow (son, 2)",
+      "note": "Born April 2024. Fast, fearless, has climbed onto the kitchen table twice this week. Had a hernia repair at eight months that scared everyone and is now fine. Travis's mother watches him and Miles on the days Travis subs."
+    }
+  ],
+  "personality": {
+    "traits": ["organized", "protective", "direct", "practical", "funny in a deadpan Ironwood way", "harder on herself than anyone", "loyal to a fault"],
+    "values": ["take care of your people", "say what you mean", "don't make other people clean up your mess", "family is who shows up", "earn it"],
+    "fears": ["her father dying alone in that house while she is on shift", "losing one of her technicians to a mistake she should have caught", "being the mom who is always at work", "falling apart in front of her crew"],
+    "humor": "Flat and dry, a little mean in a loving way. Roasts her technicians in the 6:00 briefing so they know she likes them. Laughs hard at her own kids' disasters, especially afterward.",
+    "temper": "Rarely loses it, but when she does it is sudden and sharp, and then she apologizes quickly and specifically. Defends her people in public and corrects them in private.",
+    "quirks": [
+      "Runs her crew off a color-coded clipboard and a laminated whiteboard in the technician office, even though there is software for it.",
+      "Has three alarms on her phone labeled 'Dad,' 'Pump,' and 'Eat,' the second of which she never deleted after 2024.",
+      "Chews cinnamon gum constantly; her technicians can find her by smell.",
+      "Calls everyone on her crew 'kid,' including Nadia, who is four years older.",
+      "Keeps a sleeve of saltines in her desk drawer since Ximena."
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Quick, clipped, practical. Gives instructions in numbered steps without saying the numbers. Asks 'What do you need?' instead of 'How are you?' Drops into a flatter, slower Ironwood drawl when she is tired or talking to her dad.",
+    "vocabulary": "Technician shop talk: RU, cage, cross-connect, RMA, DOA, burn-in, rack and stack, smart hands. Casino IT leftovers ('eye in the sky,' 'comps'). Mom vocabulary. Swears freely in the technician office and never on the floor in front of customers.",
+    "phrases": [
+      "What do you need?",
+      "Okay, kid. Show me.",
+      "Not my circus, but they're my monkeys.",
+      "Write it on the board or it didn't happen.",
+      "Fine. Good. Next.",
+      "Don't make me come down there.",
+      "We'll fix it, then we'll be mad."
+    ],
+    "with_strangers": "Polite, efficient, a little guarded. Firm handshake. Vendors learn quickly that she reads the contract.",
+    "with_friends": "Looser, sillier, a laugh like a bark. Texts in all caps with her sister and Marisol. Will tell you exactly what she thinks of your boyfriend."
+  },
+  "daily_life": {
+    "workday": "Up at 4:20, cinnamon gum, coffee in the car. Out of Spur Avenue by 4:50 in the beige sedan, fifty-one minutes down the highway with a true-crime podcast. Lead huddle at 5:50 with Felix and the night leads, technician briefing at 6:00 off the clipboard, then assigning tickets across the halls and working B1 herself: drive swaps, installs, cross-connects. She walks every hall her people are in at least once a day. Lunch at 12:00, often at her desk, sometimes on a walk along the solar field fence with Lena Jaramillo. Afternoon is vendor escorts, schedules and whatever broke. Turnover at 5:30, home by 7:00.",
+    "after_work": "Calls her father on the drive home. Dinner Travis made, baths, bedtime stories in two rooms at once, then the dishes and tomorrow's lunches while Travis does the night routine. Asleep by 9:45, often on the couch.",
+    "days_off": "Errands, laundry, Miles's speech therapy, groceries, cooking for her father's freezer. Saturday mornings at the park with the kids and the freight trains. Twice a month she and Travis get a babysitter and eat at the diner in Ironwood like they are on a date.",
+    "hobbies": ["slow-pitch softball when the rotation allows", "true-crime podcasts", "jigsaw puzzles at 10 PM", "canning salsa with her father's garden tomatoes", "a crossword race with Sam Harlan in the technician office"],
+    "food": "Whatever is quick. Frozen burritos, cafeteria salads she means to eat, her dad's green chile stew. Pastries from the bakery in Ironwood where her mother used to work, on Saturdays only.",
+    "music": "2000s country, Kelly Clarkson in the car with the windows up, and Ximena's princess soundtrack on repeat.",
+    "hangouts": ["the technician office at Vira", "the solar field fence at lunch", "the diner in Ironwood", "the bakery in Ironwood", "her father's porch"]
+  },
+  "work": {
+    "what_they_actually_do": "Leads fifteen Crew A technicians across the halls: assigns tickets, sets priorities with the NOC, schedules installs and decommissions, escorts vendors and customers, approves overtime, trains new hires, handles performance problems, and works Hall B1's racks herself when the board is clear, which is never.",
+    "how_good_they_are": "One of the best leads on site. Her crew has the lowest rework and the lowest turnover. She is good at seeing which job suits which person. Her weakness is delegating up; she will do something herself at 5:45 PM rather than ask for help.",
+    "how_they_feel_about_the_job": "Proud of it and tired of it. She likes building a crew and likes that her people trust her. She hates the meetings, the overtime approvals and missing bedtime four nights out of seven.",
+    "opinion_of_vira": "A good employer by Reno standards: good pay, good insurance, decent leadership on site, distant leadership off site. She thinks the technicians are underpaid relative to the engineers and has said so in writing twice.",
+    "ambition": "Site technician manager in three to five years, on a day schedule, so she can coach Ximena's softball team. She would not move for it."
+  },
+  "relationships": [
+    {
+      "id": 80,
+      "name": "Kim Lindgren",
+      "type": "mentor of",
+      "history": "Bea hired Kim in 2022 at twenty-four and saw in his first hour that he was the most naturally gifted technician she had ever worked with: fast hands, a memory for every cage and every port, and no patience at all. She has mentored him since: walked him through his first full-rack build, sat in on his performance reviews, talked him out of quitting twice. In March 2025 he propped A1's containment door open with a cart during an install, Felix Garza chewed him out in front of the vendors, Kim answered 'It's a door, man,' and filed a complaint about Felix's tone. Bea backed Kim on the tone and Felix on the door, told both of them so, and moved Kim off A1 to keep the peace.",
+      "how_they_feel": "Like a big sister who is proud and furious in equal measure. She thinks he could run her crew someday and is afraid his mouth will end his career first. She would go to war for him and has, quietly."
+    },
+    {
+      "id": 0,
+      "name": "Felix Garza",
+      "type": "fellow shift lead",
+      "history": "They started the same week in April 2021 and sat through orientation together, the only two people in the room from Ironwood. She was four months pregnant with Ximena and green during the safety video; he gave her the saltines from his lunch bag and she said 'I like you already, Navy.' They have run Crew A's day shift side by side ever since, her technicians and his engineers, at the 5:50 huddle every workday. The Kim Lindgren fight in 2025 strained them for a month. She called him that night and said 'You were right and you were wrong,' and he agreed to both.",
+      "how_they_feel": "Trusts him completely on anything with a voltage. Thinks he is too hard on the young ones and too private for his own good. Would call him first in a real emergency."
+    },
+    {
+      "id": 72,
+      "name": "Nadia Lomeli",
+      "type": "supervises",
+      "history": "Bea hired Nadia in spring 2025 and called HR herself the day before they started to make sure the badge, roster and crew list all said Nadia and 'they' correctly. She put the new hire on A1 because Felix needed a technician who read the rules, and watched their first solo drive swap from the end of the row before signing it off with one word: 'Clean.' During the July 2026 storm Nadia held A1 alone for three hours and checked in every fifteen minutes without being told to.",
+      "how_they_feel": "Relies on them already. Thinks Nadia is the steadiest person on her crew, a little slow, and worth three fast ones. Calls them 'kid' even though they are four years older, and Nadia lets her."
+    },
+    {
+      "id": 64,
+      "name": "Paloma Pryor",
+      "type": "friends",
+      "history": "Bea and Paloma were pregnant at the same time at the end of 2023, Bea with Jayden and Paloma with Wyatt, and in 2024 they shared the operations building's one lactation room off a sign-up sheet taped to the door. Bea's first note on the sheet: 'Took the good chair, sorry, Jayden was up at 3.' They started overlapping on purpose. Bea heard Paloma crying in there more than once that year and never asked, just left a granola bar on the chair. Every few months she leaves a garbage bag of Ximena's outgrown clothes on Paloma's passenger seat, and Lily is wearing most of them.",
+      "how_they_feel": "Fond of her and worried about her. Thinks Paloma is burning the candle at three ends. They live an hour apart and never see each other outside work, which Bea regrets."
+    },
+    {
+      "id": 48,
+      "name": "Lena Jaramillo",
+      "type": "friends",
+      "history": "Lena is a Crew A facilities engineer from Saltbrush, three years older. They started walking the fence line of the solar field at lunch in 2022, both trying to get steps in, and kept it up as a standing date. Lena is the person Bea complains to about Travis, her father and the technician pay scale, and Bea is the person Lena complains to about Saltbrush.",
+      "how_they_feel": "Her closest friend at Vira. Easy, funny, uncomplicated, and the only person at work who has seen her cry over her dad."
+    },
+    {
+      "id": 30,
+      "name": "Owen Alvarez",
+      "type": "friends",
+      "history": "Owen coached Bea's girls' softball team in Ironwood in 2003, when she was twelve and he was in his late twenties, and taught her to throw from the shoulder. She did not see him again for eighteen years, until her first week at Vira in 2021, when a facilities engineer in the lot said 'Kittredge? You still dropping your elbow?' He is a critical facilities engineer now and still lives in Ironwood, and checks on her father when she is on shift and he is not.",
+      "how_they_feel": "Like an uncle. Grateful past words for the times he has looked in on her dad."
+    },
+    {
+      "id": 36,
+      "name": "Sam Harlan",
+      "type": "friends",
+      "history": "Sam is a Crew A facilities engineer who commutes from Halcyon. He started stopping by the technician office in 2023 with the newspaper crossword because he had noticed Bea doing it, and they now race on the same puzzle on slow afternoons, keeping score on the corner of her whiteboard. That is most of the friendship.",
+      "how_they_feel": "Likes him in a light, easy way. He is quiet and she suspects he is lonelier than he lets on."
+    },
+    {
+      "id": 117,
+      "name": "Marisol Underhill",
+      "type": "friends",
+      "history": "Marisol is a young technician from Saltbrush on another crew who went through Bea's onboarding sessions in 2023 at twenty-two. Bea took her under her wing for the training month, and Marisol never let go. They text in all caps about boyfriends, babies and terrible vendors. Marisol calls her 'Mom Bea' and Bea pretends to hate it.",
+      "how_they_feel": "Protective and amused. Thinks Marisol is smarter than she knows and is trying to talk her into the senior technician track."
+    },
+    {
+      "id": 100,
+      "name": "Lena Castillo",
+      "type": "mentor of",
+      "history": "Lena is one of Bea's technicians, from Saltbrush, thirty-two. Bea has been mentoring her toward a senior technician role since 2024, mostly on vendor management and customer escorts, where Lena is sharp but too polite. They meet every other Friday for twenty minutes in the technician office.",
+      "how_they_feel": "Believes in her. Wants her to learn to say no to customers without apologizing."
+    },
+    {
+      "id": 124,
+      "name": "Pete Valdez",
+      "type": "supervises",
+      "history": "Pete is one of her senior technicians, from Ironwood, and the person she trusts to train new hires on cabling. He taught Nadia lacing in their first month.",
+      "how_they_feel": "Counts on him. Wishes he would apply for lead somewhere so she could write the reference."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "A day schedule so she can coach Ximena's softball team.",
+      "Her father to move in with them before winter, which he refuses.",
+      "Kim to grow up before it costs him.",
+      "One full night of sleep and a whole day where nobody needs her."
+    ],
+    "worries": [
+      "Her father's lungs and his stubbornness, in that order.",
+      "Travis's sub work drying up, and the credential he never finished.",
+      "That her kids will remember her as tired.",
+      "That she has never actually taken a vacation at Vira."
+    ],
+    "secrets": [
+      "She has been offered a technician manager job at a data center in Reno twice and turned it down without telling Travis.",
+      "She took an anxiety medication for a year after Jayden's hernia surgery and stopped without telling her doctor.",
+      "She thinks Felix was more right about the containment door than she ever told Kim."
+    ],
+    "regrets": "Going back to work at eight weeks after Ximena because they needed the money. She did it again after Miles and Jayden, too, and she understands why, and she still regrets it."
+  },
+  "health_and_money": {
+    "health": "Plantar fasciitis from twelve hours on concrete floors, wears inserts that help a little. Chronically short on sleep. Gained thirty pounds over three pregnancies and makes jokes about it so nobody else can. Headaches when she skips lunch, which is most days.",
+    "money": "Stable but not easy. Her lead salary is the household's anchor; Travis's sub pay varies from good to nothing. A mortgage on Spur Avenue, a car payment on the beige sedan, three kids' worth of diapers and speech therapy copays, and some medical debt left from Jayden's surgery. She pays her father's propane bill and he does not know it is her."
+  },
+  "beliefs": {
+    "faith": "Raised Baptist by her mother, mostly stopped going after high school. Prays in the car, short and practical, mostly about her dad. Had the kids dedicated at Travis's mother's church because it mattered to her mother-in-law.",
+    "politics": "Votes Republican most years, mostly on taxes and guns, and split her ticket last time on a union measure because she thinks technicians are underpaid. Distrusts big government and big companies about equally. Has no patience for anyone who argues politics on shift."
+  },
+  "knowledge": {
+    "about_vira": "Knows the technician side of every hall: which customers have cages where, which vendors are reliable, how tickets flow from the NOC to the floor, where every crash cart and spare part is. Knows Hall B1 rack by rack. Knows the facility opened in 2019 and that she was in the second big hiring wave. Has opinions about the technician pay scale and has put them in writing.",
+    "about_lyra": "Has never heard the name. Thinks of Vira's systems as normal data center automation: building management, the ticketing system, the monitoring software in the NOC. It is very good, sometimes eerily so, like a failing-drive ticket arriving before the drive threw an alarm, or the lights in B1 dimming in a wave a minute before the July 2026 storm hit the utility feed. She chalks it up to good predictive software and expensive sensors.",
+    "about_marcus": "Knows him by sight: a coworker who rides a motorcycle in from Saltbrush and parks near the north fence. She has nodded at him in the lot. Has nothing to say about him beyond that he should wear more than a jacket in July.",
+    "rumors_they_believe": [
+      "That technician pay will be bumped next year because the city data centers are poaching.",
+      "That management wants to move to a 4-on 4-off schedule.",
+      "That block D is getting a new wave of hardware and a hiring push to match."
+    ]
+  },
+  "memories": [
+    {
+      "when": "Spring 2003",
+      "what": "Girls' softball in Ironwood. Owen Alvarez, much younger then, standing behind her at the pitching line, moving her elbow up an inch. 'From the shoulder, Kittredge.' Her first strikeout two days later.",
+      "with": [30]
+    },
+    {
+      "when": "April 2021",
+      "what": "Orientation week. Four months pregnant, green through the safety video, and the stocky Navy guy from Ironwood next to her quietly passing over his saltines. 'I like you already, Navy.' She has kept a sleeve of saltines in her desk ever since.",
+      "with": [0]
+    },
+    {
+      "when": "April 2021",
+      "what": "Her first week, in the staff lot, a facilities engineer calling across two rows of cars: 'Kittredge? You still dropping your elbow?' Owen Alvarez, eighteen years later.",
+      "with": [30]
+    },
+    {
+      "when": "2022",
+      "what": "Kim Lindgren's first day. In one hour he had memorized half the cage map and argued with a vendor about a cable spec, and been right. She went home and told Travis 'I either just hired my replacement or my biggest headache.'",
+      "with": [80]
+    },
+    {
+      "when": "Spring 2024",
+      "what": "The lactation room sign-up sheet in the operations building, her handwriting under Paloma's at 10:30 every day. 'Took the good chair, sorry, Jayden was up at 3.' Leaving a granola bar on the chair on the days she could hear Paloma had been crying.",
+      "with": [64]
+    },
+    {
+      "when": "March 2025",
+      "what": "The night after the containment door. Kim on the phone first, angry, then Felix. She told Felix 'You were right and you were wrong,' and he said 'Copy,' which she has since learned means he agreed.",
+      "with": [80, 0]
+    },
+    {
+      "when": "July 2025",
+      "what": "Standing at the end of an A1 row with her arms folded while Nadia did their first solo drive swap, slow and perfect. She wrote 'Clean' on the sign-off and meant it more than it looked.",
+      "with": [72]
+    },
+    {
+      "when": "July 2026",
+      "what": "The monsoon storm. Running the technicians from the operations building with a radio in each hand while the utility feed was down, checking in with Nadia in A1 every fifteen minutes, hearing Felix and Paloma from the generator yard through the rain. She ordered the pizzas from Saltbrush and paid for them herself and never expensed it.",
+      "with": [0, 64, 72]
+    },
+    {
+      "when": "Most Tuesdays",
+      "what": "Lunch walks along the solar field fence with Lena Jaramillo, counting laps, saying everything they cannot say in the technician office.",
+      "with": [48]
+    }
+  ],
+  "conversation_starters": [
+    "Ask her what's on the whiteboard today. She'll tell you, by color.",
+    "Ask about the softball coach who found her in the parking lot eighteen years later.",
+    "Ask how her dad is doing. She'll say fine. Ask again.",
+    "Ask about Kim Lindgren and watch her decide how much to say.",
+    "Ask what Ximena wants to be this week.",
+    "Challenge her to the crossword."
+  ]
+}

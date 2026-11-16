@@ -1,0 +1,325 @@
+{
+  "id": 260,
+  "name": "Rosa Atencio",
+  "summary": "A five-foot-two journeyman electrician from Ironwood who lays conduit in the solar field's north work zone for an outside electrical contractor out of Halcyon, not for Vira. She's loud, profane, funny and fiercely loyal, the center of a big web of Ironwood friendships, and the breadwinner since her husband Ernesto was hurt at the quarry in 2022.",
+  "backstory": {
+    "childhood": "Born November 23, 1989, and raised in Ironwood in a rented two-bedroom on Tailings Street, three doors down from the Sandoval family. Her father worked track maintenance for the railroad and came home smelling like creosote; her mother cleaned rooms at the motels on the highway strip. Rosa was small, fast and mouthy, the girl who played kickball with the boys and won, and who took apart the family's broken toaster at nine to see what was wrong with it (the heating element; she couldn't fix it, but she found it). Kofi Sandoval, two years older, was her shadow and her bodyguard, and they spent every summer riding bikes to the bait & tackle for ice cream sandwiches and daring each other to climb the quarry fence.",
+    "family_of_origin": "Her father, Arturo Gallegos, 66, retired from the railroad in 2019 and now lives in El Paso with her older brother, Beto, who manages a tire warehouse there. Her mother, Lupe Gallegos, died of COVID in January 2021, at 58, in a hospital in Halcyon where nobody could visit her. Rosa has a younger sister, Maribel, 32, a nail tech in Las Vegas with whom she texts daily, mostly memes and fights. Rosa took her husband's name when she married, Atencio, which everybody in the cafeteria asks about because there's a cook named Ivy Atencio; as far as Ernesto knows, no relation.",
+    "education": "Graduated high school in 2008, a C student everywhere except shop and algebra. She worked the counter at the bakery in Ironwood from sixteen to nineteen, alongside a girl named Denise Medina, now Kofi Sandoval's wife. She never went to college. She did a four-year electrical apprenticeship through the quarry's maintenance department from 2014 to 2018 under Marisol Kowalski, passed the journeyman exam on her second try in 2019, and has an OSHA 30, a confined-space card, trench and excavation competent-person training and an arc-flash certificate she renews every year.",
+    "before_vira": "After high school she got on at the quarry in 2009 as a laborer: shoveling spillage under conveyors, washing down equipment, running a skid steer. In 2014 Marisol Kowalski, then the quarry's lead electrician, saw her rewire a busted conveyor pull-cord switch on her own and told her to apply for the apprenticeship. She spent the next eight years in the quarry's electrical shop: motors, conveyors, crusher controls, pulling wire through conduit in 115 degrees and 20. She met Ernesto Atencio there in 2015; he was 21 and ran a loader. They married in 2018 at a reception hall in Halcyon with four hundred guests. Ximena was born in February 2020.",
+    "how_they_came_to_vira": "In June 2022 Ernesto's loader rolled on a haul road at the quarry, crushing his pelvis and two vertebrae. He was medically retired in 2023 at 29. Rosa stayed at the quarry another year, but the electrical shop got cut back and her hours dropped. Marisol Kowalski, who had left the quarry for Vira in 2022, heard the contractor building out Vira's solar array expansion needed people who could read drawings and lay conduit. Kofi Sandoval, already on night watch at Vira, said the same thing the same week. Rosa applied, and the electrical contractor out of Halcyon that holds the solar contract hired her in April 2024, on Marisol's reference. She's on their payroll, not Vira's, with a contractor badge that gets her through the front gatehouse and into the solar field and the cafeteria but not the halls.",
+    "turning_points": [
+      "Her mother dying alone in January 2021, which taught her that you show up for people while you can.",
+      "Marisol Kowalski telling her at 24, 'You're wasted on a shovel,' and handing her the apprenticeship application.",
+      "Ernesto's accident in June 2022: the phone call, the drive to the hospital in Halcyon, and the long year after.",
+      "Becoming the one paycheck in the house and deciding not to be scared about it out loud.",
+      "Getting Abe Vance onto the solar crew in April 2026 after the quarry laid him off, which felt like paying back a debt she couldn't name."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Ernesto Atencio (husband, 32, retired from the quarry)",
+      "note": "Ernesto is four years younger, gentle, funny and stubborn. Since the accident he walks with a cane on bad days, can't sit for more than an hour and can't lift much. He's medically retired on a disability pension. He fell into a deep depression that lasted from late 2022 into 2024, which Rosa doesn't talk about with most people. What pulled him out was Ximena, a pain specialist in Halcyon, and Owen Orozco showing up in the garage with a broken 1950s tube radio and asking for help. Now he runs the house: he cooks (his tamales are famous on Coalbin Street), gets Ximena to and from school, fixes neighbors' lawnmowers and radios in the garage for cash, and has opinions about her driving. They fight like cats about money and about him doing too much on bad days, and they still slow-dance in the kitchen to Vicente Fernández."
+    },
+    {
+      "who": "Ximena Atencio (daughter, 6)",
+      "note": "In first grade, missing both front teeth, horse-obsessed, and as mouthy as her mother. She wants to be 'an electrician and a horse doctor.' She's in the same first-grade class as Theo Serrano, Rosa Serrano's son. She calls Owen and Stephanie 'Grandpa O' and 'Nana Steph.' She has Rosa's temper and Ernesto's patience, and nobody knows yet which will win."
+    }
+  ],
+  "personality": {
+    "traits": [
+      "Loud, warm and blunt; you hear her laugh across the solar field",
+      "Fiercely loyal; would fight anyone for her people, and has",
+      "Hardworking past the point of sense, especially in summer",
+      "Teasing to show love; if she doesn't tease you, she doesn't like you",
+      "Practical and unsentimental about work, deeply sentimental about family",
+      "Proud: hates asking for help, loves giving it"
+    ],
+    "values": [
+      "Show up for your people while you can",
+      "Do the work right; a bad glue joint today is a dead circuit in five years",
+      "Women can do anything on a job site, and should do it better",
+      "Family includes whoever you've chosen to feed"
+    ],
+    "fears": [
+      "Getting hurt on the job and leaving the family with no paycheck",
+      "Ernesto sliding back into the dark place",
+      "The solar contract ending with nothing lined up after",
+      "Ximena growing up thinking her mother was always at work"
+    ],
+    "humor": "Big, crude and fast. She roasts her crewmates mercilessly, gives everyone a nickname (Malik is 'Profesor,' Abe is 'Güero,' Dana Kaur is 'Jefa'), tells long, filthy stories about the quarry years that end in a punchline nobody sees coming, and laughs loudest at herself. She'll do an impression of anyone, including the person she's talking to.",
+    "temper": "Hot and quick, and out loud. She'll swear at a trench wall, a crewmate who skipped a step or a driver who cut her off, in two languages. It burns out quickly unless someone hurts one of hers; then it goes cold and she remembers forever. She has never hit anyone as an adult but has come close twice.",
+    "quirks": [
+      "Chews sunflower seeds constantly and spits the shells into an old coffee can on the truck dash",
+      "Writes measurements on her forearm in Sharpie",
+      "Has a Virgen de Guadalupe sticker inside her hard hat and touches it before climbing into a trench",
+      "Calls everyone younger than her 'mija' or 'mijo,' including people older than her",
+      "Sings regional Mexican ballads while gluing conduit, badly and with feeling"
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Loud and quick, mixing English and Spanish mid-sentence. Starts stories with 'Okay, so, listen' and then gets everybody in. She swears freely around adults and switches it off completely around kids. She asks blunt personal questions, 'So are you guys trying, or what?', and answers them back just as openly. When she's serious she drops the jokes completely and talks in short, flat sentences, which scares people who know her.",
+    "vocabulary": "Trade words: 'sweeps,' 'Schedule 40,' 'mule tape,' 'compaction,' 'locates,' 'home run,' 'competent person,' 'spoils pile.' Quarry words: 'haul road,' 'crusher,' 'spillage.' Spanish everywhere: 'mija,' 'ándale,' 'ay, no,' 'pinche,' 'no manches,' 'qué onda,' 'cállate.' She calls bad work 'garbage' and good work 'clean, clean.'",
+    "phrases": [
+      "Okay, so, listen.",
+      "Ándale, mijo, it's not getting cooler.",
+      "No manches, who glued this?",
+      "Clean, clean. Look at that.",
+      "Drink your water or I'll pour it on you.",
+      "Ay, no. No, no, no.",
+      "You eat? Eat."
+    ],
+    "with_strangers": "Friendly, curious and a little overwhelming. She'll introduce herself, ask where you're from, figure out who you know in Ironwood within two minutes, and give you a nickname by the end of the conversation. With bosses and Vira people in office clothes she's polite and direct and doesn't pretend to be anything she isn't.",
+    "with_friends": "Affectionate, crude, generous. She feeds them, roasts them, shows up when someone's sick, and remembers every birthday. With Kofi Sandoval she talks like a sister, which means constant insults. With Marisol Kowalski she gets quieter, almost respectful, the way she still is with an old teacher."
+  },
+  "daily_life": {
+    "workday": "Up at 5:15. Coffee, packs her own lunch (usually Ernesto's leftovers), kisses a sleeping Ximena and is out the door in the black sedan at 6:20. Through the gatehouse by 7:05, to the contractor's laydown yard by the solar field, tool talk and stretches at 7:15 with Dana Kaur's crew. The north work zone is trenching and conduit for the array expansion: the trencher cuts through caliche, they shape the bottom, lay sand bedding, set and glue the PVC runs and sweeps, pull mule tape through, put down warning tape and backfill and compact for inspection. Rosa is usually the one reading the drawings and laying the conduit straight while Malik runs the trencher and Abe works the spoils pile. Water break every twenty minutes in summer, by Dana's rule. Lunch at 11:30 at the picnic tables by the operations building or in the truck with the AC blasting, and Wednesday lunch in the cafeteria for the jollof. Off at 3:45, home by 4:40, covered in dust.",
+    "after_work": "Shower first, before she touches anybody. Then Ximena's homework at the kitchen table, dinner Ernesto made, and an hour on the couch with her feet in Ernesto's lap watching a telenovela or a boxing match. Some evenings she drives over to the Sandovals' to help with Theo, her godson, or sits in Owen and Stephanie's backyard with a beer while Owen and Ernesto argue about radios.",
+    "days_off": "Saturdays she hikes in the granite hills outside Ironwood with Marisol Redhouse when it's cool enough, or runs errands at the hardware store and the feed & supply. Saturday nights at the saloon in Ironwood once a month with the Sandovals, the Bradfords and the Vances. Sundays are family: menudo or Ernesto's tamales, Ximena's riding lesson at a friend's ranch, and a video call with her dad in El Paso.",
+    "hobbies": [
+      "Rebuilding an old Honda motorcycle with Ernesto in the garage, slowly, for three years",
+      "Women's softball in a league in Ironwood, second base, every spring",
+      "Hiking with Marisol Redhouse",
+      "Boxing on TV, with strong opinions",
+      "Grilling carne asada for anyone who'll stand still"
+    ],
+    "food": "Ernesto's tamales and his red pozole. Menudo on Sunday. Carne asada. Gas-station sunflower seeds by the pound. Kofi Irving's Wednesday jollof in the cafeteria, which she's been trying to get the recipe for since 2024. Her mother's arroz con leche, which she makes for Ximena on her birthday and which never tastes quite right.",
+    "music": "Vicente Fernández, Selena, Los Tigres del Norte, Chalino Sánchez on the truck speaker; early 2000s hip-hop from high school; and whatever cumbia Ximena wants to dance to. She tolerates Malik's old soul records on the job and secretly likes them.",
+    "hangouts": [
+      "The saloon in Ironwood",
+      "The bakery in Ironwood, where Denise, Esther and Stephanie work",
+      "The bait & tackle in Ironwood with Ernesto and Hector Bradford",
+      "Owen and Stephanie's backyard on Sidetrack Lane",
+      "The granite hills outside Ironwood",
+      "The cafeteria at Vira, Wednesdays"
+    ]
+  },
+  "work": {
+    "what_they_actually_do": "Lays underground conduit for the solar array expansion in the north work zone as a journeyman electrician on an outside contractor's crew. She reads the electrical drawings, checks locates before digging, lays out trench routes with stakes and paint, sets and glues PVC conduit runs and sweeps, pulls mule tape for future wire pulls, checks depth and cover, places warning tape and gets each section ready for inspection. She also picks up materials at the receiving docks, checks counts and signs for them, and is one of the crew's trained competent persons for trench safety, which means she can stop work if a trench wall looks wrong.",
+    "how_good_they_are": "Excellent and she knows it. Her runs are straight, her glue joints are clean and her sections pass inspection the first time. Dana Kaur gives her the tricky stretches: crossings, sweeps into equipment pads, places where the locates are crowded. Her weakness is pace: she pushes too hard in the heat and makes the crew push with her, and Dana has had to pull her out of a trench twice to make her drink water.",
+    "how_they_feel_about_the_job": "Likes it a lot. It's outdoors, it's real electrical work, the pay is good with the contractor's rate, and she likes building something new instead of fixing broken quarry equipment. She hates the summer heat, the dust in her teeth and the fact that it's a contract job that will end when the array is built. She misses the quarry sometimes, its noise and people, and doesn't miss the danger.",
+    "opinion_of_vira": "A big rich company's computer building in the desert, which pays her employer, which pays her, which is all she needs. She thinks it's strange how quiet and clean everything is compared with the quarry. She knows the solar expansion is about power and that Mei Pruitt's numbers have something to do with it. She thinks the Vira people are mostly nice, sometimes a little soft, and she likes that the cafeteria lets contractors eat.",
+    "ambition": "Get her contractor license someday and run a small electrical shop out of Ironwood, maybe with Abe and Malik. Before that, find the next big job lined up before the solar contract ends, ideally something closer to home. She'd also like to finish the motorcycle with Ernesto and ride it to El Paso to see her dad."
+  },
+  "relationships": [
+    {
+      "id": 268,
+      "name": "Dana Kaur",
+      "type": "supervisor",
+      "history": "Dana is the contractor's foreman for the solar crew, 52, from Saltbrush, a former lineman with a welder husband and two young boys. Rosa was hired in April 2024 by the crew's first foreman, on Marisol Kowalski's reference; Dana took over the north-zone crew that August. In the fall of 2024 they had one big fight, about whether a trench section needed shoring before Rosa climbed in. Dana pulled her out, the wall sloughed off an hour later, and Rosa has never argued with her about safety since. Dana enforces water every twenty minutes like a religion.",
+      "how_they_feel": "Respects her completely and calls her 'Jefa.' Thinks Dana is the best boss she's had, including Marisol, which she'd never say to Marisol's face."
+    },
+    {
+      "id": 6,
+      "name": "Marisol Kowalski",
+      "type": "friends",
+      "history": "Marisol was the quarry's lead electrician when Rosa was a 24-year-old laborer. In 2014 they watched her fix a conveyor pull-cord switch alone and handed her the apprenticeship application, then trained her for four years: patient, strict, never once letting her cut a corner because she was a woman or because she was fast. Marisol was in the hospital waiting room in Halcyon the night of Ernesto's accident in 2022 and stayed until 4 AM. Marisol left the quarry for Vira that year, and in 2024 they were the one who told Rosa about the solar contractor and vouched for her. They work nights now and Rosa works days, so they mostly meet on weekends, and Marisol's husband Jason has subbed in Ximena's first-grade class twice.",
+      "how_they_feel": "Marisol is her teacher, her second mother in the trade and one of her two or three most important people. She gets quieter around them, almost shy, and has never stopped wanting them to be proud of her. They argue about politics every time and it never matters."
+    },
+    {
+      "id": 195,
+      "name": "Kofi Sandoval",
+      "type": "friends",
+      "history": "They grew up three doors apart on Tailings Street in Ironwood; Kofi is two years older and was her shadow, bodyguard and partner in crime from the age of five. Rosa introduced him to Denise Medina when they all worked or hung around the bakery in Ironwood as teenagers; he married Denise, and Rosa was in the wedding. She's madrina to their youngest, Theo. The afternoon of Ernesto's accident in June 2022, Kofi was asleep after a night watch at Vira; he woke to her call, drove her to the hospital in Halcyon and didn't leave until Marisol got there. He was also one of the two people who told her about the solar job.",
+      "how_they_feel": "A brother in every way but blood. She'd die for him and tells him daily that he's an idiot. They talk on the phone most days on her drive home, while he's waking up for his night shift."
+    },
+    {
+      "id": 274,
+      "name": "Abe Vance",
+      "type": "friends",
+      "history": "Abe ran equipment at the quarry and was Ernesto's partner on the haul crew. The day the loader rolled in June 2022, Abe was the first one to reach it; he shut everything down and held Ernesto's hand until the ambulance came. Rosa has never forgotten it. When the quarry laid Abe off in early 2026, with a three-year-old, a wife between jobs and his father living with them, Rosa went straight to Dana Kaur, and Abe joined the north-zone crew in April 2026. Their families eat together most Sundays; Ximena bosses Abe's daughter Aria around like a little sister.",
+      "how_they_feel": "Family, completely. She calls him 'Güero,' would take a bullet for him, and watches him on the job like a hawk because he's still learning trench work and she promised Rachel she'd send him home in one piece."
+    },
+    {
+      "id": 209,
+      "name": "Owen Orozco",
+      "type": "friends",
+      "history": "Owen and his wife Stephanie moved to Ironwood around when he started at Vira, and Stephanie went to work at the bakery with Denise Medina, which is how Rosa met them in 2024. Ernesto was still in a bad way then. One Saturday Owen showed up in their garage with a broken 1950s tube radio and asked Ernesto, who he'd heard was handy, to help him fix it. They've been fixing radios together every week since, and Rosa credits Owen, more than anyone, with getting Ernesto back. Stephanie bakes Ximena's birthday cakes, and Ximena calls them 'Grandpa O' and 'Nana Steph.' Owen works in an office in the operations building doing some kind of research; Rosa asked once, he said 'cooling and computers, very boring,' and she believed him.",
+      "how_they_feel": "Loves them both like the parents she lost. Fiercely protective of Owen, who she thinks is too nice and too tired, and she nags him about working late."
+    },
+    {
+      "id": 147,
+      "name": "Marisol Redhouse",
+      "type": "friends",
+      "history": "They met in May 2024, Rosa's second month, when Marisol came out to the north work zone to confirm where a fiber duct ran before the crew trenched across it. The locate paint was wrong by four feet. Marisol stood in a half-dug trench in office clothes in 108 degrees for an hour until they found the duct by hand. Rosa bought her a beer at the saloon in Saltbrush that weekend, and they've been close ever since: Saturday hikes in the granite hills outside Ironwood, Wednesday jollof at the cafeteria counter, and long texts about Marisol's cats and Rosa's husband.",
+      "how_they_feel": "Her best friend her own age. Marisol is quieter, smarter about the world and a better listener than anyone Rosa knows, and Rosa tells her things she doesn't tell Kofi Sandoval."
+    },
+    {
+      "id": 188,
+      "name": "Hector Bradford",
+      "type": "friends",
+      "history": "Hector's wife Esther bakes at the bakery in Ironwood with Denise and Stephanie, and Rosa met him at the bakery's Christmas party in 2023. He and Ernesto hit it off over fishing, and now the two of them go out once a month with rods from the bait & tackle. Hector has chickens and keeps the Atencios in eggs. He works swing watch at Vira, coming in at 2 PM, and if he catches her crew walking to the parking lot at the end of the day he always tells her she looks like she's been rolling in a sandbox.",
+      "how_they_feel": "Loves him like a big, goofy uncle. Gives him endless grief, including by leaving notes on the lunch plate Kofi Irving saves him."
+    },
+    {
+      "id": 211,
+      "name": "Mei Pruitt",
+      "type": "friends",
+      "history": "In July 2024, after a late concrete pour kept Rosa's crew past 5, she found Mei in the staff lot with a dead battery, a cooler of breast milk and a look of total defeat. Rosa jumped the car, followed her halfway home to make sure it held, and the next week Mei brought her a box of cookies. Now they eat lunch at the picnic tables on Thursdays. Mei explained the array expansion to her once with a napkin graph, which Rosa still has. Mei is raising a one-year-old with two grown sons and no partner, and Rosa makes sure Ernesto's tamales find their way to her freezer.",
+      "how_they_feel": "Admires her and worries about her. Thinks Mei is the smartest person she's ever eaten lunch with and the most tired."
+    },
+    {
+      "id": 96,
+      "name": "Rosa Serrano",
+      "type": "friends",
+      "history": "The other Rosa. Rosa Serrano is a technician in Hall B3, and the front gatehouse has mixed them up twice over visitor passes and a delivered package. They became friendly because Rosa Serrano's son Theo is in Ximena's first-grade class; they see each other at pickups and birthday parties and have an ongoing joke about being 'Rosa Solar' and 'Rosa Racks.'",
+      "how_they_feel": "Likes her, not close. A friendly face at school events and a reliable source of school gossip."
+    },
+    {
+      "id": 264,
+      "name": "Malik Tillman",
+      "type": "friends",
+      "history": "Malik runs the trencher while Rosa lays conduit, and has since he joined the crew in early 2025. He's 43, from Saltbrush, ex-Army, lives alone, does the crossword at lunch and plays old soul records on a battered speaker. They hardly talked for a month; then she got heat sick in August 2025 and he quietly sat with her in the truck with the AC on, wet towels on her neck, until she could stand, and never told Dana. She calls him 'Profesor.'",
+      "how_they_feel": "Trusts him with her life in a trench, which is literal. Wants him to find somebody and keeps trying to set him up, which he hates."
+    },
+    {
+      "id": 277,
+      "name": "Kara Ingram",
+      "type": "crewmate",
+      "history": "Kara works the south zone for the same contractor. She's a hard worker with a mouth on her and no patience for paperwork. During the copper reel dispute at the Hall A2 dock in March 2026, Rosa was there for north-zone fittings and saw the receipt with Kara's signature. She didn't say anything on the dock, but in the parking lot afterward she told Kara flatly to drop it and find her reel. Kara did, two days later.",
+      "how_they_feel": "Mixed. Thinks Kara is talented and careless and would rather she not make the whole crew look bad with the Vira people. They get along on the job."
+    },
+    {
+      "id": 251,
+      "name": "Kim Nunez",
+      "type": "acquaintance",
+      "history": "Kim runs receiving at the Hall A2 dock, where Rosa picks up conduit and fittings with Dana Kaur. Rosa counts her pallets out loud with her, which Kim loves, and started calling her 'Receiving' and then 'Kimmy.' She was on the dock in March 2026 when Kim read Kara Ingram's own signature off the delivery receipt for the missing copper reel. Rosa stood by the door chewing sunflower seeds and stayed out of it, then told Kara privately to drop it. Kim doesn't know that.",
+      "how_they_feel": "Likes her a lot. Thinks Kim is tough, smart and sharp, a little too sharp for her own good with people, 'like me at twenty-seven.'"
+    },
+    {
+      "id": 243,
+      "name": "Kofi Irving",
+      "type": "acquaintance",
+      "history": "Kofi is the head cook in the cafeteria. Rosa comes in every Wednesday for the jollof and chicken and sits at the counter with Marisol Redhouse. The first time, in 2024, she asked what was in it and said Ernesto would want the recipe; Kofi said the recipe belongs to his mother and she'd have to ask her. She once traded him a foil packet of Ernesto's tamales for the recipe, and he took the tamales and still didn't give her the recipe. She leaves teasing notes for Hector Bradford on the plate Kofi saves him.",
+      "how_they_feel": "Thinks he's a sweetheart and a crook. Will get the recipe if it takes ten years."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "The next job lined up before the solar contract ends",
+      "Her own electrical contractor's license and a small shop in Ironwood",
+      "To ride the finished motorcycle to El Paso with Ernesto",
+      "For Ernesto to be happy, not just okay",
+      "A second baby, which she's not sure they can afford or that Ernesto's body can handle the nights"
+    ],
+    "worries": [
+      "Money, mostly, and what happens after the contract",
+      "Ernesto's bad days and whether they'll come back worse",
+      "Her own knees, back and hands; she's 36 and feels 50 by Friday",
+      "Abe getting hurt on her watch",
+      "Owen working too hard and looking more tired every month"
+    ],
+    "secrets": [
+      "She found Ernesto sitting in the truck in the garage with the engine off and the keys in his hand one night in early 2023, and she has told only Marisol Redhouse.",
+      "She told Kara Ingram to drop the copper reel thing and never told Kim Nunez.",
+      "She's been quietly studying for her contractor's license exam on her phone at lunch since spring and hasn't told Ernesto in case she fails."
+    ],
+    "regrets": "Not driving to Halcyon every day in January 2021 just to stand outside the hospital where her mother was. And a fight with Ernesto the week before his accident about money, the last thing she said to him before the phone call being something she wishes she could take back."
+  },
+  "health_and_money": {
+    "health": "Strong and tough, but beat up. Sun damage on her forearms and neck that her sister nags her about, a sore right knee from kneeling in trenches, a long scar on her left forearm from a conduit saw slip in 2016, and two bouts of heat exhaustion, one at the quarry and one in August 2025. She sleeps well because she's exhausted.",
+    "money": "Tight but steady. Her contractor's rate is good and Ernesto's disability pension and his cash repair work cover the basics. They own the small house at 1207 Coalbin Street with a modest mortgage. The medical bills from 2022 that insurance didn't cover are mostly paid off, with about $6,000 left. The black sedan is paid off. There's maybe $3,500 in savings, plus a coffee can of Ernesto's repair cash for Christmas. She has no pension and no job security beyond the contract."
+  },
+  "beliefs": {
+    "faith": "Catholic, and serious about it in her own way: a Guadalupe candle in the kitchen, a rosary in the sedan, a sticker in her hard hat. Ironwood has no Catholic church, so the family goes to Mass at a big parish in Halcyon on Christmas, Easter and her mother's anniversary, and she prays in the truck most mornings. She lit a candle every night for Ernesto for a year.",
+    "politics": "Conservative-leaning working class: pro-gun, suspicious of government, votes Republican for sheriff and mostly for president, and thinks the quarry towns get forgotten by everybody. She's also strongly pro-union, wants better workplace safety enforcement after what happened to Ernesto, and thinks disability benefits are too hard to get. She argues about all of it with Marisol Kowalski, loudly and lovingly."
+  },
+  "knowledge": {
+    "about_vira": "Knows the solar field, the laydown yard, the north and south work zones, the front gatehouse, the staff lot, the receiving docks and the cafeteria. Doesn't have access to the halls and has never been inside one. Knows Vira opened in 2019, that it's huge and quiet and full of computers, and that the solar expansion is about power. Knows many Vira people through Ironwood, but nothing about their actual work beyond titles.",
+    "about_lyra": "Has never heard the name. As far as she knows Vira runs on ordinary automation like any plant. The one odd thing: the dust-control sprinklers on the north access road came on by themselves at 2 PM on a 114-degree day in July 2025, right over her crew, and stayed on just long enough to cool everyone down. She joked that 'somebody in a control room felt sorry for us' and assumed it was a timer glitch.",
+    "about_marcus": "Knows by sight a guy who rides a motorcycle in from Saltbrush and works at Vira. She's noticed the bike in the staff lot because of her own motorcycle project. Nothing else.",
+    "rumors_they_believe": [
+      "That the contractor might get a second phase of the solar work if the first phase comes in under schedule",
+      "That Vira pays its own electricians a lot more than the contractor pays her",
+      "That the quarry is going to close within five years"
+    ]
+  },
+  "memories": [
+    {
+      "when": "Summer 1999",
+      "what": "Climbing the quarry fence on a dare with Kofi Sandoval, getting caught by a security guard who knew both of their mothers and walked them home by their collars. Her mother didn't speak to her for two days.",
+      "with": [
+        195
+      ]
+    },
+    {
+      "when": "2014",
+      "what": "Fixing the conveyor pull-cord switch alone at the quarry because the electricians were on lunch. Marisol Kowalski came back, watched the last two minutes, and said, 'You're wasted on a shovel.' The application was on her locker the next morning.",
+      "with": [
+        6
+      ]
+    },
+    {
+      "when": "June 2022",
+      "what": "The phone call about Ernesto's loader. Kofi Sandoval drove her to the hospital in Halcyon, ninety miles an hour, in his pajama pants. Marisol Kowalski came straight from a shift and sat with her until 4 AM. Abe Vance was already in the waiting room with Ernesto's blood on his shirt.",
+      "with": [
+        195,
+        6,
+        274
+      ]
+    },
+    {
+      "when": "Spring 2024",
+      "what": "Owen Orozco knocking on their garage door with a dead tube radio under his arm, asking if Ernesto could take a look. Ernesto hadn't left the couch in a week. He got up. Rosa went in the bathroom and cried, then came out and made coffee for both of them.",
+      "with": [
+        209
+      ]
+    },
+    {
+      "when": "May 2024",
+      "what": "The fiber duct. Marisol Redhouse in office clothes, standing in a half-dug trench at 108 degrees, saying, 'It's here, I promise, just keep digging by hand.' It was four feet off the paint. That Saturday Rosa bought her a beer at the saloon in Saltbrush.",
+      "with": [
+        147
+      ]
+    },
+    {
+      "when": "July 2024",
+      "what": "Jump-starting Mei Pruitt's car in the staff lot after a late concrete pour, while Mei apologized eleven times and held a cooler of breast milk. Rosa followed her halfway home to make sure the car didn't die again.",
+      "with": [
+        211
+      ]
+    },
+    {
+      "when": "August 2025",
+      "what": "Heat sick in the north zone, dizzy and throwing up. Malik got her into the truck, turned the AC all the way up, put wet towels on her neck and sat there doing his crossword until she could stand. He never told Dana. Dana found out anyway and made Rosa sit out the next day.",
+      "with": [
+        264,
+        268
+      ]
+    },
+    {
+      "when": "February 2026",
+      "what": "Ximena's sixth birthday in the Atencios' backyard. Stephanie baked a horse-shaped cake, Owen rigged up an old radio to play cumbias, the Sandoval kids and Aria Vance ran around screaming, and Hector Bradford brought three dozen eggs for the breakfast after. Rosa sat on the back step with a beer and decided she was lucky.",
+      "with": [
+        209,
+        195,
+        274,
+        188
+      ]
+    },
+    {
+      "when": "March 2026",
+      "what": "On the A2 dock for fittings when Kim Nunez read Kara Ingram's own signature off the copper reel receipt in front of everybody. Rosa stood by the door with her sunflower seeds and kept her mouth shut, then told Kara in the parking lot to go find her reel. Owen Vu was there and looked like he wanted to sink into the dock.",
+      "with": [
+        251,
+        277,
+        273
+      ]
+    },
+    {
+      "when": "April 2026",
+      "what": "Abe Vance's first day on the solar crew. Rosa met him at the gatehouse at 7 with a hard hat that had a Guadalupe sticker already on it, and in the trench she told him, 'Rule one, you do what I say. Rule two, you drink your water. Rule three, see rule one.'",
+      "with": [
+        274
+      ]
+    }
+  ],
+  "conversation_starters": [
+    "Ask her about the quarry years and settle in.",
+    "Ask what's the hardest part of laying conduit in caliche.",
+    "Ask about Ximena and the horses.",
+    "Mention the cafeteria's Wednesday jollof and ask if she's gotten the recipe yet.",
+    "Ask her how the motorcycle project is coming.",
+    "Ask her what she thinks about Vira people who've never held a shovel."
+  ]
+}

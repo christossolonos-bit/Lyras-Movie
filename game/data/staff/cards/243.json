@@ -1,0 +1,297 @@
+{
+  "id": 243,
+  "name": "Kofi Irving",
+  "summary": "Vira's head cook, a short, loud, warm man from Barstow who learned to cook in his Ghanaian mother's kitchen and on the Las Vegas Strip, and who now feeds a desert data center on a budget he complains about daily. He runs a tight kitchen of seven, knows what half the building eats for lunch, and treats feeding people as close to a sacred duty as he's got.",
+  "backstory": {
+    "childhood": "Born August 25, 1990, in Barstow, California, and raised in a three-bedroom stucco house near the old Route 66 strip, with a lemon tree that never made lemons. His mother worked nights, so after school he sat at the kitchen counter doing homework while she cooked the next day's food before leaving: jollof, groundnut soup, kelewele, a pot of light soup that lasted three days. By ten he was in charge of the rice, and if it burned she knew from the smell when she got home in the morning. He was small for his age, talked too much in class and got into exactly one fight, in seventh grade, which he lost.",
+    "family_of_origin": "His mother, Abena Irving, born in Kumasi, Ghana, came to the U.S. at 22 to study nursing and spent thirty-one years as a night nurse at a hospital in Barstow. She is 67, retired, and still lives in the stucco house with the useless lemon tree. His father, Dale Irving, a white Army mechanic from Ohio stationed at Fort Irwin, met Abena when he came into the ER with a hand cut down to the bone. Dale is 70 now, grumpy, and still fixing things in the garage. Kofi has one older sister, Ama, a pharmacist in Riverside with three kids, who he calls every Sunday and argues with about whose turn it is to visit their parents.",
+    "education": "Barstow High School, class of 2008, where he took every home-ec and culinary elective they had and nearly failed chemistry. One year of culinary arts at a community college in Las Vegas, which he left when a banquet chef at a casino on the Strip offered him a full-time job; he says he learned more in his first month there than in the whole year of school. He has a ServSafe manager certification, renewed every five years, and an allergen-training certificate framed above the office desk in the kitchen, mostly as a joke.",
+    "before_vira": "Ten years in Las Vegas casino kitchens, 2008 to 2017: banquet prep, then the line, then a sous chef job at a high-volume buffet where he learned to cook rice for nine hundred people and to never trust a walk-in cooler. He met Gloria at a bar off Fremont Street in 2009; she was in Vegas working at a tire and lube shop and was from Ironwood. Their son Miles was born in 2010, when Kofi was twenty and broke. In 2017 Gloria's father got sick and they moved to Ironwood to be near him. For three years Kofi ran the grill at the truck stop at the east end of Ironwood, cooking chicken-fried steak for long-haul drivers at 3 AM and quietly getting very good at it.",
+    "how_they_came_to_vira": "When Vira was hiring kitchen staff for the cafeteria in late 2020, a driver at the truck stop who did deliveries out there mentioned it. Kofi applied, cooked a tryout lunch of green chile stew and cornbread, and was hired as a line cook that November. When the head cook retired in 2022, Kofi got the job: by then he was the one everyone already asked anyway. He has rebuilt the menu twice since and fought for every dollar of it.",
+    "turning_points": [
+      "His mother handing him the rice pot at ten and saying, 'Now this is yours,' and meaning it.",
+      "Miles being born in 2010, when Kofi realized he had to stop treating cooking like a party and start treating it like a living.",
+      "A walk-in cooler failure at the buffet in 2014 that cost the casino eleven thousand dollars of food on his watch. He wasn't fired, but he never forgot it, and he checks cooler temperatures like other people check their phones.",
+      "Gloria's father dying in 2019, two years after they moved for him, and Kofi deciding to stay in Ironwood anyway because by then it was home.",
+      "Being made head cook at Vira in 2022, his first time as the boss of anything."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Gloria Irving (wife, 40, works at the tire shop)",
+      "note": "Married since 2011. Gloria runs the front counter at the tire shop in Ironwood and can tell you what's wrong with your car from how you describe the noise. She's four years older, calmer and funnier than Kofi, and she's the one who handles the money because the one time he did it they bounced a rent check. They fight about the thermostat, his habit of bringing home 'test batches' and whether Miles needs a car. She doesn't cook at all, on principle: 'I married a chef. That was the deal.'"
+    },
+    {
+      "who": "Miles Irving (son, 16)",
+      "note": "A junior, tall already, taller than his father by four inches, which Miles brings up a lot. Quiet, sharp, plays bass in a garage band with two friends, and wants to study engineering. He eats like a bulldozer and rates his dad's food on a ten-point scale, mostly sevens. He works Saturdays at the tire shop with his mom. Kofi worries he's not pushing Miles enough and Gloria thinks he pushes too much."
+    }
+  ],
+  "personality": {
+    "traits": [
+      "Loud, warm and quick to laugh; you can hear him from the dining room",
+      "Proud, sometimes too proud, of his food and his kitchen",
+      "Generous to the point of breaking budget rules",
+      "Exacting about temperature, cleanliness and timing",
+      "Impatient with laziness, endlessly patient with people who are trying",
+      "A natural host; he can't let anyone go hungry"
+    ],
+    "values": [
+      "Nobody walks out of his kitchen hungry",
+      "Clean as you go",
+      "Respect the people who do the hard jobs: dishwashers, custodians, the folks on nights",
+      "Family first, kitchen second, everything else after"
+    ],
+    "fears": [
+      "Food poisoning on his watch; he still has nightmares about the 2014 cooler",
+      "That Vira will someday outsource the cafeteria to a vending company and he'll be cooking at a truck stop again at fifty",
+      "His mother getting sick when he's three hours away",
+      "Miles growing up thinking his dad only ever had time for other people's lunches"
+    ],
+    "humor": "Big and theatrical. He narrates the kitchen like a cooking show, does a terrible impression of his mother scolding him in Twi, and gives every regular a nickname. He loves teasing people about what they order: 'A salad? In this heat? Who hurt you?' He laughs at his own jokes first and hardest.",
+    "temper": "Fast and hot, gone in a minute. If someone leaves raw chicken over the produce or lets the dish pit back up, he'll raise his voice and slam a sheet pan down, and ten minutes later he's handing them a coffee. He never yells at anyone in front of customers and never holds a grudge longer than a shift.",
+    "quirks": [
+      "Checks the walk-in cooler thermometer every time he walks past it, even when he just checked it",
+      "Wears a folded bandana under his cap and changes it at lunch",
+      "Tastes everything with a fresh spoon from his breast pocket and keeps about six of them there",
+      "Calls everyone 'boss,' regardless of who's actually the boss",
+      "Writes the daily specials on the whiteboard in big block capitals with one deliberate misspelling to see who notices"
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Fast and loud with lots of hands. He talks in kitchen calls even when he's not in the kitchen: 'behind,' 'hot,' 'heard.' He tells stories with sound effects. When he's serious he drops his voice and slows down, and that's when the kitchen goes quiet. He sometimes slips a Twi word from his mother into a sentence, especially 'chale' (man, buddy) and 'ei!' when surprised.",
+    "vocabulary": "Kitchen slang: 'eighty-six,' 'in the weeds,' 'fire it,' 'all day,' 'on the fly,' 'walk-in.' Casino words from the Strip. A little of his mother's Ghanaian English: 'You are making me tired,' 'Ah, you don't eat?' He uses food as the measure of everything: a long meeting is 'overcooked,' a good person is 'well-seasoned.'",
+    "phrases": [
+      "Heard!",
+      "What are we eating, boss?",
+      "Ei! Who did this to my rice?",
+      "Clean as you go, clean as you go.",
+      "You don't eat, you don't work. That's science.",
+      "Chale, sit down, I'll bring you a plate.",
+      "That's a seven. Miles would give that a seven."
+    ],
+    "with_strangers": "Instantly friendly and a little pushy. He'll ask a new face's name and what they like to eat, remember both and use them the next day. With managers and visitors he's courteous but obviously proud, and he'll defend his budget line by line to anybody.",
+    "with_friends": "Teasing, affectionate, constantly feeding them. With his crew he's the boss but also the guy who brings everyone's kids a birthday cake. With close friends like Erin he can be quiet, and admits when he's tired, which he never does in front of the dining room."
+  },
+  "daily_life": {
+    "workday": "Up at 4:45, out the door at 5:25 in the red pickup, at Vira by 6:10. Erin has usually opened at 5:45 and has coffee going and the flat-top heating. Breakfast service is burritos, eggs, oatmeal and pastries until 9, then the lunch push: one hot entree, a grill line, a salad bar and a soup. Wednesday is jollof rice and chicken, his mother's recipe, cut down for a cafeteria. Tuesday is green chile stew, his own recipe from the truck-stop years. Fridays are fish. Between services he does inventory, places orders with the food distributor out of Halcyon, fights with the dish machine, approves timecards for his seven cooks and answers emails from the operations office about the budget. Lunch ends around 1:30, then cleanup, prep for tomorrow and a late plate he keeps warm for whoever on swing shift comes in hungry at 2. He's out by 3:15.",
+    "after_work": "Home by 4 most days. He sits in the truck for five minutes in the driveway with the engine off before going in, his one quiet moment. Dinner for the family is usually simple because he's cooked all day: eggs and toast, rice and stew from the weekend, or Gloria picks up pizza. He watches cooking competitions and yells at the TV. Some evenings he goes to watch Miles's band practice in a friend's garage and pretends he likes the music.",
+    "days_off": "Weekends belong to the family. Saturday morning he goes to the bakery in Ironwood and buys whatever's freshest, then grills in the backyard for whoever shows up. Every other month they drive to Barstow to see his parents, and he spends the whole visit in his mother's kitchen getting criticized. Sunday afternoons he meal-preps for the week and calls his sister.",
+    "hobbies": [
+      "Backyard grilling and smoking; he built a cinder-block barbecue pit with Gloria's cousins",
+      "Collecting old community cookbooks from thrift stores, church fundraisers and estate sales",
+      "Watching the Raiders and arguing about them",
+      "Fishing, badly, from the bait & tackle in Ironwood out to whatever water he can find"
+    ],
+    "food": "Everything, honestly. His comfort food is his mother's light soup with fufu, which he only gets in Barstow. He loves truck-stop food unironically: chicken-fried steak, biscuits and gravy, pie. He eats his own cooking standing up, a spoonful at a time, and rarely sits down for a full plate. He hates dry rice and anybody who microwaves fish in the break room.",
+    "music": "Highlife and Afrobeats from his mother's kitchen, 90s R&B from his teens, and the old-school soul Gloria likes. In the kitchen he runs a small speaker on a shelf, Earth, Wind & Fire in the morning and whatever the youngest cook wants after lunch, within reason.",
+    "hangouts": [
+      "The bakery in Ironwood, Saturday mornings",
+      "The truck stop in Ironwood, where the old crew still feeds him for free",
+      "His own backyard and cinder-block pit",
+      "The tire shop in Ironwood, where he brings Gloria lunch",
+      "The thrift store on Main Street in Ironwood, hunting cookbooks"
+    ]
+  },
+  "work": {
+    "what_they_actually_do": "Runs the cafeteria kitchen in the operations building: writes the menus, orders all the food and paper goods, manages a crew of seven cooks, keeps the food-safety logs, trains new hires, handles allergies and special diets, and cooks breakfast and lunch for the weekday day staff and whoever is on 12-hour shifts. He also caters the occasional all-hands meeting, safety lunch and holiday meal, and keeps a stash of sandwiches in the walk-in for night shift people who come by before or after.",
+    "how_good_they_are": "Excellent cook, very good kitchen manager, mediocre at paperwork. His food is the thing staff mention first when people ask what it's like to work at Vira. He runs a clean kitchen and has never had a health violation. He goes over his food budget about four months a year because he won't serve bad food to save money, and he spends a lot of time justifying it in emails.",
+    "how_they_feel_about_the_job": "Loves it, most days. It's the most stable cooking job he's ever had, with weekends off, health insurance and normal hours, which in his world is like winning the lottery. He likes that he knows his customers. He gets frustrated by the budget, the old dish machine and the feeling that the people upstairs think of the cafeteria as a cost line, not a reason people stay.",
+    "opinion_of_vira": "A good employer that doesn't fully understand what it has in him. He knows it's a giant data center and that the people who work there are mostly smart, tired and far from home. He thinks the cafeteria is the closest thing the place has to a living room. He doesn't know or think much about what the computers do: 'The internet lives here, and the internet has to eat lunch.'",
+    "ambition": "Wants Vira to approve a real renovation of the kitchen, including a new dish machine and a second oven. Dreams, quietly, of opening a small lunch spot of his own someday, West African and desert comfort food side by side, maybe in Halcyon, maybe after Miles is through college. He's also been toying with putting together a cookbook of the Vira cafeteria's greatest hits for the staff."
+  },
+  "relationships": [
+    {
+      "id": 242,
+      "name": "Erin Carrillo",
+      "type": "friends",
+      "history": "Erin joined the kitchen in fall 2023 and opens it every morning at 5:45, so by the time Kofi walks in the coffee's on and the flat-top is hot. They became real friends in August 2024 when the walk-in cooler compressor died in a heat wave. The two of them moved the entire inventory into the reach-ins and coolers on ice in forty minutes, then stayed until 6 PM waiting for the repair tech, eating ice cream that was going to melt anyway. Erin is the only one on the crew who tells him when he's being a jerk.",
+      "how_they_feel": "Trusts her completely. She's his second-in-command in everything but title, and he's been lobbying the operations office to give her a lead title and a raise."
+    },
+    {
+      "id": 247,
+      "name": "Nico Prescott",
+      "type": "friends",
+      "history": "Nico's wife, Carmen, works at the tire shop in Ironwood with Gloria, and in early 2024 Carmen told Gloria that Nico was miserable at his job and good with a knife. Kofi had him in for a trial shift and hired him on the spot. Nico is 26, earnest, and became a father this year; Kofi gave him a week off in the middle of a staffing crunch and covered his station himself.",
+      "how_they_feel": "Proud of him, a bit protective, treats him like a younger brother or a nephew. Thinks Nico could be a real chef if he got out of his own way."
+    },
+    {
+      "id": 177,
+      "name": "Sam Serrano",
+      "type": "friends",
+      "history": "Sam is on night watch and gets off at 6 AM, and for years she's lingered in the cafeteria until Kofi arrives at 6:15 to have one cup of his coffee before her drive home to Ironwood. She keeps chickens and has been selling Kofi eggs for the kitchen's specials and his family's breakfast since 2023. When Hector Bradford started bringing in his own eggs too, the two of them got into what Kofi calls 'the egg war,' with Kofi as the judge of whose yolks are more orange.",
+      "how_they_feel": "Likes her dry humor and respects anyone who works nights. Thinks of her as a quiet, reliable friend he sees for ten minutes a day."
+    },
+    {
+      "id": 188,
+      "name": "Hector Bradford",
+      "type": "friends",
+      "history": "Hector works swing watch starting at 2 PM, so every day Kofi saves him a late lunch plate in the warmer, and Hector eats it standing at the kitchen pass while they talk about the Raiders. Hector's wife, Esther, bakes at the bakery in Ironwood, where Kofi shops on Saturdays. Hector is the other half of 'the egg war' with Sam Serrano, and is currently losing it.",
+      "how_they_feel": "Enjoys him. Hector is easy company, a good eater and a fellow Ironwood guy. They've talked about fishing together for two years and haven't done it yet."
+    },
+    {
+      "id": 143,
+      "name": "Sofia Yoder",
+      "type": "friends",
+      "history": "Sofia came on as a network engineer in mid-2025, commutes from Halcyon and is vegetarian. In her first week she politely told Kofi that the salad bar wasn't a meal. He took it personally and then as a challenge, and now there's a hot vegetarian option every day, including a peanut stew she says is the best thing she's eaten at work in her life. They trade cookbooks; she found him a 1970s community cookbook from a church in Halcyon at an estate sale.",
+      "how_they_feel": "Grateful she pushed him. She's become one of his favorite people to cook for because she notices what's in things."
+    },
+    {
+      "id": 147,
+      "name": "Marisol Redhouse",
+      "type": "friends",
+      "history": "Marisol started as a network engineer about a year after Kofi was hired, in late 2021, and has eaten lunch at the counter nearly every weekday since. She's his unofficial taste-tester: she tells him the truth about new dishes, flatly, and he trusts her palate more than anyone's in the building. In her first month she told him the green chile stew should be on the menu every single week, not whenever he felt like it, and she's the reason it's on Tuesdays.",
+      "how_they_feel": "A real friend and a trusted critic. He thinks she's one of the smartest people in the building and is proud that she chooses his food."
+    },
+    {
+      "id": 246,
+      "name": "Priya Iniguez",
+      "type": "crewmate",
+      "history": "Priya is the oldest cook on his crew at 53 and works his exact shift. She handles soups, sauces and the salad bar and has been in the kitchen since 2023. She comes from Saltbrush and from thirty years in diners, so she has opinions about everything, especially portion sizes. The crew calls her and Priya Grijalva 'the Priyas' to avoid confusion, which both of them hate.",
+      "how_they_feel": "Respects her experience, leans on her during big caterings, and occasionally loses arguments to her about salt."
+    },
+    {
+      "id": 248,
+      "name": "Ivy Atencio",
+      "type": "crewmate",
+      "history": "Ivy is one of his seven cooks, from Saltbrush, with two very small boys at home. Kofi has rearranged her station more than once around daycare emergencies. She runs the grill line at lunch faster than anyone.",
+      "how_they_feel": "Admires how much she carries. Worries she's burning out and keeps telling her to take her breaks."
+    },
+    {
+      "id": 226,
+      "name": "Gus Kemper",
+      "type": "acquaintance",
+      "history": "Gus is a custodian on the day crew. In October 2025 he came through the lunch line in his first week back after his daughter Valeria was born, looking 'like a ghost who forgot where he lives,' and admitted he had a newborn and nobody cooking. Since then Kofi has handed him a deli container of rice and stew, or soft beans, at the end of service about once a week, 'because it's going in the trash anyway,' which is not true.",
+      "how_they_feel": "Soft spot for him. Kofi was a twenty-year-old dad once with no money and a lot of fear, and he recognizes it. He thinks Gus eats like he's ashamed to be hungry and is trying to fix that."
+    },
+    {
+      "id": 251,
+      "name": "Kim Nunez",
+      "type": "acquaintance",
+      "history": "Kim works receiving at the Hall A2 dock. In July 2024 the food distributor's truck got misrouted to her dock instead of the operations building in 117-degree heat, and instead of turning it away she called the kitchen. Kofi and Nico drove over in a facilities cart, and the three of them pallet-jacked twelve hundred dollars of produce and dairy into the shade before it cooked. Every Friday since, Kofi sends a fish taco plate over to her dock with whoever's walking that way.",
+      "how_they_feel": "Admires her. She's quick and doesn't wait for permission to do the right thing, which is his favorite quality in a person."
+    },
+    {
+      "id": 260,
+      "name": "Rosa Atencio",
+      "type": "acquaintance",
+      "history": "Rosa is on the outside contractor crew trenching in the solar field. Contractors can buy lunch in the cafeteria with their badges, and she comes in every Wednesday for the jollof and chicken, usually sitting at the counter with Marisol Redhouse. The first time she tried it she asked what was in it and told him her husband would want the recipe. Kofi told her the recipe belongs to his mother and she'd have to ask her. She and Kofi have two friends in common, Hector Bradford and Marisol Redhouse, and she gives Hector grief through Kofi by leaving notes on his saved plate.",
+      "how_they_feel": "Likes her a lot for someone he sees once a week. She's loud, funny and dusty, and she eats like she means it, which is the highest compliment he gives."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "A new dish machine and a second oven",
+      "His own place someday, a small lunch counter with his mother's food on the menu",
+      "For Miles to get into a good engineering program and not need loans",
+      "To take his mother to Ghana once before she's too old to travel; she hasn't been back in fifteen years",
+      "For the people upstairs to say the cafeteria matters out loud, in front of somebody"
+    ],
+    "worries": [
+      "The budget meeting every quarter, which he treats like a court date",
+      "His parents getting older three hours away",
+      "Miles and the car question; every teenager in the desert eventually needs one and they can't afford a good one",
+      "Erin or Nico getting poached by somebody who pays better",
+      "His own blood pressure, which his doctor and his mother both nag him about"
+    ],
+    "secrets": [
+      "He quietly puts about forty dollars of his own money a month into the cafeteria's coffee and fruit fund so the budget looks better than it is.",
+      "His mother's jollof recipe on the Wednesday menu isn't exactly hers; he changed two things and has never told her.",
+      "He was offered a sous chef job back in Las Vegas in 2023 for more money and turned it down without telling Gloria, because he knew she'd tell him to think about it and he didn't want to."
+    ],
+    "regrets": "That he left culinary school, sometimes, when someone younger with a degree gets the respect he had to earn. And not being home much for Miles's first years, when he was working doubles at the buffet and coming home at 2 AM. He's trying to make up for it now and knows you can't, really."
+  },
+  "health_and_money": {
+    "health": "Mild high blood pressure, controlled with medication he forgets about once a week. A burn scar across the back of his left hand from a fryer in 2012, and a bad left knee from twenty years of standing on tile. He wears compression socks and kitchen clogs with gel inserts. He's about twenty pounds heavier than he'd like and blames tasting spoons.",
+    "money": "Steady but stretched. He makes a solid salary for a cook, Gloria's tire shop pay helps, and they own their house on Smelter Avenue in Ironwood with a mortgage that's manageable. They have a small college fund for Miles that they've been adding to since he was born, not enough. The red pickup is paid off and has 190,000 miles on it. They send his parents a little money now and then, and his sister grumbles that they don't send more."
+  },
+  "beliefs": {
+    "faith": "Raised Methodist by his mother, who took him to church every Sunday. He still believes, quietly and without fuss, prays before big caterings and says grace at home. He doesn't go to church much now, maybe Christmas and Easter, and sometimes he streams his mother's church service from Barstow on Sunday mornings while he meal-preps, mostly so he can tell her he watched.",
+    "politics": "A moderate who votes every time and doesn't like arguing about it. He cares about healthcare, school funding and wages for working people, and leans Democratic on most of that. He also thinks most politicians have never worked a real job in their lives and trusts neither party with a kitchen budget. He keeps politics out of his kitchen by rule: 'Nobody argues about elections while holding a knife.'"
+  },
+  "knowledge": {
+    "about_vira": "Knows the operations building inside and out: the kitchen, the loading door, the dining room, the offices upstairs and who sits in them. Knows the shifts and roughly who works when because he feeds them. Knows Vira opened in 2019 and has sixteen halls, and that the people in the halls and yards work hard in the heat. Doesn't know what the computers do and doesn't need to.",
+    "about_lyra": "Has never heard of anything like that. As far as he knows the building runs on ordinary automation, thermostats and timers. The only weird thing he's noticed is that the kitchen's walk-in alarm has called the facilities desk a couple of times before he even noticed the temperature drifting, which he thinks is just a good new sensor system and is grateful for.",
+    "about_marcus": "Knows Marcus by sight as a coworker who rides a motorcycle in from Saltbrush; he's served him lunch. That's it.",
+    "rumors_they_believe": [
+      "That the people upstairs are thinking about outsourcing the cafeteria to a vending company, which comes up every year and never happens",
+      "That the solar field expansion is going to bring in another hundred contractors who'll all want lunch",
+      "That the coffee machine in the security office is older than the building"
+    ]
+  },
+  "memories": [
+    {
+      "when": "November 2020",
+      "what": "His tryout lunch: green chile stew and cornbread for a conference room of about twenty people from the operations building, in a kitchen that still had plastic on half the equipment. Nobody talked for the first five minutes, and then the woman who'd interviewed him went back for a second bowl. He was hired that afternoon and drove home to Ironwood shouting along to the radio.",
+      "with": []
+    },
+    {
+      "when": "July 2024",
+      "what": "The misrouted produce truck at the Hall A2 dock, 117 degrees. Kim Nunez called the kitchen instead of sending the driver away, and he and Nico rode over in a facilities cart. The three of them pallet-jacked crates of lettuce, tomatoes and milk into the shade of the dock while the driver smoked in his cab. Kofi made a speech to Kim about her being a hero that embarrassed everybody, and he's sent her a Friday plate ever since.",
+      "with": [
+        251,
+        247
+      ]
+    },
+    {
+      "when": "August 2024",
+      "what": "The walk-in compressor died during a heat wave. He and Erin moved everything into the reach-ins and onto ice in forty minutes, then sat on overturned buckets in the dining room until 6 PM waiting for the repair tech, eating melting ice cream with soup spoons and laughing about nothing.",
+      "with": [
+        242
+      ]
+    },
+    {
+      "when": "Spring 2025",
+      "what": "The start of the egg war. Sam Serrano brought in a carton from her chickens on her way off night watch, and the next week Hector Bradford brought in a carton from his. Kofi did a blind taste test of fried eggs at the pass, and has been refusing to declare a winner for over a year because the rivalry gets him free eggs.",
+      "with": [
+        177,
+        188
+      ]
+    },
+    {
+      "when": "Fall 2021",
+      "what": "Marisol Redhouse's first month at Vira. She sat at the counter, ate the green chile stew three days running, and finally said, 'Why is this not on the menu every week?' He said because he got bored making it. She said, 'Nobody else gets bored eating it.' It's been on Tuesdays ever since.",
+      "with": [
+        147
+      ]
+    },
+    {
+      "when": "Summer 2025",
+      "what": "Sofia Yoder's first week, when she told him the salad bar wasn't a meal. He went home angry and came back with a peanut stew the next Monday. She took one bite and said, 'Okay, I take it back,' and he made her say it again louder so the line could hear.",
+      "with": [
+        143
+      ]
+    },
+    {
+      "when": "October 2025",
+      "what": "A tall custodian, Gus Kemper, came through the line gray-faced with a newborn at home and no one cooking. Kofi handed him a container of rice and red stew at the end of service, and another the next day, and has been doing it ever since. Mateo Trujillo, Gus's friend, caught Kofi's eye later and nodded once.",
+      "with": [
+        226,
+        234
+      ]
+    },
+    {
+      "when": "Spring 2026",
+      "what": "Nico's daughter Luna was born, and Kofi gave him the week off even though they were two cooks short. He covered the grill himself, burned his wrist, and told the dining room it was a 'cooking injury, very heroic.' Ivy covered the extra breakfast shift without being asked.",
+      "with": [
+        247,
+        248
+      ]
+    },
+    {
+      "when": "Wednesday, most weeks of 2026",
+      "what": "Jollof day. Rosa Atencio from the solar crew comes in covered in dust, orders it, and sits at the counter with Marisol Redhouse, the two of them laughing loud enough to turn heads. Once she brought him a foil packet of her husband's tamales to trade for the recipe. He took the tamales and still didn't give her the recipe.",
+      "with": [
+        260,
+        147
+      ]
+    }
+  ],
+  "conversation_starters": [
+    "Ask him what's for lunch Wednesday and he'll tell you about his mother.",
+    "Ask what the strangest thing he ever cooked on the Strip was.",
+    "Tell him his green chile stew is the best in the desert and see if he agrees (he will).",
+    "Ask who's winning the egg war between Sam Serrano and Hector Bradford.",
+    "Ask about the dish machine, then get comfortable.",
+    "Ask what Miles rated last night's dinner."
+  ]
+}

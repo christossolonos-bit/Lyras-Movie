@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lyra — World</title>
+  <style>
+    html, body { margin: 0; height: 100%; overflow: hidden; background: #05090d; font-family: system-ui, "Segoe UI", Arial, sans-serif; }
+    canvas { display: block; }
+    .panel { position: fixed; color: #e8f6ff; background: rgba(6, 14, 22, .6); border-left: 3px solid #36e0ff; pointer-events: none; }
+    #hud { top: 12px; left: 12px; padding: 10px 14px; font-size: 13px; line-height: 1.55; min-width: 190px; font-variant-numeric: tabular-nums; }
+    #hud b { color: #36e0ff; font-weight: 600; letter-spacing: .12em; }
+    #help { bottom: 12px; left: 12px; padding: 8px 12px; font-size: 12px; line-height: 1.6; }
+    #help kbd { color: #36e0ff; font-family: inherit; font-weight: 600; }
+    .hidden { display: none; }
+    #follow { right: 12px; bottom: 12px; padding: 10px 14px; font-size: 13px; line-height: 1.55; min-width: 230px; }
+    #follow b { color: #36e0ff; letter-spacing: .12em; }
+    #minimap { position: fixed; top: 12px; right: 12px; border: 1px solid rgba(54, 224, 255, .4); }
+    #loading { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #e8f6ff; background: #05090d; z-index: 10; }
+    #loading h1 { font-weight: 200; letter-spacing: .6em; color: #36e0ff; margin: 0 0 14px; }
+  </style>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.169.0/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.169.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <div id="loading"><h1>LYRA</h1><div id="loadmsg">Loading…</div></div>
+  <div id="hud" class="panel"></div>
+  <div id="follow" class="panel hidden"></div>
+  <canvas id="minimap" width="240" height="122"></canvas>
+  <div id="help" class="panel">
+    <kbd>Click</kbd> look around &nbsp; <kbd>WASD</kbd> move &nbsp; <kbd>Space</kbd>/<kbd>C</kbd> up/down &nbsp; <kbd>Shift</kbd> fast &nbsp; <kbd>Wheel</kbd> speed<br>
+    <kbd>F</kbd> fly/walk &nbsp; <kbd>[</kbd> <kbd>]</kbd> scrub time &nbsp; <kbd>T</kbd> fast clock &nbsp; <kbd>L</kbd> live time &nbsp; <kbd>G</kbd> Vira's gate &nbsp; <kbd>V</kbd> follow a commuter &nbsp; <kbd>B</kbd> nearest car &nbsp; <kbd>E</kbd> follow a worker &nbsp; <kbd>U</kbd> into a data hall &nbsp; <kbd>Q</kbd> quality &nbsp; <kbd>H</kbd> hide help<br>
+    <kbd>1</kbd> Vira &nbsp; <kbd>2</kbd> Saltbrush &nbsp; <kbd>3</kbd> desert highway &nbsp; <kbd>4</kbd> aerial &nbsp; <kbd>5</kbd> at the gate &nbsp; <kbd>6</kbd> substation &nbsp; <kbd>7</kbd> west wall &nbsp; <kbd>8</kbd> rooftops &nbsp; <kbd>9</kbd> Halcyon &nbsp; <kbd>0</kbd> Nova's house &nbsp; <kbd>-</kbd> Ironwood &nbsp; <kbd>=</kbd> Juno's place &nbsp; <kbd>`</kbd> James's rover<br>
+    Inside, on foot: <kbd>I</kbd> Vira lobby &nbsp; <kbd>O</kbd> ops room &nbsp; <kbd>M</kbd> Marcus's office &nbsp; <kbd>P</kbd> server aisle &nbsp; <kbd>J</kbd> Juno's workshop &nbsp; <kbd>K</kbd> Juno's loft &nbsp; <kbd>N</kbd> Nova's living room
+  </div>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

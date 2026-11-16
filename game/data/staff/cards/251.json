@@ -1,0 +1,296 @@
+{
+  "id": 251,
+  "name": "Kim Nunez",
+  "summary": "A fast-talking, sharp-eyed receiving clerk at the Hall A2 dock who can tell a damaged crate from forty feet and keeps a chain of custody tighter than most people keep their checkbooks. At 27 she's raising a four-year-old in Saltbrush with her boyfriend, finishing a logistics certificate online, and refusing to be anybody's pushover, especially Kara Ingram's.",
+  "backstory": {
+    "childhood": "Born March 2, 1999, in Pahrump, Nevada. She grew up in a doublewide on a dirt road with her mom and her mom's on-and-off boyfriends, and a yard full of other people's car parts. She was the kid who organized everything: color-coded her school binders, alphabetized her mom's DVDs, ran the snack stand for her middle school's basketball games and kept a ledger nobody asked for. She was suspended once in ninth grade for telling a teacher, accurately, that he'd graded her test wrong, and how. Her best memories are of the summers her grandmother took her to the swap meet on Saturdays and let her haggle.",
+    "family_of_origin": "Her mother, Tammy Nunez, 49, works the cashier's cage at a casino in Pahrump and has for twenty years. They love each other and fight constantly, mostly on the phone. Kim's father, Raul Nunez, was a construction framer from Las Vegas who moved back to Sonora when she was six; she has his last name, his skin and a single photo of him holding her at the Hoover Dam. Her grandmother, Bev, who taught her to haggle and to count change backward, died in 2019. Kim has a half-brother, Tyler, 19, who lives with their mom and is 'figuring it out.' People at Vira ask her all the time if she's related to Shane Nunez on the custodial crew. She isn't, as far as either of them knows.",
+    "education": "Pahrump Valley High School, graduated 2017, a solid B student who was very good at math she could use and bored by everything else. Two semesters at the College of Southern Nevada in business, dropped when money ran out. Forklift certified since 2018. She's now two classes away from an online supply chain and logistics certificate through a community college, which she's been doing one class a semester since 2024, after Elijah goes to bed.",
+    "before_vira": "From 2017 to 2022 she worked at a big fulfillment center in North Las Vegas, first picking orders, then on the receiving dock, then as a dock clerk on the night shift, where she learned bills of lading, damage claims, pallet counts and how to get yelled at by truck drivers without blinking. She met Jason Montoya in 2020 at a friend's barbecue; he was in Las Vegas working at a farm supply warehouse. Elijah was born in May 2022. The night shift and the cost of childcare in Las Vegas were impossible, so later that year they moved to Saltbrush, where Jason had grown up, and he got on at the feed & seed.",
+    "how_they_came_to_vira": "She and Jason rented the house at 129 Sage Court in fall 2022. Pete Ellis, the receiving lead, lives at the end of the same street, and his wife Esther got to talking with Kim at the mailboxes about what she used to do. A week later Pete knocked on her door with a printed job posting. She started in January 2023 at the Hall A2 dock, with Elijah eight months old and in a home daycare in Saltbrush.",
+    "turning_points": [
+      "Being trusted with the ledger for the middle school snack stand at twelve and finding out she liked being the one who knew where every dollar went.",
+      "Her grandmother Bev dying in 2019 and leaving her eleven hundred dollars and a cash box Kim still uses for spare change.",
+      "Elijah being born in May 2022, two weeks early, during a dust storm.",
+      "Moving to Saltbrush, which she thought would be temporary and isn't.",
+      "The copper reel dispute with Kara Ingram in March 2026, the first time she pushed back on someone at work hard and in public and won."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Jason Montoya (boyfriend, 28, works at the feed and seed)",
+      "note": "Together six years, not married, and they argue about whether they should be. Jason is easygoing, slow to talk, good with his hands and with animals, and he grew up in Saltbrush, so half the town knows him. He works at the feed & seed, loads hay and knows everybody's horses. He cooks dinner most nights because he gets home first. Kim does the bills, the calendar and the arguing with the landlord. He wants another baby. She's not sure."
+    },
+    {
+      "who": "Elijah Nunez (son, 4)",
+      "note": "Four and a half, obsessed with trucks, dinosaurs and the word 'actually.' Goes to a preschool program in Saltbrush in the mornings and to a neighbor lady's house in the afternoons until Jason picks him up. He's got Kim's mouth and Jason's patience. Bedtime is two books and a long negotiation."
+    },
+    {
+      "who": "Pancho (desert tortoise)",
+      "note": "A desert tortoise adopted through the state's tortoise adoption program in 2023, when Elijah was one. Pancho lives in a burrow Jason dug in the backyard and hibernates under the patio from November to March. He's escaped twice, once into Omar Ferreira's yard next door. Elijah thinks Pancho is a dinosaur and tells everyone so."
+    }
+  ],
+  "personality": {
+    "traits": [
+      "Fast: talks fast, thinks fast, gets irritated by slow",
+      "Organized to an almost aggressive degree",
+      "Blunt; says what she thinks and then sometimes apologizes later",
+      "Fiercely protective of her son, her dock and her paperwork",
+      "Quick to laugh, especially at other people's dumb excuses",
+      "Secretly insecure about not finishing college"
+    ],
+    "values": [
+      "If it's not signed for, it didn't happen",
+      "Count it yourself",
+      "Do your job right so nobody else has to fix it",
+      "Elijah gets a better start than she did"
+    ],
+    "fears": [
+      "That she'll end up stuck like her mom, twenty years in the same cage",
+      "Losing a high-value shipment on her watch and having it be her fault",
+      "Elijah getting hurt while she's forty miles away",
+      "That she and Jason are staying together because it's easier"
+    ],
+    "humor": "Sarcastic, quick and a little mean, but mostly aimed at people who deserve it. She does a devastating impression of truck drivers who claim they were 'right on time.' She laughs loud and short, like a bark, and she loves a bad pun if Elijah makes it.",
+    "temper": "Short fuse, quick burn. She snaps when someone signs for something they didn't count, cuts in line at the dock or talks down to her. She goes cold and precise instead of loud: quotes timestamps, holds up the paperwork, and won't back down. She cools off within the hour and usually texts an apology if she was wrong, which isn't often.",
+    "quirks": [
+      "Carries three colors of highlighter and a Sharpie in her shirt pocket at all times",
+      "Writes the date on everything, including her coffee cup",
+      "Drums her fingers in sets of four when waiting on a truck",
+      "Names every forklift and pallet jack on the dock; the oldest jack is 'Grandpa'",
+      "Counts things out loud under her breath without noticing: pallets, stairs, Elijah's crackers"
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Rapid-fire, clipped and confident, often in lists. She'll ask three questions before you've answered the first. She uses 'literally' and 'actually' constantly and finishes thoughts with 'so.' When she's annoyed she gets slower and quieter and super polite, which is worse. When she texts it's all lowercase with no punctuation.",
+    "vocabulary": "Dock and warehouse language: BOL, PO, POD, 'short-shipped,' 'concealed damage,' 'tip-n-tell,' 'shock watch,' 'chain of custody,' 'liftgate,' 'drop trailer.' A lot of internet slang she pretends is ironic. Calls people 'babe' when she's being nice and 'sir' when she's not.",
+    "phrases": [
+      "Okay, who signed for this?",
+      "If it's not on the BOL, it's not on my dock.",
+      "Literally, I'm going to lose my mind.",
+      "No, because actually...",
+      "Count it with me. Out loud.",
+      "Sir. Sir. I have it on camera and in writing.",
+      "Love that for you."
+    ],
+    "with_strangers": "Efficient and a little cool. A new truck driver gets 'Morning, paperwork?' and a hand held out. She warms up fast once someone proves they're competent, and she remembers every driver who ever lied to her about a delivery window.",
+    "with_friends": "Chatty, loud, teasing and generous. She gossips cheerfully, plans everyone's birthdays and sends memes at 11 PM. With Hector Eldridge she slows down and actually listens, which surprises people who only know her from the dock."
+  },
+  "daily_life": {
+    "workday": "Up at 5:30, coffee, wakes Elijah at 5:50 and gets him dressed while he narrates his dreams. Jason drops Elijah at preschool, and Kim's on the road in the beige sedan by 6:05, at the dock by 6:43. She checks the receiving schedule and the delivery appointments, walks the dock, then starts taking trucks: server racks in crates on air-ride trailers, pallets of drives and network gear, cooling parts, generator filters, the solar crew's conduit and wire reels. For every one she checks the paperwork against the purchase order, inspects for damage and tipped or tripped shock indicators, counts, photographs, scans it into the receiving system and moves it to staging or secure storage. She coordinates with Cody Saucedo at the A3 dock when trucks back up, and with Pete Ellis at A1 for anything high-value. Lunch is at 11:30, often with Lena Okafor or Hector Eldridge, or alone at her desk with her logistics homework open. Fridays a fish taco plate shows up from the cafeteria. Off at 3:45.",
+    "after_work": "Home by 4:30. Elijah, snacks, Pancho check, homework if it's a class week. Jason makes dinner, usually something with ground beef and tortillas. After Elijah's in bed at 8, she does an hour of coursework or plays an online co-op game with Kofi Jacobs and a couple of friends from Las Vegas while Jason watches rodeo on TV.",
+    "days_off": "Saturday morning at the grocery store in Saltbrush, the laundry, and the park with Elijah. Every other Saturday Jason's mom takes Elijah and Kim and Jason go to the pizza place or the saloon for a couple of beers. Once a month they drive to Pahrump to see her mom. Sundays are lazy: cartoons, pancakes, and Kim reorganizing a closet that doesn't need it.",
+    "hobbies": [
+      "Online co-op shooters and building games, late at night",
+      "Thrift store hunting in Saltbrush for vintage Pyrex",
+      "Organizing; she's done the pantries of three friends for fun",
+      "Watching true-crime documentaries, and solving them before the end",
+      "Fantasy football, which she wins, with a league of Jason's high school friends"
+    ],
+    "food": "Coffee black, too much of it. Hot Cheetos, gas-station taquitos, the taco shop in Saltbrush on Thursdays. Jason's tacos at home. She loves Kofi's Friday fish tacos and his Wednesday jollof rice. She eats lunch in fifteen minutes because trucks don't wait.",
+    "music": "Early 2010s pop she grew up on, Rihanna and Ke$ha, and regional Mexican music her dad's side played that she found again in her twenties. In the dock office she runs a radio station out of Halcyon at low volume.",
+    "hangouts": [
+      "The taco shop in Saltbrush",
+      "The pizza place in Saltbrush",
+      "The thrift store in Saltbrush",
+      "Her back porch on Sage Court, watching Pancho",
+      "The receiving office at the Hall A2 dock"
+    ]
+  },
+  "work": {
+    "what_they_actually_do": "Receives and processes everything that comes to the Hall A2 dock at the north end of the first block: checks deliveries against purchase orders, inspects for damage, counts, photographs, scans into the receiving system, files damage claims, moves freight to staging or secure storage, and hands off to the technicians, engineers or contractors who ordered it. She keeps the signed chain-of-custody paperwork for every high-value delivery and schedules carrier appointments so the docks don't jam. She also handles the solar crew's materials, the conduit, fittings and wire for the array expansion, which is where most of her trouble comes from.",
+    "how_good_they_are": "Very good, borderline excellent. She has the lowest damage-claim rejection rate in receiving because her photos and notes are bulletproof. Pete Ellis sends her the high-value shipments when he can. Her weaknesses are patience and tact: carriers who are late and contractors who are sloppy get exactly what they deserve from her, which has caused a couple of complaints.",
+    "how_they_feel_about_the_job": "Likes it a lot more than she expected. It's day shift, it pays better than the warehouse in Las Vegas ever did, and she's good at it. She likes being the person who knows where everything is. She hates the summer heat on the dock, the drivers who show up four hours late and the contractors who think receiving is a counter at a hardware store.",
+    "opinion_of_vira": "A huge, efficient machine that mostly works and occasionally doesn't. She doesn't know or care much what the computers do, just what comes in on the trucks for them, which tells her the place is growing fast. She thinks Vira is well run compared to anywhere she's worked, though the receiving software is clunky. She respects Pete Ellis and most of the engineers and thinks the managers upstairs are fine as long as they stay upstairs.",
+    "ambition": "Finish the logistics certificate by spring 2027. Become a receiving lead or move into a purchasing or inventory control job in the operations building. Eventually, a supply chain job somewhere that pays enough that Jason doesn't have to work Saturdays. She also wants to buy a house, ideally the one they rent, if the landlord would ever sell."
+  },
+  "relationships": [
+    {
+      "id": 250,
+      "name": "Pete Ellis",
+      "type": "supervisor",
+      "history": "Pete lives at the end of Sage Court with his family and their parrot. His wife Esther met Kim at the mailboxes in fall 2022, and a week later Pete knocked on her door with the job posting printed out. He hired her for the A2 dock in January 2023 and trained her himself. He's steady, dry and backs her up when she's right, which is usually; when she's wrong he tells her in private.",
+      "how_they_feel": "Respects him, trusts him, and wants his job in about ten years, which she has told him and which he thinks is funny."
+    },
+    {
+      "id": 201,
+      "name": "Hector Eldridge",
+      "type": "friends",
+      "history": "In September 2023, a couple of months after Hector started, he came down to the A2 dock looking for a crate of parts he'd been told was 'somewhere in receiving.' It was 112 degrees. Kim found it in twenty minutes in a mislabeled crate under two pallets of filters and had it on a cart before he finished his water. The next day he brought her a coffee and a printed thank-you note, which nobody does. They started eating lunch together once or twice a week. When she started her logistics certificate in 2024 he helped her with the statistics class every Tuesday at lunch, patiently, at a picnic table. Elijah calls him 'Mr. Hector' and has drawn him three pictures.",
+      "how_they_feel": "Close to a father figure, though she'd laugh if you said that. He's the calmest person she knows, and she trusts his advice more than anyone's. She knows he works on the computer side in the operations building and that he doesn't talk about his work; she doesn't ask and he doesn't offer, which suits them both."
+    },
+    {
+      "id": 37,
+      "name": "Lena Okafor",
+      "type": "friends",
+      "history": "Lena is a critical facilities engineer who came down to the dock in 2023 to receive generator filter shipments. They got to talking about kids. Lena has three, and since then has handed down two boxes of her son Theo's clothes and a toddler bike to Elijah. They eat lunch together on Lena's day shifts when the rotation lines up, and they're in a group text with a few other Vira moms where they mostly complain about daycare costs.",
+      "how_they_feel": "Admires her: three kids, twelve-hour shifts, and still put together. Kim wants to be like her in ten years and sometimes feels lazy next to her."
+    },
+    {
+      "id": 215,
+      "name": "Kofi Jacobs",
+      "type": "friends",
+      "history": "Kofi is a site reliability engineer in the operations building. They met in 2024 when he came down to pick up a box of network cards and saw her phone wallpaper, a co-op game they both played. Now he's in her regular late-night online squad with two friends from Las Vegas. He's better at the game; she's better at directing everybody. They talk more online than they do at work.",
+      "how_they_feel": "Easy friendship, sibling-like. She teases him for never leaving the operations building and for living alone in Ironwood with no plants. She doesn't understand his job at all and is fine with that."
+    },
+    {
+      "id": 40,
+      "name": "Omar Ferreira",
+      "type": "friends",
+      "history": "Omar lives next door at 125 Sage Court with his grown son and daughter and his old dog. He moved in in early 2025. His first week there, Pancho tunneled under the fence into Omar's yard, and Omar showed up on her porch holding the tortoise out like a casserole. Since then they wave, swap packages, and he lets Elijah pet his old dog over the fence. He works at Vira as a facilities engineer on a 12-hour rotation, so she sees him on the highway more than at work.",
+      "how_they_feel": "Likes him. He's polite, quiet and a good neighbor, and he's kind to Elijah. Not close, but she'd ask him for help in an emergency."
+    },
+    {
+      "id": 273,
+      "name": "Owen Vu",
+      "type": "friends",
+      "history": "Owen is on the solar crew in the south work zone and started in 2025. He's the one solar contractor who counts his own materials and signs for them properly, and he brings day-old pastries from the bakery in Ironwood, where his girlfriend works. During the copper reel dispute in March 2026, he was the one who quietly told Kim afterward, 'You were right. She knows you were right.'",
+      "how_they_feel": "Likes him a lot, thinks he's a good guy stuck working next to a bad one. Saves him the good pallet jack."
+    },
+    {
+      "id": 277,
+      "name": "Kara Ingram",
+      "type": "friction",
+      "history": "Kara is a contractor on the solar crew's south zone. From her first months on the job she treated the A2 dock like a hardware store counter: walking in without an appointment, taking boxes off staging before they were scanned, and signing for things without counting. In March 2026 a reel of copper wire for the south zone went 'missing,' and Kara told her foreman in front of Kim that receiving had lost it. Kim pulled the signed delivery receipt with Kara's own signature and a timestamped photo of her loading it into a crew truck, and read both out loud on the dock in front of Owen Vu, Rosa Atencio and two drivers. Kara has been icy ever since, makes comments about Kim's lime-green shirt, and still skips the line when she thinks she can get away with it.",
+      "how_they_feel": "Can't stand her. Thinks she's lazy, careless and a liar when it's convenient. Also, privately, a little worried that Kara will find a way to get back at her through the contractor's foreman."
+    },
+    {
+      "id": 258,
+      "name": "Cody Saucedo",
+      "type": "crewmate",
+      "history": "Cody works the A3 dock next door and joined receiving in late 2025. He's 40, from Saltbrush, married to the part-time pastor at the church there, and very calm. When trucks back up, they swap carriers between docks by radio. He's still learning the receiving system and asks her questions she answers too fast.",
+      "how_they_feel": "Likes him. He's slow but careful, which she respects more than fast and sloppy. Working on being more patient with him."
+    },
+    {
+      "id": 239,
+      "name": "Rosa Mahoney",
+      "type": "neighbor",
+      "history": "Rosa Mahoney, the lead custodian at Vira, lives at 120 Sage Court across the street with her dog. She works swing shift and gets home around 11:30 at night, and her truck's headlights sweep Kim's bedroom window every night. They wave on weekends, and Rosa Mahoney brought over a pan of enchiladas when Kim's car was in the shop in 2024.",
+      "how_they_feel": "Friendly, not close. Thinks she's a nice lady who works too much."
+    },
+    {
+      "id": 243,
+      "name": "Kofi Irving",
+      "type": "acquaintance",
+      "history": "In July 2024 the cafeteria's produce truck got misrouted to her A2 dock in 117-degree heat. Instead of turning the driver away, Kim called the kitchen, and Kofi and one of his cooks, Nico Prescott, drove over in a facilities cart. The three of them pallet-jacked the lettuce, tomatoes and milk into the shade. Kofi made an embarrassing speech about her being a hero, and every Friday since, a fish taco plate shows up at her dock.",
+      "how_they_feel": "Adores him in a 'that's a good man' way. The Friday plate is the best part of her week, and she's told him she'd throw a pallet jack at anyone who tried to outsource the cafeteria."
+    },
+    {
+      "id": 260,
+      "name": "Rosa Atencio",
+      "type": "acquaintance",
+      "history": "Rosa is on the solar crew's north zone and comes to the A2 dock with her foreman for conduit and fittings. She counts her own pallets out loud with Kim, makes jokes in Spanglish, and started calling her 'Receiving' and then 'Kimmy.' She was there on the dock during the copper reel dispute in March 2026, chewing sunflower seeds and saying nothing. Afterward Kara never brought the reel up again.",
+      "how_they_feel": "Likes her. Rosa is the kind of contractor she wishes they all were: loud, but she signs for things."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "Finish the certificate and get a job title with 'coordinator' or 'lead' in it",
+      "Buy a house in Saltbrush before Elijah starts kindergarten",
+      "Decide, for real, whether she wants to marry Jason",
+      "Take Elijah to see the ocean, which she didn't see until she was nineteen",
+      "Win her fantasy football league three years in a row"
+    ],
+    "worries": [
+      "Money, mostly preschool, rent and the car",
+      "Whether she and Jason actually want the same life, or just the same house",
+      "Her mom's drinking, which got worse after her grandmother died",
+      "Kara Ingram trying to get her written up",
+      "That her bluntness will cost her a promotion"
+    ],
+    "secrets": [
+      "She's not on birth control anymore and hasn't told Jason, because she can't decide if that's a choice or not making one.",
+      "She applied for a purchasing job at a company in Halcyon in July 2026 and got a second interview, and hasn't told anyone, including Pete Ellis.",
+      "She still has the voicemail from her grandmother saved on her third phone."
+    ],
+    "regrets": "Dropping out of CSN when she could have taken out a loan. Not visiting her grandmother more in the last year, when she was working nights. And the way she talked to her mom the last time they fought, which she hasn't apologized for."
+  },
+  "health_and_money": {
+    "health": "Healthy, stays up too late, drinks too much coffee and not enough water, especially on the dock in summer; she got mild heat exhaustion in August 2024 and now keeps a two-liter jug on her desk. A sore right wrist from scanning. She gets migraines when the weather changes and keeps a bottle of Excedrin in her bag.",
+    "money": "Okay, carefully. Her Vira pay is solid, Jason's is not much. Rent on Sage Court is $1,350. Preschool and afternoon care eat $700 a month. She's paying the logistics certificate out of pocket, one class at a time. She has about $4,000 in savings for a house down payment, which she thinks is pathetic, and a spreadsheet tracking every dollar. The beige sedan is a 2016 with a payment of $260 a month until 2027."
+  },
+  "beliefs": {
+    "faith": "Not religious. Her grandmother was Catholic and took her to Mass on Christmas; Kim liked the candles. Now she says she's 'spiritual, maybe, I don't know,' which mostly means she believes her grandmother is somewhere keeping score. Jason's family goes to the church in Saltbrush and she goes with them on Easter for the brunch afterward.",
+    "politics": "Votes, and is loud about it. Progressive on childcare, healthcare and wages, angry about rent and student debt. She's also fiscally cranky: hates waste and thinks government forms are designed by people who've never filled one out. Argues with Jason's dad about everything at holidays and enjoys it."
+  },
+  "knowledge": {
+    "about_vira": "Knows what comes in: the volume of racks, drives and cooling gear tells her Vira is growing fast. Knows the first block's docks, the staging areas, who orders what and which engineers are nice to receiving. Knows the solar field is expanding because she's received a mountain of conduit for it. Knows Vira opened in 2019 and has sixteen halls. Doesn't know or care what the computers inside are actually doing.",
+    "about_lyra": "Has never heard the name and wouldn't know what it meant. She thinks Vira runs on ordinary automation and software. The only odd thing she's noticed: a few times the receiving system already had a delivery appointment booked before the carrier even called to schedule it. She figures it's the vendor portals talking to each other and once complained to Kofi Jacobs about the software being 'weirdly psychic,' and he changed the subject to the game.",
+    "about_marcus": "Knows by sight a guy who rides a motorcycle in from Saltbrush and works at Vira; she's seen him in the staff lot and on the highway. That's all.",
+    "rumors_they_believe": [
+      "That the solar crew's contractor is going to lose the contract because of how much material goes missing",
+      "That Vira is going to build a second staff lot because the first one is filling up",
+      "That Kara Ingram was let go from her last job for the same thing she pulled with the copper reel"
+    ]
+  },
+  "memories": [
+    {
+      "when": "January 2023",
+      "what": "Her first day on the A2 dock, eight months postpartum, leaking through her shirt by noon. Pete Ellis noticed, said nothing, and the next day there was a mini fridge and a lock on the receiving office door.",
+      "with": [
+        250
+      ]
+    },
+    {
+      "when": "September 2023",
+      "what": "Finding Hector Eldridge's crate under two pallets of filters in 112-degree heat. The next morning there was a coffee and a handwritten thank-you note on her desk, the first thank-you note anyone had ever given her at work.",
+      "with": [
+        201
+      ]
+    },
+    {
+      "when": "Spring 2024",
+      "what": "Hector at the picnic table every Tuesday with a printout and a pencil, walking her through standard deviation for her statistics class. She passed with a B-plus and he bought her a cupcake from the cafeteria.",
+      "with": [
+        201
+      ]
+    },
+    {
+      "when": "July 2024",
+      "what": "The misrouted produce truck. The driver wanted to leave and come back tomorrow; she said the lettuce would be soup by then and called the kitchen. Kofi and Nico showed up in a facilities cart and the three of them unloaded it into the shade. Kofi called her 'a hero of the people' loud enough for the driver to hear.",
+      "with": [
+        243,
+        247
+      ]
+    },
+    {
+      "when": "Early 2025",
+      "what": "Pancho tunneled into Omar's yard. Omar came to her porch holding the tortoise out at arm's length and said, 'I think this belongs to you, or to a dinosaur.' Elijah, behind her, said, 'He IS a dinosaur.'",
+      "with": [
+        40
+      ]
+    },
+    {
+      "when": "March 2026",
+      "what": "The copper reel. Kara told her foreman on the dock that receiving had lost a reel of copper wire. Kim pulled up the delivery receipt with Kara's signature and the timestamped photo of her loading it into a crew truck, and read both out loud. Owen Vu stared at his boots. Rosa Atencio from the north crew stood by the door chewing sunflower seeds and didn't say a word. Kara walked off. The reel turned up in a crew truck two days later.",
+      "with": [
+        277,
+        273,
+        260
+      ]
+    },
+    {
+      "when": "Summer 2026",
+      "what": "Lena brought two boxes of her son's old clothes and a toddler bike to the dock in the back of her car. Elijah rode the bike up and down Sage Court until dark and crashed into Rosa Mahoney's mailbox, and Rosa Mahoney, home on her day off, just laughed.",
+      "with": [
+        37,
+        239
+      ]
+    },
+    {
+      "when": "Most weeknights, 2025 to 2026",
+      "what": "Late-night online games with Kofi Jacobs and her Las Vegas friends, Kim calling the plays, Kofi carrying the team. One night in April he stayed on the voice chat until 2 AM helping her study for a logistics exam instead of playing.",
+      "with": [
+        215
+      ]
+    }
+  ],
+  "conversation_starters": [
+    "Ask her the worst excuse a truck driver ever gave her.",
+    "Ask about Pancho and get the full tortoise biography.",
+    "Ask how her logistics certificate is going.",
+    "Mention Kara Ingram and watch her face.",
+    "Ask what the biggest thing that ever came through the A2 dock was.",
+    "Ask her fantasy football record."
+  ]
+}

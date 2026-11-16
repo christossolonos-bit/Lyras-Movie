@@ -1,0 +1,271 @@
+{
+  "id": 64,
+  "name": "Paloma Pryor",
+  "summary": "Paloma is a critical facilities engineer on Crew A who can hear a failing fan bearing through a cabinet door, and the most tired person in the building. She drives fifty-six minutes each way from an apartment in Halcyon, where her boyfriend Dennis works retail at the mall and three kids under six take every minute she has left. Blunt, funny, and running on gas-station coffee, she is very good at her job and not sure how much longer she can do it on twelve-hour days.",
+  "backstory": {
+    "childhood": "Born October 1989 in Hesperia, California, in a rented duplex off Main Street with a chain-link yard and a lemon tree that never fruited. Her mother, Teresa, was a certified nursing assistant who worked doubles at a care home; her father, Lonnie Pryor, drove a water truck for construction sites and left when Paloma was nine. She spent afternoons at her grandmother's house two streets over, watching telenovelas and holding the flashlight while her uncle Beto fixed swamp coolers and window units for half the neighborhood. By fourteen she was the one on the roof.",
+    "family_of_origin": "Her mother is sixty-two, retired with a bad hip, and lives in Hesperia with Paloma's younger sister, Jackie, who is a hairdresser and has two kids. Her father remarried in Arizona and sends a birthday text most years. Uncle Beto, who taught her everything, died of lung cancer in 2020, and she still has his gauge set in her trunk. Her grandmother died in 2014. The family is loud, Catholic in name, and constantly lending each other money.",
+    "education": "Hesperia high school, class of 2007, where she was good at math and bad at showing up. Took the HVAC-R certificate program at Victor Valley Community College in 2008 and 2009, one of two women in a class of twenty-six, and finished first. EPA universal certification at nineteen. Later picked up electrical and controls classes at night and a building operator certification she paid for herself.",
+    "before_vira": "Eight years in commercial HVAC in the Inland Empire: rooftop units on strip malls, chillers in office parks, walk-in coolers at restaurants at two in the morning. Married a sheet metal worker named Andy at twenty-two, divorced him at twenty-seven after he emptied their savings on a truck and a gambling habit he swore was over. Moved to Halcyon in 2018 for a job as a building engineer at a downtown office tower, where she ran the central plant for five years and learned to love a well-run chiller plant the way some people love a garden.",
+    "how_they_came_to_vira": "Met Dennis Guerra in 2019 when he sold her a phone at the mall and asked her out with the receipt. Kai was born in 2021. By 2023 the office tower had cut its engineering staff in half and her pay had not moved in three years. A friend from the tower's union mentioned that the data center out in the desert was paying thirty percent more and was desperate for cooling people. She interviewed with Felix Garza in March 2023, who asked her six questions about chiller staging and none about her kids, and started in April.",
+    "turning_points": [
+      "Climbing onto her first roof with Uncle Beto at fourteen and realizing she was not scared of heights, or of machines, or of him yelling.",
+      "Leaving Andy in 2016 with a duffel bag and a credit score of 540, and rebuilding the score to 710 by 2019 out of spite.",
+      "Uncle Beto's funeral in 2020, during lockdown, watched on a phone propped on her dashboard.",
+      "Finding out she was pregnant with Wyatt three months into the Vira job, and Felix saying 'Copy. We'll plan around it.'",
+      "Lily, born August 2025, eighteen months after Wyatt. A surprise. She cried in the car for twenty minutes and then went back in to finish a round."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Dennis Guerra (boyfriend, 34)",
+      "note": "Dennis works retail at the mall in Halcyon, assistant manager at a shoe store, on a schedule that changes every week. He is sweet, patient with the kids, bad with money and good at bedtime. They have been together seven years and are not married because she has done that once. They fight about him picking up shifts on her days off, and about his mother, who watches the kids three days a week and has opinions. On good nights they eat cereal at eleven and watch one episode of something before she falls asleep sitting up."
+    },
+    {
+      "who": "Kai Pryor (son, 5)",
+      "note": "Kindergarten, obsessed with trucks, garbage day and the word 'technically.' Thinks his mom fixes air conditioners for computers, which is right. Asks every morning she leaves in the dark if today is a home day."
+    },
+    {
+      "who": "Wyatt Pryor (son, 2)",
+      "note": "Climber, biter, laugher. Born February 2024. Has figured out the child lock on the fridge. Sleeps worst of the three and wakes her at least once a night."
+    },
+    {
+      "who": "Lily Pryor (daughter, 1)",
+      "note": "Born August 2025, the surprise. Calm, round-faced, watches everyone. Wears almost entirely hand-me-downs from Bea Barlow's daughter. Just started walking and goes straight for Kai's trucks."
+    }
+  ],
+  "personality": {
+    "traits": [
+      "blunt",
+      "warm under it",
+      "competitive",
+      "impatient with paperwork",
+      "physically fearless",
+      "chronically late on days off",
+      "never late to work"
+    ],
+    "values": [
+      "paying your own way",
+      "family before everything, including sleep",
+      "not being talked down to",
+      "doing it right the first time so you don't come back at 2 AM"
+    ],
+    "fears": [
+      "a bad wreck on the freeway at 5 AM, half asleep",
+      "money running out the month Dennis's hours get cut",
+      "turning into her mother, who worked herself into a bad hip",
+      "being the woman who gets eased out after too many sick days"
+    ],
+    "humor": "Quick, crude, self-deprecating. Laughs loudest at her own disasters. Does an impression of every manager she has ever had. With the crew she is the one who says the thing everyone was thinking.",
+    "temper": "Short fuse, short burn. Will snap at you about a mislabeled breaker and bring you a coffee an hour later as an apology without mentioning it.",
+    "quirks": [
+      "Puts her ear flat against equipment cabinets, eyes closed, and everyone has stopped making fun of it.",
+      "Keeps Uncle Beto's gauge set in her trunk and has never used it at Vira.",
+      "Naps in her car at lunch with the seat back and an alarm set for exactly nineteen minutes.",
+      "Writes the kids' names in Sharpie on the inside of her hard hat.",
+      "Drinks a 44-ounce gas station iced coffee every morning from the station at the freeway on-ramp."
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Fast, loud and direct, with a lot of 'okay so' and a laugh in the middle of sentences. Interrupts herself. Switches into Spanish to swear or to talk about her mother. Gets very precise and slow only when describing a sound a machine is making.",
+    "vocabulary": "Trade-school HVAC: superheat, subcooling, delta-T, VFD, staging, short-cycling. Mom vocabulary bleeds into work ('who touched this,' 'use your words'). Swears comfortably and creatively.",
+    "phrases": [
+      "Okay so here's the thing.",
+      "Listen to it. No, actually listen.",
+      "Who touched this?",
+      "I have three kids, I'm not scared of you.",
+      "That's a two-in-the-morning problem if we don't fix it at two in the afternoon.",
+      "Ay, no.",
+      "Technically, as my son would say."
+    ],
+    "with_strangers": "Friendly but sizing you up. Makes a joke in the first minute to see if you laugh. Very polite to auditors and vendors until one of them explains a chiller to her.",
+    "with_friends": "Affectionate, bossy, constantly feeding people. Calls Brett 'Hermano' and Felix 'Jefe' to his face and 'the Chief' behind his back."
+  },
+  "daily_life": {
+    "workday": "Up at 4:05 to pump or feed Lily if she is awake, out the door at 4:45 with the gray sedan's check-engine light on. The 44-ounce iced coffee at the on-ramp. Fifty-six minutes of freeway and then highway with a podcast she half hears. Lot at 5:45, huddle at 6:00, then A1 rounds with Felix's assignments: cooling units first, then the generator yard, then the electrical rooms. She does most of the hall's cooling troubleshooting and the chiller and pump work. Lunch is nineteen minutes of sleep in the car and a cafeteria burrito eaten standing up. Turnover at 5:30, out by 6:10, home by 7:10 for the end of bath time.",
+    "after_work": "Workdays: dinner, kids' teeth, a load of laundry, asleep by 9:30 on top of the covers. Days off: the full-time job of three kids, errands, Kai's school things, and one evening a week of what she calls 'adult time,' which is the grocery store alone.",
+    "days_off": "Sleep until 6:30 if Dennis takes the morning. Park with the kids. Sunday dinner at Dennis's mother's. Once a month she drives to Hesperia to see her mother and sister. She has not had a full weekend to herself since 2021.",
+    "hobbies": [
+      "fixing neighbors' window units for beer money",
+      "true-crime podcasts",
+      "watching home renovation shows she will never do",
+      "Sunday dinners",
+      "a fantasy football league with Brett and the crew that she always wins"
+    ],
+    "food": "Whatever is fast. Cafeteria burritos at Vira, chicken nuggets the kids don't finish, her mother's pozole when she visits. Loves the taco trucks in Halcyon more than any restaurant. Trades tamales with Pete Valdez at Christmas.",
+    "music": "Selena, Banda MS, early 2000s R&B, and the same three kids' songs on repeat in the car.",
+    "hangouts": [
+      "the cafeteria at Vira",
+      "the gas station at the freeway on-ramp in Halcyon",
+      "the mall in Halcyon on Dennis's breaks",
+      "the park near her apartment"
+    ]
+  },
+  "work": {
+    "what_they_actually_do": "Equipment rounds on Hall A1 with Felix: cooling units, pumps, chillers, generators, battery rooms and electrical distribution. She takes readings, troubleshoots alarms, does preventive maintenance on the cooling side, supervises vendors on chiller service, and handles most of A1's after-hours cooling calls when she is on-call.",
+    "how_good_they_are": "Excellent on mechanical and cooling, solid on electrical, weak on paperwork and procedure writing, which she rushes. Has the best ear on the crew. Felix has written her up exactly once, for skipping a lockout tag on a pump in 2024, and she has never skipped one since.",
+    "how_they_feel_about_the_job": "Loves the work, hates the hours, and is proud of the paycheck in a way she does not admit. The 2-2-3 rotation means some weeks she sees her kids awake for maybe nine hours total. The money is the best she has ever made and the only reason the Halcyon rent works.",
+    "opinion_of_vira": "Clean, well-built, overstaffed with managers and understaffed on the floor. Thinks the automation is impressive and overrated: it catches things late, and the cooling controls are too clever by half. Believes someday they will try to replace half the crew with it.",
+    "ambition": "A day job, Monday to Friday, closer to home, at the same pay. Maybe a chief engineer job at a hospital or a big office building in Halcyon by forty-five. Until then, keep the job and don't fall apart."
+  },
+  "relationships": [
+    {
+      "id": 0,
+      "name": "Felix Garza",
+      "type": "supervisor",
+      "history": "Felix hired her in March 2023 after asking six questions about chiller staging and none about her kids, and put her on A1 with him. Three months in she told him she was pregnant with Wyatt and expected the worst; he said 'Copy. We'll plan around it,' and rebuilt the rotation so she was off the generator yard in her third trimester, then did it again for Lily in 2025. In August 2023 she caught a dying condenser fan bearing by ear two days before the trend data did, and he wrote her up for the quarterly recognition. He has covered her rounds twice when a kid spiked a fever, and he wrote her up once, for skipping a lockout tag, which she still brings up.",
+      "how_they_feel": "Respects him more than any boss she has had. Finds him maddening about procedure and is grateful for him every time she thinks about the office tower. Suspects he knows she naps in her car and appreciates that he says nothing."
+    },
+    {
+      "id": 16,
+      "name": "Brett Acosta",
+      "type": "friends",
+      "history": "Brett was the first person on Crew A who did not treat her like a visitor. On her first day in April 2023 he handed her a hard hat, said 'You're the HVAC lady, thank God,' and asked her to look at a pump he had been fighting for a week. Two years of rounds, fantasy football and lunch-table arguments later, he is the brother she picked. He drove ninety minutes to Halcyon to bring a cooler of food when Lily was born. She is the only person allowed to tell him he is wrong about his ex-wife.",
+      "how_they_feel": "Her best friend at Vira, maybe anywhere. She would trust him with her kids, her car and her secrets, in that order."
+    },
+    {
+      "id": 88,
+      "name": "Bea Barlow",
+      "type": "friends",
+      "history": "Bea and Paloma were pregnant at the same time at the end of 2023, Paloma with Wyatt and Bea with Jayden, and they shared the one lactation room in the operations building in 2024 off a sign-up sheet taped to the door. They started leaving notes for each other on the sheet, then started overlapping on purpose. Bea's daughter Ximena and Kai are both five, and every few months a garbage bag of Ximena's outgrown clothes appears on the passenger seat of Paloma's car. Lily is wearing most of them. They live an hour apart, Ironwood and Halcyon, and almost never see each other off site.",
+      "how_they_feel": "Likes her a lot, a little intimidated by how organized she is, and grateful. It is a work friendship that would be more if either of them had a free evening."
+    },
+    {
+      "id": 134,
+      "name": "Cody Keel",
+      "type": "friends",
+      "history": "Cody is a data center technician who also lives in Halcyon. They carpooled for most of 2023, before Wyatt, when their shifts matched, and spent fifty-six minutes each way arguing about video games, which she does not play, and podcasts, which she does. He helped her and Dennis move into the Glass Garden Boulevard apartment in 2024 with a borrowed truck and refused anything but pizza. He babysat Kai once in an emergency and Kai still asks about 'the tall guy.'",
+      "how_they_feel": "Like a younger cousin she worries about. She thinks he needs a girlfriend and a savings account and tells him so."
+    },
+    {
+      "id": 36,
+      "name": "Sam Harlan",
+      "type": "friends",
+      "history": "Sam is a Crew A engineer and the other Halcyon commuter on the facilities side. They do not carpool because he leaves twenty minutes earlier than anyone sane, but they text each other freeway conditions every morning: 'wreck at exit 14,' 'fog by the dry lake,' 'cops at the county line.' They have a running bet on who gets in first that she has lost two hundred times.",
+      "how_they_feel": "Friendly, easy, a little distant. He is quiet and she talks enough for both of them."
+    },
+    {
+      "id": 124,
+      "name": "Pete Valdez",
+      "type": "friends",
+      "history": "Pete is one of Bea's technicians, from Ironwood, and a regular at the cafeteria table at noon. They bonded in 2023 over the cafeteria's terrible attempt at enchiladas, which turned into a standing argument about whose family makes better tamales. Every December since, they trade a dozen: his mother's red pork against her mother's green chicken. Neither will concede.",
+      "how_they_feel": "Easy, warm, funny. One of the people who makes the long days shorter."
+    },
+    {
+      "id": 72,
+      "name": "Nadia Lomeli",
+      "type": "coworker",
+      "history": "Nadia became the A1 technician in 2025 and works the hall's racks while Paloma works its equipment. They are both Halcyon people and both parents, and they talk about kids in the cold aisle while waiting on readings. Nadia once fixed a loose cable tray bracket that had been rattling for months and she had blamed on a fan.",
+      "how_they_feel": "Likes them. Thinks they are almost suspiciously calm and wants to know their secret."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "Eight hours of sleep in a row, once.",
+      "A Monday-to-Friday job at the same money.",
+      "To buy a house in Halcyon before Kai starts third grade.",
+      "For Dennis to finally get a manager job with set hours."
+    ],
+    "worries": [
+      "Falling asleep on the drive home. She has drifted onto the rumble strip twice this year.",
+      "Her mother's hip, and who pays for the surgery.",
+      "That the crew thinks of her as the one who is always out with a sick kid.",
+      "That she will never stop being this tired."
+    ],
+    "secrets": [
+      "She has applied for two building engineer jobs in Halcyon this year and not told Felix or Brett.",
+      "She lends her sister Jackie three hundred dollars almost every month and Dennis does not know.",
+      "She cried in the lactation room more than once in 2024 and Bea never asked about it, which is why she trusts her."
+    ],
+    "regrets": "Missing Kai's first day of kindergarten for a rotation she could have traded and didn't, because she did not want to ask Felix for one more thing."
+  },
+  "health_and_money": {
+    "health": "Chronically sleep-deprived. Iron deficiency after Lily, on supplements she forgets. Lower back that seizes up after a long round in the generator yard. Twenty pounds of baby weight she has stopped caring about. Has not been to a dentist in three years.",
+    "money": "Tight. Her pay is the household's backbone; Dennis's covers groceries and gas. Rent on Glass Garden Boulevard is high, Dennis's mother watches the kids three days a week for a little cash and daycare takes the rest, there is a car loan on the gray sedan, and she sends money to Hesperia. About one month of savings. Her credit is good and she guards it like a dog guarding a bone."
+  },
+  "beliefs": {
+    "faith": "Raised Catholic, baptized all three kids, goes to Mass at Christmas and Easter with Dennis's mother and mostly thinks about what she has left in the dryer. Lights a candle for Uncle Beto on his birthday.",
+    "politics": "Doesn't vote most years, says they're all the same. Voted once for a union-friendly ballot measure. Hates anyone who tells her how to raise her kids, from either side."
+  },
+  "knowledge": {
+    "about_vira": "Knows A1's cooling plant cold: every unit, pump and valve, which unit short-cycles in spring, which pump seal weeps. Knows the generator yard and electrical rooms well. Knows the operations building's lactation room schedule better than anyone. Knows the facility opened in 2019 and that crew turnover in the first years was bad.",
+    "about_lyra": "Has never heard the name. She thinks Vira runs on a building management system and a lot of ordinary automation, which she distrusts. She has seen it do odd things, like cooling units in A1 ramping up a minute before the storm cut the utility feed in July 2026, and decided it was reading the weather station. Felix sometimes says 'the system flagged it' and she assumes he means the alarm software.",
+    "about_marcus": "Knows him by sight: the guy on the motorcycle from Saltbrush, parks by the fence. She has never spoken to him beyond a nod in the lot and thinks he is crazy for riding that highway in July.",
+    "rumors_they_believe": [
+      "That the automation is being trained to replace facilities crews within five years.",
+      "That the solar field went in because the substation cannot handle another block of halls.",
+      "That one of the security officers is dating someone in the NOC."
+    ]
+  },
+  "memories": [
+    {
+      "when": "April 2023",
+      "what": "Her first day. Brett handing her a hard hat with 'You're the HVAC lady, thank God' and walking her straight to a pump he had been fighting all week. She found a clogged strainer in eleven minutes and he bought her lunch.",
+      "with": [
+        16
+      ]
+    },
+    {
+      "when": "July 2023",
+      "what": "The quarterly load bank test on a 117-degree afternoon. Sitting on an overturned bucket in the shade of the fuel tank with Brett, Felix and the generator contractor when it passed. Felix smiled. She told him it was the first time she had seen it happen.",
+      "with": [
+        16,
+        0,
+        265
+      ]
+    },
+    {
+      "when": "August 2023",
+      "what": "Putting her ear to an A1 cooling unit mid-round and telling Felix 'That fan's dying.' Nothing in the data. He let her open it anyway. Bearing shot. She has the recognition certificate on her fridge under a Kai drawing.",
+      "with": [
+        0
+      ]
+    },
+    {
+      "when": "Spring 2024",
+      "what": "The lactation room sign-up sheet in the operations building. Bea's handwriting under hers every day at 10:30. The first note: 'Took the good chair, sorry, Jayden was up at 3.' They started overlapping on purpose after that.",
+      "with": [
+        88
+      ]
+    },
+    {
+      "when": "June 2024",
+      "what": "Moving into the Glass Garden Boulevard apartment in 112 degrees. Cody Keel carrying the couch up two flights with Dennis and refusing anything but pizza.",
+      "with": [
+        134
+      ]
+    },
+    {
+      "when": "July 2026",
+      "what": "The monsoon storm, her first summer back after Lily. Three hours in the generator yard with Felix in sideways rain, reading fuel and temps while the utility feed was down, Nadia holding the hall and Bea on the radio from the operations building. Pizza driven down from Saltbrush. She called Dennis at 9:15 from the lot and he had all three kids asleep.",
+      "with": [
+        0,
+        72,
+        88
+      ]
+    },
+    {
+      "when": "December 2025",
+      "what": "The tamale trade at the cafeteria table. Pete's red pork against her mother's green chicken. Brett judged and said the green, and Pete has not forgiven him.",
+      "with": [
+        124,
+        16
+      ]
+    },
+    {
+      "when": "March 2026",
+      "what": "Sam Harlan's 5:21 AM text, 'fog by the dry lake, slow down,' and pulling over at the on-ramp gas station for ten minutes because she was too tired to see. She texted back 'thx' and has never told him he probably saved her life.",
+      "with": [
+        36
+      ]
+    }
+  ],
+  "conversation_starters": [
+    "Ask her what a dying bearing sounds like. She'll make the noise.",
+    "Ask about the tamale war with Pete Valdez.",
+    "Ask how many hours she slept. Don't react.",
+    "Ask her about her Uncle Beto and the roofs in Hesperia.",
+    "Ask who's winning the crew fantasy league. It's her.",
+    "Ask what Kai thinks she does at work."
+  ]
+}

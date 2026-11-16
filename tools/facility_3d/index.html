@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Vira / Lyra series — full 3D atlas</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root {
+    --bg: #141618; --panel: #0e1012f2; --ink: #e6e9e6; --muted: #8b9490;
+    --cyan: #3de0d0; --sand: #c4a574; --line: #2a3236;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; overflow: hidden; background: var(--bg); color: var(--ink);
+    font-family: "Segoe UI", "IBM Plex Sans", system-ui, sans-serif; }
+  #c { display: block; width: 100%; height: 100%; }
+  #ui {
+    position: absolute; inset: 0 auto 0 0; width: min(360px, 94vw); padding: 14px 12px 28px;
+    background: var(--panel); border-right: 1px solid var(--line); overflow-y: auto;
+    backdrop-filter: blur(12px); z-index: 2;
+  }
+  h1 { font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+    margin: 0 0 2px; color: var(--cyan); }
+  .sub { font-size: 11px; color: var(--muted); margin: 0 0 12px; line-height: 1.4; }
+  .row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  button {
+    appearance: none; border: 1px solid #3a4448; background: #1a2024; color: var(--ink);
+    border-radius: 4px; padding: 6px 9px; font-size: 11px; cursor: pointer;
+  }
+  button:hover, button.on { border-color: var(--cyan); color: var(--cyan); }
+  button.on { background: #14302e; }
+  h2 { font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted);
+    margin: 14px 0 6px; }
+  .zones { display: grid; gap: 4px; }
+  .zones button { text-align: left; width: 100%; padding: 7px 8px; }
+  .zones button small { display: block; color: var(--muted); font-size: 10px; margin-top: 2px; font-weight: 400; }
+  .plate {
+    display: grid; grid-template-columns: 64px 1fr; gap: 7px; align-items: center;
+    margin-bottom: 6px; padding: 5px; border-radius: 4px; background: #0a0c0e; cursor: pointer;
+    border: 1px solid transparent;
+  }
+  .plate:hover { border-color: #3a4448; }
+  .plate img { width: 64px; height: 42px; object-fit: cover; border-radius: 2px; background: #000; }
+  .plate span { font-size: 10px; line-height: 1.3; color: var(--muted); }
+  .plate span b { display: block; color: var(--cyan); font-weight: 600; font-size: 11px; }
+  #hud {
+    position: absolute; left: min(376px, calc(94vw + 12px)); bottom: 12px; right: 12px;
+    pointer-events: none; font-size: 12px; color: var(--muted); z-index: 2;
+  }
+  #hud b { color: var(--cyan); }
+  #note {
+    position: absolute; right: 12px; top: 12px; max-width: 280px; font-size: 11px; line-height: 1.45;
+    color: var(--muted); background: #0e1012cc; padding: 8px 10px; border: 1px solid var(--line);
+    border-radius: 4px; z-index: 2;
+  }
+  .seq { font-size: 10px; color: var(--muted); padding: 3px 0; border-bottom: 1px solid #1a2024; }
+  .seq b { color: #b8c4bf; font-weight: 600; }
+  .filter-kind { opacity: 0.55; }
+  .filter-kind.on { opacity: 1; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<aside id="ui">
+  <h1>Lyra series atlas</h1>
+  <p class="sub">Every story location from <code>seed0001/Lyras-Movie</code> (+ local Ep3 / Nova / Juno / Solo). Drag orbit · scroll zoom · right-drag pan.</p>
+  <div class="row">
+    <button id="btnWorld" class="on">World</button>
+    <button id="btnCampus">Campus shell</button>
+    <button id="btnCut">Interiors</button>
+    <button id="btnTop">Top</button>
+  </div>
+  <div class="row">
+    <button class="filter-kind on" data-k="all">All</button>
+    <button class="filter-kind" data-k="campus">Exterior</button>
+    <button class="filter-kind" data-k="interior">Interior</button>
+    <button class="filter-kind" data-k="offsite">Off-site</button>
+  </div>
+  <h2>Sequences (README)</h2>
+  <div id="seqs"></div>
+  <h2>Jump</h2>
+  <div class="zones" id="zones"></div>
+  <h2>Plates</h2>
+  <div id="plates"></div>
+</aside>
+<div id="hud">Focus: <b id="focusName">Vira campus</b></div>
+<div id="note">14–16 halls · solar north · substation west · cooling SE · gate south</div>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.170.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.170.0/examples/jsm/"
+  }
+}
+</script>
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { CSS2DRenderer, CSS2DObject } from 'three/addons/renderers/CSS2DRenderer.js';
+import { ZONES, SEQUENCES } from './series-zones.js';
+
+const canvas = document.getElementById('c');
+const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
+renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+renderer.setSize(innerWidth, innerHeight);
+renderer.shadowMap.enabled = true;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.05;
+
+const labelRenderer = new CSS2DRenderer();
+labelRenderer.setSize(innerWidth, innerHeight);
+Object.assign(labelRenderer.domElement.style, { position: 'absolute', inset: '0', pointerEvents: 'none', zIndex: 1 });
+document.body.appendChild(labelRenderer.domElement);
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x7a92a8);
+scene.fog = new THREE.Fog(0x7a92a8, 220, 620);
+
+const camera = new THREE.PerspectiveCamera(50, innerWidth / innerHeight, 0.8, 1200);
+camera.position.set(120, 85, 140);
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.target.set(0, 6, 0);
+controls.enableDamping = true;
+controls.maxPolarAngle = Math.PI * 0.49;
+controls.minDistance = 6;
+controls.maxDistance = 500;
+
+scene.add(new THREE.HemisphereLight(0xc9d8e8, 0x6b5538, 0.9));
+const sun = new THREE.DirectionalLight(0xffe2b8, 1.4);
+sun.position.set(100, 110, 50);
+sun.castShadow = true;
+sun.shadow.mapSize.set(2048, 2048);
+const sc = sun.shadow.camera;
+Object.assign(sc, { left: -160, right: 160, top: 160, bottom: -160 });
+scene.add(sun);
+scene.add(new THREE.AmbientLight(0x3de0d0, 0.08));
+
+const M = {
+  sand: mat(0xb89563, 1),
+  asphalt: mat(0x3a3d40, 0.95),
+  white: mat(0xe8ebe9, 0.72, 0.05),
+  roof: mat(0xd0d3d1, 0.85),
+  concrete: mat(0x9aa0a4, 0.9),
+  glass: new THREE.MeshStandardMaterial({ color: 0x88b8c8, transparent: true, opacity: 0.32, metalness: 0.4, roughness: 0.1 }),
+  cyan: new THREE.MeshStandardMaterial({ color: 0x3de0d0, emissive: 0x1a8f88, emissiveIntensity: 0.9, roughness: 0.4 }),
+  steel: mat(0x5a6066, 0.35, 0.7),
+  solar: mat(0x1a3a6a, 0.25, 0.6),
+  dark: mat(0x1e2226, 0.55, 0.2),
+  yellow: mat(0xc9a12a, 0.5, 0.2),
+  booth: mat(0xb8a078, 0.85),
+  mountain: new THREE.MeshStandardMaterial({ color: 0x8a6a4e, flatShading: true, roughness: 1 }),
+  story: new THREE.MeshStandardMaterial({ color: 0x2a3a40, emissive: 0x0a3a38, emissiveIntensity: 0.4, transparent: true, opacity: 0.78, roughness: 0.5 }),
+  offsite: new THREE.MeshStandardMaterial({ color: 0x4a3a2a, emissive: 0x2a1810, emissiveIntensity: 0.25, transparent: true, opacity: 0.85, roughness: 0.6 }),
+  water: new THREE.MeshStandardMaterial({ color: 0x2a6a8a, transparent: true, opacity: 0.55, metalness: 0.3, roughness: 0.15 }),
+};
+function mat(c, r = 0.8, m = 0) {
+  return new THREE.MeshStandardMaterial({ color: c, roughness: r, metalness: m });
+}
+
+const root = new THREE.Group();
+scene.add(root);
+const G = {
+  terrain: new THREE.Group(),
+  campus: new THREE.Group(),
+  interior: new THREE.Group(),
+  offsite: new THREE.Group(),
+};
+Object.values(G).forEach(g => root.add(g));
+G.interior.visible = false;
+
+function box(w, h, d, matl, x, y, z, parent, cast = true) {
+  const mesh = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), matl);
+  mesh.position.set(x, y, z);
+  mesh.castShadow = cast;
+  mesh.receiveShadow = true;
+  parent.add(mesh);
+  return mesh;
+}
+function cyl(rT, rB, h, matl, x, y, z, parent, seg = 16) {
+  const mesh = new THREE.Mesh(new THREE.CylinderGeometry(rT, rB, h, seg), matl);
+  mesh.position.set(x, y, z);
+  mesh.castShadow = true;
+  mesh.receiveShadow = true;
+  parent.add(mesh);
+  return mesh;
+}
+function label(text, x, y, z, parent, color = '#3de0d0') {
+  const el = document.createElement('div');
+  el.textContent = text;
+  el.style.cssText = `padding:2px 6px;background:#0e1214cc;color:${color};font:600 10px/1.2 Segoe UI,sans-serif;border:1px solid #2a4a48;border-radius:3px;white-space:nowrap;`;
+  const obj = new CSS2DObject(el);
+  obj.position.set(x, y, z);
+  parent.add(obj);
+  return obj;
+}
+
+// ========== TERRAIN ==========
+const ground = new THREE.Mesh(new THREE.CircleGeometry(420, 72), M.sand);
+ground.rotation.x = -Math.PI / 2;
+ground.receiveShadow = true;
+G.terrain.add(ground);
+for (let i = 0; i < 24; i++) {
+  const a = (i / 24) * Math.PI * 2;
+  const r = 260 + (i % 4) * 22;
+  const h = 22 + (i % 6) * 12;
+  const m = box(48 + (i % 5) * 14, h, 32 + (i % 3) * 10, M.mountain, Math.cos(a) * r, h / 2, Math.sin(a) * r, G.terrain);
+  m.rotation.y = a;
+}
+// Death Valley dunes mound south
+for (let i = 0; i < 8; i++) {
+  cyl(12 + i * 2, 18 + i * 3, 4 + (i % 3) * 3, M.sand, -30 + i * 18, 2, 175 + (i % 2) * 12, G.terrain, 10);
+}
+label('DEATH VALLEY', 0, 14, 190, G.terrain, '#c4a574');
+
+// ========== CAMPUS EXTERIOR (from 05_hero_aerial: ~4×4 halls) ==========
+const pad = new THREE.Mesh(new THREE.PlaneGeometry(200, 160), M.asphalt);
+pad.rotation.x = -Math.PI / 2;
+pad.position.set(0, 0.04, 0);
+pad.receiveShadow = true;
+G.campus.add(pad);
+
+const hallW = 16, hallL = 48, hallH = 12;
+const cols = 4, rows = 4;
+const gapX = 7, gapZ = 8;
+const originX = -((cols - 1) * (hallW + gapX)) / 2;
+const originZ = -((rows - 1) * (hallL + gapZ)) / 2 - 8;
+for (let r = 0; r < rows; r++) {
+  for (let c = 0; c < cols; c++) {
+    if (r === 3 && c === 3) continue; // leave SE corner for cooling / bay
+    const x = originX + c * (hallW + gapX);
+    const z = originZ + r * (hallL + gapZ);
+    box(hallW, hallH, hallL, M.white, x, hallH / 2, z, G.campus);
+    // roof HVAC
+    for (let k = 0; k < 6; k++) {
+      box(3.5, 1.6, 5, M.steel, x + ((k % 2) ? 3 : -3), hallH + 0.8, z - hallL / 2 + 6 + k * 7, G.campus);
+    }
+    // side cooling cages
+    for (let k = 0; k < 8; k++) {
+      box(0.7, 2.4, 3, M.steel, x + hallW / 2 + 0.45, 1.3, z - hallL / 2 + 4 + k * 5.5, G.campus);
+    }
+    // pipe bridges between halls (ground-hero language)
+    if (c < cols - 1 && !(r === 3 && c === 2)) {
+      box(gapX + 1, 1.2, 2.2, M.steel, x + hallW / 2 + gapX / 2, hallH - 1, z, G.campus);
+    }
+  }
+}
+label('VIRA DATA HALLS', 0, hallH + 8, originZ, G.campus);
+
+// Solar NORTH (−Z)
+for (let r = 0; r < 8; r++) {
+  for (let c = 0; c < 18; c++) {
+    const p = box(4, 0.12, 2.4, M.solar, -50 + c * 4.6, 1.2, -105 - r * 3.4, G.campus);
+    p.rotation.x = -0.4;
+  }
+}
+label('SOLAR', 0, 5, -120, G.campus);
+
+// Substation WEST
+box(22, 5, 28, M.steel, -78, 2.5, -5, G.campus);
+for (let i = 0; i < 5; i++) box(0.45, 14, 0.45, M.steel, -88 + i * 3.5, 7, -18, G.campus);
+label('SUBSTATION', -78, 12, -5, G.campus);
+
+// Cooling towers SE
+for (let i = 0; i < 4; i++) {
+  cyl(5, 7, 16, M.concrete, 48 + (i % 2) * 14, 8, 48 + Math.floor(i / 2) * 14, G.campus, 12);
+}
+label('COOLING', 55, 18, 55, G.campus);
+
+// Fence
+function fence(x1, z1, x2, z2) {
+  const dx = x2 - x1, dz = z2 - z1, len = Math.hypot(dx, dz);
+  const m = box(len, 3.4, 0.12, M.steel, (x1 + x2) / 2, 1.7, (z1 + z2) / 2, G.campus, false);
+  m.rotation.y = -Math.atan2(dz, dx);
+}
+const FX = 95, FZ = 85;
+fence(-FX, -FZ, FX, -FZ); fence(-FX, FZ, FX, FZ);
+fence(-FX, -FZ, -FX, FZ); fence(FX, -FZ, FX, FZ);
+
+// Gate south
+box(18, 3.6, 0.3, M.steel, 0, 1.8, FZ, G.campus);
+box(5.5, 3.4, 4.5, M.booth, 16, 1.7, FZ - 5, G.campus);
+box(0.55, 1.3, 0.55, M.yellow, 11.5, 0.65, FZ - 2.5, G.campus);
+// DATA CENTER sign
+box(8, 2.2, 0.2, M.white, -22, 3, FZ - 1, G.campus);
+label('GATE / DATA CENTER', 0, 7, FZ + 3, G.campus);
+
+// Sprinkler landscape strip
+box(40, 0.15, 6, mat(0x7a7560, 1), -28, 0.12, 58, G.campus, false);
+for (let i = 0; i < 8; i++) cyl(0.15, 0.15, 0.8, M.cyan, -42 + i * 4.5, 0.5, 58, G.campus, 6);
+label('SPRINKLERS', -28, 3, 62, G.campus);
+
+// Admin / ops wing (west-south of halls)
+const wingX = -58, wingZ = 5;
+box(32, 9, 42, M.concrete, wingX, 4.5, wingZ, G.campus);
+box(30, 0.4, 40, M.roof, wingX, 9.2, wingZ, G.campus);
+label('OPS / ADMIN', wingX, 13, wingZ, G.campus);
+
+// Bay Three hangar east
+const bayX = 58, bayZ = 22;
+box(38, 15, 30, M.white, bayX, 7.5, bayZ, G.campus);
+box(0.5, 11, 18, M.dark, bayX + 19.2, 5.5, bayZ, G.campus);
+label('BAY THREE', bayX, 17, bayZ, G.campus);
+// Dunn rover block outside
+box(7, 3.2, 10, mat(0x3a4030, 0.6, 0.3), bayX + 28, 1.7, bayZ + 8, G.campus);
+for (let i = 0; i < 4; i++) cyl(0.25, 0.25, 0.2, M.cyan, bayX + 25 + i * 1.4, 2.2, bayZ + 13.2, G.campus, 8);
+label('DUNN ROVER', bayX + 28, 5, bayZ + 8, G.campus);
+
+// ========== INTERIORS (cutaway volumes) ==========
+function room(id, title, w, h, d, x, y, z, color = 0x2a3a40) {
+  const g = new THREE.Group();
+  g.position.set(x, y, z);
+  G.interior.add(g);
+  const shellMat = M.story.clone();
+  shellMat.color = new THREE.Color(color);
+  const shell = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), shellMat);
+  shell.position.y = h / 2;
+  g.add(shell);
+  const strip = new THREE.Mesh(new THREE.BoxGeometry(w * 0.96, 0.1, d * 0.96), M.cyan);
+  strip.position.y = 1.05;
+  g.add(strip);
+  label(title, 0, h + 1.1, 0, g);
+  return g;
+}
+
+room('lobby', 'Lobby doors', 11, 5, 9, wingX + 8, 0.1, wingZ + 16, 0x334048);
+room('applicants', 'Applicant hall', 14, 5, 16, wingX + 2, 0.1, wingZ + 4, 0x303840);
+// chair hints
+for (let row = 0; row < 4; row++) {
+  for (let side = 0; side < 2; side++) {
+    for (let n = 0; n < 3; n++) {
+      box(0.7, 0.9, 0.7, M.dark, wingX - 2 + side * 6 + n * 1.1, 0.55, wingZ + 8 - row * 2.2, G.interior);
+    }
+  }
+}
+room('corridor', 'Cyan corridor', 5.5, 4.4, 44, wingX - 4, 0.1, wingZ - 4, 0x2c3c42);
+room('servers', 'Server aisle', 8, 5, 24, wingX + 10, 0.1, wingZ - 8, 0x1a2228);
+for (let i = 0; i < 7; i++) {
+  box(1.3, 3.8, 2, M.dark, wingX + 7.2, 2, wingZ - 16 + i * 3.2, G.interior);
+  box(1.3, 3.8, 2, M.dark, wingX + 12.8, 2, wingZ - 16 + i * 3.2, G.interior);
+}
+room('office', 'Marcus office', 11, 4.6, 13, wingX + 20, 0.1, wingZ - 4, 0x3a342c);
+box(0.12, 3.8, 11, M.glass, wingX + 14.5, 2.1, wingZ - 4, G.interior);
+box(3.5, 1.1, 1.6, mat(0x5a3a22, 0.7), wingX + 20, 0.85, wingZ - 2, G.interior);
+room('cmd', 'Ep3 command office', 16, 5.5, 18, wingX - 14, 0.1, wingZ - 10, 0x243038);
+box(14, 3.5, 0.3, M.dark, wingX - 14, 2.5, wingZ - 18.5, G.interior); // screen wall
+room('ops', 'Projector ops', 13, 5, 13, wingX - 10, 0.1, wingZ + 12, 0x243038);
+const padRing = new THREE.Mesh(new THREE.TorusGeometry(1.7, 0.09, 8, 32), M.cyan);
+padRing.rotation.x = Math.PI / 2;
+padRing.position.set(wingX - 10, 0.16, wingZ + 12);
+G.interior.add(padRing);
+cyl(1.55, 1.55, 0.1, M.steel, wingX - 10, 0.1, wingZ + 12, G.interior, 32);
+box(1.4, 0.35, 1.8, M.dark, wingX - 6, 0.25, wingZ + 15, G.interior); // Patch bed
+room('break', 'Break room', 9, 4.2, 8, wingX + 6, 0.1, wingZ - 20, 0x3a4044);
+box(2.2, 1.6, 0.8, M.steel, wingX + 3, 1.2, wingZ - 22.5, G.interior); // coffee
+cyl(0.9, 0.9, 0.08, M.white, wingX + 7, 1.05, wingZ - 20, G.interior, 20); // table
+room('lab', 'Family / clinical lab', 12, 5, 10, wingX - 22, 0.1, wingZ + 2, 0x3a4850);
+box(4, 1.2, 1.2, M.glass, wingX - 25, 1.2, wingZ + 2, G.interior);
+room('processors', 'Processor hall', 14, 6, 40, -18, 0.1, -28, 0x1a2028);
+for (let i = 0; i < 10; i++) {
+  box(1.5, 4.5, 2.2, M.dark, -23, 2.4, -44 + i * 3.5, G.interior);
+  box(1.5, 4.5, 2.2, M.dark, -13, 2.4, -44 + i * 3.5, G.interior);
+  box(12, 0.35, 0.35, M.yellow, -18, 5.5, -44 + i * 3.5, G.interior); // yellow beams
+}
+room('memory', 'Memory wall', 8, 5.5, 28, -32, 0.1, -42, 0x121820);
+for (let i = 0; i < 8; i++) {
+  box(0.4, 4.5, 2.5, M.cyan, -35, 2.5, -52 + i * 3.2, G.interior);
+  box(0.4, 4.5, 2.5, M.cyan, -29, 2.5, -52 + i * 3.2, G.interior);
+}
+room('romance', 'Romance monitors', 10, 5, 12, -42, 0.1, -36, 0x2a2838);
+box(9, 3.5, 0.25, M.dark, -42, 2.5, -41.5, G.interior);
+room('bay3i', 'Bay Three interior', 32, 13, 26, bayX, 0.1, bayZ, 0x2a3034);
+box(5, 0.12, 5, M.cyan, bayX - 8, 0.12, bayZ - 5, G.interior);
+box(9, 3.8, 13, mat(0x3a4030, 0.55, 0.25), bayX + 4, 2, bayZ + 1, G.interior);
+
+// ========== OFF-SITE ==========
+// Marcus home
+box(10, 4, 12, M.offsite, -140, 2, 40, G.offsite);
+box(8, 3.5, 6, M.offsite, -140, 1.8, 50, G.offsite); // garage
+box(2.2, 1.4, 4.5, M.dark, -140, 0.9, 52, G.offsite); // bike
+label('MARCUS HOME', -140, 8, 40, G.offsite, '#c4a574');
+// desert road to campus
+box(6, 0.12, 120, M.asphalt, -70, 0.08, 55, G.offsite, false);
+
+// Nova villa
+box(18, 7, 14, M.offsite, 140, 3.5, -30, G.offsite);
+box(10, 0.2, 6, M.water, 140, 0.15, -42, G.offsite);
+label('NOVA VILLA', 140, 10, -30, G.offsite, '#c4a574');
+
+// Juno loft
+box(12, 8, 10, M.offsite, 110, 4, 90, G.offsite);
+box(10, 4, 8, M.offsite, 110, 2, 98, G.offsite); // workshop
+label('JUNO LOFT', 110, 11, 90, G.offsite, '#c4a574');
+
+// Solo Cyprus distant marker
+cyl(8, 10, 2, M.water, -200, 1, -160, G.offsite, 24);
+box(6, 5, 4, M.offsite, -200, 2.5, -155, G.offsite);
+label('SOLO · CYPRUS', -200, 10, -155, G.offsite, '#7ec8b8');
+
+// ========== UI ==========
+const zoneMap = Object.fromEntries(ZONES.map(z => [z.id, z]));
+const focusName = document.getElementById('focusName');
+const focusNote = document.getElementById('note');
+const zonesEl = document.getElementById('zones');
+const platesEl = document.getElementById('plates');
+const seqsEl = document.getElementById('seqs');
+let kindFilter = 'all';
+
+SEQUENCES.forEach(s => {
+  const d = document.createElement('div');
+  d.className = 'seq';
+  d.innerHTML = `<b>${s.title}</b> · ${s.prefix}`;
+  seqsEl.appendChild(d);
+});
+
+function renderLists() {
+  zonesEl.innerHTML = '';
+  platesEl.innerHTML = '';
+  ZONES.filter(z => kindFilter === 'all' || z.kind === kindFilter).forEach(z => {
+    const b = document.createElement('button');
+    b.innerHTML = `${z.title}<small>${z.seq} · ${z.plate}</small>`;
+    b.onclick = () => goTo(z.id);
+    zonesEl.appendChild(b);
+    const p = document.createElement('div');
+    p.className = 'plate';
+    p.innerHTML = `<img src="refs/${z.plate}" alt="" onerror="this.style.opacity=.2"/><span><b>${z.title}</b>${z.plate}</span>`;
+    p.onclick = () => goTo(z.id);
+    platesEl.appendChild(p);
+  });
+}
+renderLists();
+
+document.querySelectorAll('.filter-kind').forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll('.filter-kind').forEach(b => b.classList.remove('on'));
+    btn.classList.add('on');
+    kindFilter = btn.dataset.k;
+    renderLists();
+  };
+});
+
+function goTo(id) {
+  const z = zoneMap[id];
+  if (!z) return;
+  focusName.textContent = z.title;
+  focusNote.textContent = z.note || '';
+  if (z.kind === 'interior') setMode('interior');
+  else if (z.kind === 'offsite') setMode('world');
+  else if (z.kind === 'campus') setMode('campus');
+  const startPos = camera.position.clone();
+  const startTarget = controls.target.clone();
+  const endPos = new THREE.Vector3(...z.cam);
+  const endTarget = new THREE.Vector3(...z.focus);
+  let t = 0;
+  (function anim() {
+    t = Math.min(1, t + 0.035);
+    const e = t * t * (3 - 2 * t);
+    camera.position.lerpVectors(startPos, endPos, e);
+    controls.target.lerpVectors(startTarget, endTarget, e);
+    if (t < 1) requestAnimationFrame(anim);
+  })();
+}
+
+function setMode(mode) {
+  G.interior.visible = mode === 'interior' || mode === 'world';
+  G.offsite.visible = mode === 'world';
+  G.campus.visible = true;
+  G.terrain.visible = true;
+  if (mode === 'campus') {
+    G.interior.visible = false;
+  }
+  if (mode === 'interior') {
+    G.offsite.visible = false;
+  }
+  document.getElementById('btnWorld').classList.toggle('on', mode === 'world');
+  document.getElementById('btnCampus').classList.toggle('on', mode === 'campus');
+  document.getElementById('btnCut').classList.toggle('on', mode === 'interior');
+}
+document.getElementById('btnWorld').onclick = () => { setMode('world'); goTo('campus'); };
+document.getElementById('btnCampus').onclick = () => { setMode('campus'); goTo('ground'); };
+document.getElementById('btnCut').onclick = () => { setMode('interior'); goTo('corridor'); };
+document.getElementById('btnTop').onclick = () => {
+  camera.position.set(0, 220, 0.2);
+  controls.target.set(0, 0, 0);
+};
+
+setMode('world');
+
+addEventListener('resize', () => {
+  camera.aspect = innerWidth / innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth, innerHeight);
+  labelRenderer.setSize(innerWidth, innerHeight);
+});
+
+(function loop() {
+  requestAnimationFrame(loop);
+  controls.update();
+  renderer.render(scene, camera);
+  labelRenderer.render(scene, camera);
+})();
+</script>
+</body>
+</html>

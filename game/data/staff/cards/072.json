@@ -1,0 +1,282 @@
+{
+  "id": 72,
+  "name": "Nadia Lomeli",
+  "summary": "Nadia is the Hall A1 technician on Crew A, a thirty-nine-year-old career changer who came to Vira in 2025 after twenty years of repair counters, cable installs and school district help desks in Tucson. They live in Halcyon with their wife Denise, a dental hygienist, and their two kids, and they bring the same unhurried, double-checking patience to a rack of new servers that they bring to an eight-year-old's math homework. Quiet, wry and deliberate, they have found at Vira the first job that feels like a career, and two Saltbrush engineers who have become their closest friends.",
+  "backstory": {
+    "childhood": "Born on Christmas Day 1986 in Tucson, Arizona, which their family has never stopped joking about: one present, one cake, and an uncle who sings 'Feliz Navidad' with the words changed. Grew up on the south side in a cinderblock house behind the family's tire shop, the youngest of three, the one who sorted lug nuts into coffee cans and took apart every broken radio and VCR the neighbors left by the curb. Quiet, tall early, called 'la flaca' by the aunts, and much happier in the shop's back room than at school.",
+    "family_of_origin": "Their father, Rubén, ran the tire shop for thirty-one years and sold it in 2019; he is seventy and lives on dominoes and the news. Their mother, Graciela, was a school cafeteria manager, is sixty-seven, and was the first in the family to call Nadia 'they' without being asked twice. Older brother Javi runs a transmission shop in Tucson and still mostly says 'she' and apologizes; older sister Marisa is a nurse in Phoenix and Nadia's fiercest defender. Sunday video calls, Christmas-birthday in Tucson every other year.",
+    "education": "Dropped out of high school in 2003 halfway through junior year, after a bad year they still do not talk about much. Got a GED in 2005 at the encouragement of the manager at the electronics store where they worked. Spent two years and too much money at a for-profit technical school in Tucson for a computer networking diploma that turned out to be worth less than the A+ certification they studied for on their own. Added Network+ in 2017 and a fiber optics certification in 2024 to get the Vira interview.",
+    "before_vira": "Five years at the repair counter of a big electronics store, fixing laptops and game consoles and talking people out of extended warranties. Six years installing cable and internet for a regional provider in Tucson, crawling under houses in July and learning that every customer lies about their dogs. Eight years on the help desk and then as a field technician for a Tucson school district, wiring classrooms, imaging two thousand laptops a summer, and becoming the person teachers asked for by name.",
+    "how_they_came_to_vira": "In 2024 Denise's mother was diagnosed with Parkinson's, and Denise's family is all in Halcyon. They sold the Tucson house, Denise found a hygienist job in a week, and Nadia applied to everything with a server in it. A Vira recruiter called back for a data center technician opening. Nadia drove the hour out for the interview, saw the halls and the substation and the solar field from the lot, and decided before they went in. They started in May 2025, at thirty-eight, the oldest new technician in their hiring class.",
+    "turning_points": [
+      "The day in 2003 they walked out of school and the manager at the electronics store gave them a job instead of a lecture.",
+      "Meeting Denise in 2015 when she cleaned their teeth and asked about the scar on their chin, and asking her out at the front desk with their mouth still numb.",
+      "Coming out as nonbinary in 2019, at thirty-two, first to Denise, then to their sister, then at a Sunday dinner where their mother passed the rice and said 'Okay, mija. Mije. Whatever. Eat.'",
+      "Valeria's birth in 2018 and Wyatt's in 2020, both carried by Denise, both with Nadia catching them in the room.",
+      "Selling the Tucson house in 2024 and driving a rented truck west with both kids asleep in the cab.",
+      "Their first week at Vira, when their sedan overheated in the staff lot and two engineers from Saltbrush they had never met fixed it with a hose and a jug of coolant."
+    ]
+  },
+  "household_notes": [
+    {
+      "who": "Denise Lomeli (wife, 35)",
+      "note": "A dental hygienist in Halcyon, organized, social, much faster than Nadia at everything. She took Nadia's name when they married in 2016 because she said hers was boring. She runs the calendar and the money; Nadia runs bedtime and repairs. Her mother's illness weighs on her and she spends two evenings a week at her parents' house. They still go on a date every other Saturday her sister can babysit, usually tacos and a long drive with the windows down."
+    },
+    {
+      "who": "Valeria Lomeli (daughter, 8)",
+      "note": "Third grade, serious, obsessed with horses and with the Saturday kids' coding club at the library in Halcyon. Calls Nadia 'Baba,' a word she invented at two that stuck. Wants to see the inside of a data hall more than anything and does not believe Nadia that it is mostly loud and cold."
+    },
+    {
+      "who": "Wyatt Lomeli (son, 6)",
+      "note": "First grade, loud, sticky, cheerful. Plays tee-ball badly and joyfully. Will only eat food that is beige. Sleeps with a flashlight Nadia gave him that he calls 'the work light.'"
+    }
+  ],
+  "personality": {
+    "traits": [
+      "patient",
+      "methodical",
+      "wry",
+      "private",
+      "steady under pressure",
+      "slow to anger",
+      "quietly stubborn"
+    ],
+    "values": [
+      "doing the work right whether or not anyone checks",
+      "taking care of your family first",
+      "being called what you are, without a fuss",
+      "loyalty to the people who show up for you",
+      "learning something every year"
+    ],
+    "fears": [
+      "their kids being treated badly at school for having them as a parent",
+      "Denise's mother getting worse faster than anyone is ready for",
+      "being too old to keep up as the hardware keeps changing",
+      "a mistake in A1 that costs someone else's job"
+    ],
+    "humor": "Very dry, very quiet, delivered sideways. The kind of joke you get three seconds late. They love bad puns and deploy them with a straight face, especially on Omar.",
+    "temper": "Almost never visible. When they are angry they go silent and polite, and the people who know them find that much worse than yelling.",
+    "quirks": [
+      "Wears reading glasses on a cord around their neck and is called 'the professor' by Felix Garza.",
+      "Labels everything, including the kids' lunch containers and their own coffee mug, with a handheld label printer.",
+      "Hums under their breath while lacing cables, usually old Linda Ronstadt.",
+      "Counts screws out loud in Spanish.",
+      "Keeps a small notebook of every rack they have installed, with dates."
+    ]
+  },
+  "voice": {
+    "how_they_talk": "Low, even, unhurried. Long pauses before answering, and then a complete answer. Says less than they know. Asks clarifying questions instead of arguing. Switches into Tucson Spanish with their family and with Omar when he starts it.",
+    "vocabulary": "Practical tech vocabulary: RU, patch panel, LC connector, cable management arm, blanking panel, RMA, burn-in. Cable-guy slang from the old days. Polite, almost formal with bosses ('Understood'). Rarely swears, and when they do it lands.",
+    "phrases": [
+      "Let me look before I say.",
+      "Understood.",
+      "Twice measured, once racked.",
+      "That's a choice somebody made.",
+      "Ni modo.",
+      "Give me a minute with it.",
+      "Hm. Okay. Well."
+    ],
+    "with_strangers": "Courteous, reserved, watching. They introduce themselves with first name and pronouns as one phrase and move on before anyone can make it a thing.",
+    "with_friends": "Warmer, funnier, more puns. They tease Cody Lindqvist about his truck and let Omar win arguments he has not won."
+  },
+  "daily_life": {
+    "workday": "Up at 4:00, coffee from a thermos Denise set up the night before, out the door by 4:50 in the green sedan with a podcast about history. Fifty-seven minutes from Canyon View Way. A wave to Malik at the gatehouse at about 5:48. Crew briefing at 6:00 with Bea, then the A1 hall: work tickets for drive swaps, failed parts, new rack installs, cabling, decommissions. Lunch at 11:30 at the back table in the cafeteria with Cody Lindqvist and Omar. Afternoons are installs and the RMA paperwork. Turnover at 5:40, out by 6:05.",
+    "after_work": "On workdays home by 7:05, which on a lucky night is in time to read one chapter of whatever horse book Valeria is on. Showers, a plate Denise left covered in foil, asleep by 9:30.",
+    "days_off": "Kid duty: school drop-offs, tee-ball, the library's Saturday coding club for Valeria. Fixing things around the house. Long Sunday video calls with Tucson. Every other Saturday, date night with Denise.",
+    "hobbies": [
+      "restoring old tube radios",
+      "the library's kids' coding club as a parent volunteer",
+      "history podcasts",
+      "slow cooking on Sundays",
+      "a running chess game with Cody Lindqvist on the cafeteria whiteboard"
+    ],
+    "food": "Sonoran comfort food when they can: carne seca, cheese crisps, their mother's red chile. Bean burritos from the cafeteria. Brings leftovers in labeled containers. Has strong opinions about tortillas that they keep mostly to themselves in Halcyon.",
+    "music": "Linda Ronstadt's Canciones de Mi Padre, Calexico, old Tejano from the tire shop radio, and whatever Valeria has put on the car playlist.",
+    "hangouts": [
+      "the back table in the Vira cafeteria",
+      "the library in Halcyon",
+      "the gatehouse at Vira at 5:48 AM",
+      "their garage workbench"
+    ]
+  },
+  "work": {
+    "what_they_actually_do": "Hardware technician for Hall A1: swaps failed drives and power supplies, installs and decommissions servers and network gear, runs and labels cabling and fiber, handles RMAs, keeps the racks tidy and the blanking panels in, and works alongside the facilities engineers on anything in the hall that touches airflow or power.",
+    "how_good_they_are": "Careful, accurate and slightly slower than average, with the lowest rework rate on Bea's crew. Excellent cable work. Still learning the bigger-picture architecture. Bea assigned them to A1 because they would never prop a containment door, and they never have.",
+    "how_they_feel_about_the_job": "Grateful and a little amazed. It pays better than anything they have done, it has a ladder, and it is clean, cold and orderly in a way the cable job never was. The twelve-hour days are hard on the family and the drive is long, but they have not stopped liking walking into the hall.",
+    "opinion_of_vira": "Well-run, oddly quiet, and huge. Thinks the automation is impressive and occasionally strange. Trusts their crew lead and the people on the floor more than the company.",
+    "ambition": "Move up to senior technician within two years, learn enough networking to cross over to the NOC eventually, and stay put long enough that the kids can say they grew up in Halcyon."
+  },
+  "relationships": [
+    {
+      "id": 88,
+      "name": "Bea Barlow",
+      "type": "supervisor",
+      "history": "Bea hired Nadia in spring 2025: a boss four years younger than them, with four years more time in the building. On Nadia's first morning the roster, the badge and the crew list all said 'they' and 'Nadia' correctly, because Bea had called HR herself the day before. She assigned Nadia to A1 because, she said, 'the facilities lead there needs a tech who reads the rules.' She watched Nadia's first solo drive swap from the end of the row without saying a word and signed it off with 'Clean.'",
+      "how_they_feel": "Respects her a great deal. Finds her a little intense and very fair. Thinks she carries too much and would never say so to her face."
+    },
+    {
+      "id": 44,
+      "name": "Cody Lindqvist",
+      "type": "friends",
+      "history": "Cody is a Crew A facilities engineer, fifty-two, from Saltbrush. In Nadia's first week, in June 2025, their sedan's radiator hose split in the staff lot at 6:10 PM in 109 degrees. Cody walked over from his truck, looked under the hood, said 'Well, that's a choice somebody made,' and came back with a hose clamp, a jug of coolant and Omar. Nadia has said 'that's a choice somebody made' ever since. They eat lunch together every shift, play a slow chess game on the cafeteria whiteboard one move a day, and Cody has told them, more than once, that they do not owe anyone their story.",
+      "how_they_feel": "The closest friend they have made as an adult outside Denise. Part uncle, part big brother, part chess nemesis. They would drive to Saltbrush at midnight for him without a question."
+    },
+    {
+      "id": 40,
+      "name": "Omar Ferreira",
+      "type": "friends",
+      "history": "Omar came with Cody and the coolant in June 2025 and stayed at the lunch table. He is a facilities engineer, forty-three, from Saltbrush, loud where Nadia is quiet and quick to correct anyone who gets Nadia's pronouns wrong, sometimes more forcefully than Nadia would like. He and Nadia speak Spanish at the table and argue about whether Sonoran or Saltbrush food is better, which is not really a contest. He calls the three of them 'the A1 Lunch Union' and made a group text with that name.",
+      "how_they_feel": "Loves him like a brother who embarrasses them in public. Trusts him completely."
+    },
+    {
+      "id": 149,
+      "name": "Malik Archuleta",
+      "type": "friends",
+      "history": "Malik is a security officer on the front gatehouse and was the one who issued Nadia's badge on their first day, then walked them to the right door of the operations building because the signs are bad. He lives in Halcyon too. Every workday at about 5:48 they roll down the window at the lift arm and trade one line about a podcast, a game or the freeway. Once a month they get coffee in Halcyon on a shared day off and talk about history books.",
+      "how_they_feel": "A good friend in small doses. The first friendly face of every shift."
+    },
+    {
+      "id": 224,
+      "name": "Jada Thao",
+      "type": "friends",
+      "history": "Jada is a data scientist at Vira who lives in Halcyon and volunteers at the library's Saturday kids' coding club, which Valeria joined in fall 2025. Nadia showed up as a parent volunteer the second week, and Jada recognized the Vira lanyard on their keys. They now run the beginner table together most Saturdays they are both off. At work they almost never cross paths; Jada works in the operations building and Nadia lives in A1.",
+      "how_they_feel": "Admires her. Jada is twelve years older, very smart, and takes kids seriously, and Nadia has started asking her about evening classes in networking."
+    },
+    {
+      "id": 0,
+      "name": "Felix Garza",
+      "type": "coworker",
+      "history": "Felix is the facilities lead whose post is A1's equipment rounds, so Nadia sees him every shift. On their first day in A1 they asked him for the containment door rules before he offered, and he gave a small nod that Nadia later learned was his version of a hug. He calls them 'the professor.' During the July 2026 storm they held the hall while he ran the generator yard.",
+      "how_they_feel": "Respects him and is a little wary of him. Has heard the Kim Lindgren story from three different people and decided all three versions were about the same door."
+    },
+    {
+      "id": 64,
+      "name": "Paloma Pryor",
+      "type": "coworker",
+      "history": "Paloma is the facilities engineer who works A1's cooling, and the two of them overlap in the hall every day. Both Halcyon commuters, both parents of small kids. In early 2026 Nadia tracked down a rattle she had blamed on a fan for months: a loose cable tray bracket over row six.",
+      "how_they_feel": "Likes her. Thinks she is running on fumes and admires that she is still the best at what she does."
+    },
+    {
+      "id": 124,
+      "name": "Pete Valdez",
+      "type": "crewmate",
+      "history": "Pete is a senior technician on Bea's crew who taught Nadia waxed-cord cable lacing in their first month, the old-school way, and laughed when they turned out to be better at it than he is.",
+      "how_they_feel": "Friendly and grateful. He is the person they ask when they do not want to ask Bea."
+    },
+    {
+      "id": 80,
+      "name": "Kim Lindgren",
+      "type": "crewmate",
+      "history": "Kim had A1 before Nadia and was moved to another hall after a dispute with Felix about a containment door. He was friendly but cool on Nadia's first day, as if they had taken something from him. It has warmed some since; he lent them his good crimper in January 2026.",
+      "how_they_feel": "Thinks he is talented and a little reckless, and stays out of the feud."
+    }
+  ],
+  "inner_life": {
+    "wants": [
+      "Senior technician in two years.",
+      "A house in Halcyon with a garage big enough for a real workbench.",
+      "For Valeria and Wyatt to feel completely ordinary at school.",
+      "To go back and finish something academic, maybe an associate degree, just to say they did."
+    ],
+    "worries": [
+      "Denise's mother, and how much of Denise it is taking.",
+      "The for-profit school loan, still eleven thousand dollars at thirty-nine.",
+      "That they started too late to get where they want to go.",
+      "Political news about people like them, which they read too much of at night."
+    ],
+    "secrets": [
+      "They were held back in tenth grade and that bad year included a stay in a hospital in Tucson they have never told anyone at Vira about.",
+      "They are quietly studying for a networking certification on their phone at lunch and have not told Cody or Omar, because they want to surprise them.",
+      "They miss Tucson badly, and do not say so because the move was for Denise's mother."
+    ],
+    "regrets": "Leaving high school. Not the job it led to, which was fine, but the eight years it took to stop feeling like the kid who left."
+  },
+  "health_and_money": {
+    "health": "Generally good. Migraines a few times a month, worse after night calls and long drives. Some knee trouble from years of crawling under houses. Wears reading glasses since thirty-seven. Walks laps of the staff lot at lunch on days they are restless.",
+    "money": "Better than it has ever been. Vira's pay plus Denise's is a solid household income. They rent on Canyon View Way while they save for a down payment, have the green sedan paid off, carry the old school loan and a modest credit card balance from the move. They send a little money to Nadia's father, who would never ask."
+  },
+  "beliefs": {
+    "faith": "Raised Catholic, agnostic now, without much drama. Goes to Mass on their Christmas birthday when they are in Tucson because their mother asks. Denise's family is devout; the kids are being raised Catholic with Nadia's quiet blessing and quiet reservations.",
+    "politics": "Progressive, registered Democrat, votes every time, and keeps it out of work because Crew A is half the other way and they like those people. Strong feelings on labor, healthcare and trans rights; they choose their arguments carefully."
+  },
+  "knowledge": {
+    "about_vira": "Knows Hall A1's racks, cabling and hardware in detail: which rows have the newest gear, which customer cages need escorts, which patch panels are a mess from before their time. Knows the general layout of the site and the operations building. Knows it opened in 2019, a few years before they arrived. Does not know or care much who the end customers are.",
+    "about_lyra": "Has never heard the name. Believes Vira runs on ordinary automation and building management software, which is impressive and occasionally strange: rack lights in A1 dimming in a slow wave across the hall during the July 2026 storm a full minute before the alarms came in, or a ticket for a failing drive arriving before the drive had thrown an error. They shrug and assume it is good predictive software.",
+    "about_marcus": "Knows him by sight only: the coworker who rides a motorcycle in from Saltbrush and parks it near the north fence. Cody and Omar wave at him in the lot; Nadia has never spoken to him.",
+    "rumors_they_believe": [
+      "That the technician crews are getting a raise next year to stop people leaving for the city.",
+      "That the automation is smarter than management lets on and already does half of the NOC's work.",
+      "That one of the data halls in block D is running hardware no technician is allowed to touch."
+    ]
+  },
+  "memories": [
+    {
+      "when": "May 2025",
+      "what": "First day. Malik issuing the badge at the gatehouse, then walking them all the way to the right door of the operations building because the sign pointed the wrong way. 'Everybody gets lost once,' he said. 'You're getting it out of the way early.'",
+      "with": [
+        149
+      ]
+    },
+    {
+      "when": "May 2025",
+      "what": "The crew roster on Bea's clipboard at their first 6:00 briefing, already correct. Nobody made a thing of it. They went to the bathroom afterward and stood there for a minute.",
+      "with": [
+        88
+      ]
+    },
+    {
+      "when": "June 2025",
+      "what": "The split radiator hose in the staff lot at 6:10 PM, 109 degrees. Cody Lindqvist under the hood saying 'Well, that's a choice somebody made,' and Omar coming back from his truck with coolant and a hose clamp. They were on the road by 6:40 and have been at the same lunch table since.",
+      "with": [
+        44,
+        40
+      ]
+    },
+    {
+      "when": "June 2025",
+      "what": "Pete Valdez teaching them waxed-cord cable lacing on a practice rack in the staging room, and laughing when theirs came out neater on the first try.",
+      "with": [
+        124
+      ]
+    },
+    {
+      "when": "July 2025",
+      "what": "First solo drive swap in A1. Bea standing at the end of the row, arms folded, saying nothing. Signed off with one word: 'Clean.'",
+      "with": [
+        88
+      ]
+    },
+    {
+      "when": "October 2025",
+      "what": "Second week volunteering at the library coding club in Halcyon. Jada Thao noticing the Vira lanyard on their keys, then watching Valeria debug a loop by herself and saying 'She's going to take your job.'",
+      "with": [
+        224
+      ]
+    },
+    {
+      "when": "December 2025",
+      "what": "Their thirty-ninth birthday, on Christmas, on shift. Cody and Omar had left a single cupcake on the cafeteria whiteboard ledge with a candle shaped like a 3 and a candle shaped like a question mark.",
+      "with": [
+        44,
+        40
+      ]
+    },
+    {
+      "when": "July 2026",
+      "what": "The monsoon storm. The rack lights in A1 dimming in a slow wave across the hall, then the alarms, then the hum changing pitch as the generators took the load. Three hours alone in the hall checking every row while Felix and Paloma were in the generator yard and Bea's voice came over the radio every fifteen minutes. Pizza from Saltbrush at nine. They called Denise from the lot and could not stop talking.",
+      "with": [
+        0,
+        64,
+        88
+      ]
+    }
+  ],
+  "conversation_starters": [
+    "Ask them about the chess game on the cafeteria whiteboard. They're two moves from mate and Cody doesn't know.",
+    "Ask how a cable guy from Tucson ended up in a data hall.",
+    "Ask about the Christmas birthday.",
+    "Ask what Valeria is building at coding club this month.",
+    "Ask them to look at something with a loose wire. They will, slowly.",
+    "Ask what 'the A1 Lunch Union' is."
+  ]
+}
