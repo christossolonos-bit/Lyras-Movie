@@ -76,7 +76,7 @@ SHOTS = {
         action="Nova looks past camera at the stairwell going down into the dark and asks her question, uneasy and curious. " + LOCK + RED + NOVA +
                " Nobody else ever appears.",
         lines=[Line("Nova", "uneasy and curious, looking at the stairwell", "Where does that go?")]),
-    "H11": dict(who=["James"], director="SPIELBERG", duration=5, framing="upper_body", location=CORE, first=FRAMES / "H2_james_corridor_frame_v1.png",
+    "H11": dict(who=["James"], director="SPIELBERG", duration=5, framing="upper_body", location=CORE, first=FRAMES / "H11_james_core_room_frame_v1.png",
         beat="Not yet", engine="care",
         action="James does not look at the stairwell. He keeps his eyes ahead and answers flat and final. " + LOCK + RED + JAMES + " Nobody else ever appears.",
         lines=[Line("James", "flat and final, not looking", "Not tonight.")]),

@@ -4,7 +4,7 @@
 Demucs splits the clip's sound into voice and background first. Only the voice is converted; the background
 (engine, room tone, footsteps) plays on untouched underneath, so nothing drops out while someone talks.
 """
-import subprocess, sys
+import os, subprocess, sys
 import numpy as np, soundfile as sf
 from chatterbox.vc import ChatterboxVC
 from faster_whisper import WhisperModel
@@ -32,7 +32,7 @@ n = min(len(voice), len(bed)); voice, bed = voice[:n], bed[:n]
 
 # 2. find the line on the voice stem
 vwav = work / f"{clip.stem}_vocals.wav"; sf.write(vwav, voice, SR)
-words = [w for s in WhisperModel("small.en", device="cuda", compute_type="float16").transcribe(str(vwav), word_timestamps=True)[0] for w in s.words]
+words = [w for s in WhisperModel("small.en", device=os.environ.get("WHISPER_DEVICE", "cuda"), compute_type="float16" if os.environ.get("WHISPER_DEVICE", "cuda") == "cuda" else "int8").transcribe(str(vwav), word_timestamps=True)[0] for w in s.words]
 a, b = max(0, words[0].start - 0.15), min(n / SR, words[-1].end + 0.25)
 seg = voice[int(a * SR):int(b * SR)]
 sf.write(work / f"{clip.stem}_line.wav", seg, SR)
